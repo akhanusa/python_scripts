@@ -1,0 +1,80 @@
+#!/usr/bin/python
+
+import os
+import re
+
+devlist = dict()
+lastdev = "" 
+lastlist = dict()
+indexdict = {} 
+Active = True
+
+devicesFile = open("/etc/device_profile", "r")
+
+def SearchDevice():
+   devlist = {}
+   devicesFile.seek(0)
+   try:
+     input = raw_input("Please enter full/partial name of a device (or type q to quit):")
+     input = input.strip()
+     if input:
+        if input is "q":
+           exit()  
+        for line in devicesFile:
+          if line.strip():
+            if re.search(input,line.split("~")[1].strip(),re.IGNORECASE):
+               devlist[line.split("~")[1]] = line.split("~")[0]
+   except:
+     exit()
+   return devlist
+
+
+
+while Active:
+   
+   devlist = SearchDevice()
+
+
+   print "============================================================="
+   print "============= Please choose a device ========================"
+   print "============================================================="
+
+   if len(devlist) < 2 and len(devlist) > 0:
+      try:
+         command = 'ssh ' + devlist.values()[0] 
+         if os.system(command) != 0:
+            raise Exception
+      except Exception:
+         command = 'telnet ' + devlist.values()[0] 
+         os.system(command)
+         exit() 
+   elif len(devlist) < 1:
+      print " No device found!!! "
+      exit()
+   else:
+      index = 1
+      for dev in devlist:
+         indexdict[index] = devlist[dev]
+         print '(' + str(index) + ') ' + " " + dev + " : " + devlist[dev]
+         index += 1
+
+      try:
+         a = raw_input("Please select a number (or type r to restart or q to quit):")
+         b = a.strip()
+         if b is "q":
+            exit()
+         elif b is "r":
+            pass
+         else:
+            Active = False
+            try:
+               command = 'ssh ' + indexdict[int(b)] 
+               if os.system(command) != 0:
+                  raise Exception
+            except Exception:
+               command = 'telnet ' + indexdict[int(b)] 
+               os.system(command)
+      except:
+         exit()
+  
+devicesFile.close()

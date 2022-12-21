@@ -1,0 +1,1458 @@
+
+
+
+
+
+10.254.0.5~TOAG-NTS-NDC-C10-COR01~Cisco~WS-C6506-E~Canada~ON~Agincourt~None~NTS Core~SAL114249H2~None
+10.125.81.7~QC-NET-TECR-R2-S01~Cisco~WS-C3650-48PS~Canada~QC~Quebec City~MPLS Quebec~Network~FDO2009E1WS~None
+10.91.196.254~CHIC-NET-ITRM-R2-M01~Cisco~WS-C3650-48PS~Canada~QC~Chicoutimi Radio~MPLS Quebec~Network~FDO2009Q0L7~None
+10.91.127.234~OAK-NET-UTIL-R1-M01~Cisco~WS-C3650-48PS-E~Canada~ON~Dome Oakville~MPLS Dome~Network~FDO2110E253~None
+10.91.204.254~SHER-NET-ENGR-R2-M01~Cisco~WS-C3650-48PS~Canada~QC~Sherbrooke Radio~MPLS Quebec~Network~FDO2009Q0LK~15.0(2)SE6
+10.123.14.188~DEV-DAL-GK1~Windows~Windows 2012 R2 Server~Canada~ON~Agincourt~Agincourt Homed~DHCP~None~None
+10.124.130.30~BAR-GK1~Windows~Windows 2012 R2 Server~Canada~ON~Barrie~None~DHCP~None~None
+10.125.162.31~HAL-GK2~Windows~Windows 2012 R2 Server~Canada~None~Halifax~Halifax-Homed~DHCP~None~None
+10.125.40.129~RDS-GK2~Windows~Windows 2012 R2 Server~Canada~QC~1755~Montreal-Homed~DHCP~None~None
+10.122.130.31~VAN-GK2~Windows~Windows 2012 R2 Server~Canada~None~Vancouver~Vancouver Homed~DHCP~None~None
+10.6.40.31~CTV-GK2~Windows~Windows 2012 R2 Server~Canada~ON~Agincourt~Agincourt Homed~DHCP~None~None
+10.254.0.32~HA-CER3-R13-M01~Cisco~WS-C4507R-E~Canada~NS~Halifax~Halifax-Homed~Network~FXS1639Q19C~None
+10.144.16.42~HA-NET-PNK-RKA-S02~Cisco~Cisco Catalyst 3560-G48TS~Canada~NS~Halifax~Halifax-Homed~Network~None~None
+10.144.16.80~HAITSVRS01~Cisco~WS-C3560G-24PS-S~Canada~NS~Halifax~Halifax-Homed~Network~FOC1230Y2H7~None
+10.144.16.38~HA-NET-PCER-R08-S02~Cisco~WS-C3550-24PWR-SMI~Canada~NS~Halifax~Halifax-Homed~Network~CAT0727R243~None
+10.144.16.41~HA-NET-PNK-RKA-S01~Cisco~WS-C3560X-48P-S~Canada~NS~Halifax~Halifax-Homed~Network~FDO1916H05F~None
+10.144.16.37~HATV-IT-PINKMDC-SW07~Cisco~WS-C2950-24~Canada~NS~Halifax~Halifax-Homed~Network~FOC0908X15M~None
+172.25.44.12~HA-ENG-B9-SW03~Cisco~WS-C3560X-48PF-L~Canada~NS~Halifax~Halifax-Homed~Network~FDO1530Z0R4~None
+10.147.16.10~MN-NET-CER-R4-S01~Cisco~WS-C3560G-48TS-S~Canada~None~Moncton~Halifax-Homed~Network~FOC1232Y3KD~None
+172.25.32.5~HATV-ENG-SONETCJCH-SW01~Cisco~WS-C3560-24TS-S~Canada~NS~Halifax~Halifax-Homed~Network~CAT0931N1MS~None
+10.144.16.50~HATV-ENG-GFX-SW01~Cisco~Cisco Catalyst 355024~Canada~NS~Halifax~Halifax-Homed~Network~None~None
+10.144.16.15~HA-IT-CER3-R7-S01~Cisco~WS-C2960-48TT-L~Canada~NS~Halifax~Halifax-Homed~Network~FOC1125Z5R5~None
+10.254.0.189~HAL-NEXX-RKC8-M01~Cisco~MIDPLANE~Canada~NS~Halifax~Halifax-Homed~Nexxio~JAE15480GVB~None
+10.254.0.190~HAL-NEXX-RKC8-M02~Cisco~MIDPLANE~Canada~None~Halifax~Halifax-Homed~Nexxio~JAE15480GZ5~None
+10.144.16.12~HA-NET-NEWS-A05-S01~Cisco~WS-C3560G-48PS-S~Canada~NS~Halifax~Halifax-Homed~Network~FOC1204Y1RV~None
+10.144.16.10~HA-SWRM-R2-SW01~Cisco~WS-C4507R~Canada~NS~Halifax~Halifax-Homed~Network~FOX104709AQ~None
+10.144.16.70~HATV-IT-CER-SW04~Cisco~WS-C3550-24~Canada~None~Halifax~Halifax-Homed~Network~CAT0833N3M5~None
+10.254.252.180~SY-NET-SVR-R1-M01~Cisco~WS-C3560G-48PS-S~Canada~NS~Sydney~Halifax-Homed~Network~FOC1037Y17L~None
+10.144.16.81~HATV-IT-CER-SW05~Cisco~WS-C3550-24PWR-SMI~Canada~NS~Halifax~Halifax-Homed~Network~CAT0747X19E~None
+10.144.16.202~HA-ER-R01-RA01~Cisco~WS-C3560X-24P-S~Canada~NS~Halifax~Halifax-Homed~WAN~FDO1639Y0DP~None
+10.144.16.203~HA-ER-R02-RB01~Cisco~WS-C3560X-24P-S~Canada~NS~Halifax~Halifax-Homed~WAN~FDO1601K06G~None
+10.144.16.200~HA-WAN-CER2-R1-TA03~Arista Networks~DCS-7124SX~Canada~NS~Halifax~Halifax-Homed~WAN~JPE12320364~None
+10.144.16.201~HA-WAN-CER2-R2-TB03~Arista Networks~DCS-7124SX~Canada~NS~Halifax~Halifax-Homed~WAN~JPE12110175~None
+10.150.16.50~SY-VID-SVR-R2-RB01~Cisco~WS-C3560X-24T-S~Canada~NS~Sydney~Halifax-Homed~WAN~FDO1743Z0FW~None
+10.150.16.13~SY-NET-SVR-R1-S02~Cisco~WS-C3560-24PS-S~Canada~NS~Sydney~Halifax-Homed~Network~FDO1150Y0GL~None
+10.144.16.225~HA-xx-xx-UPS01~American Power Conversion Corp.~SMARTUPS2~Canada~NS~Halifax~Halifax-Homed~Network~None~None
+10.254.0.27~HATV-WAN-CER2-R01-JB02~Juniper Networks, Inc.~Juniper MX40-T Internet Backbone Router~Canada~NS~Halifax~Halifax-Homed~WAN~B8685~None
+10.254.0.41~HATV-WAN-CER2-R01-JA01~Juniper Networks, Inc.~Juniper MX40-T Internet Backbone Router~Canada~NS~Halifax~Halifax-Homed~WAN~B8683~None
+10.150.16.51~SY-WAN-SVR-R2-TB02~Arista Networks~DCS-7050T-52~Canada~NS~Sydney~Halifax-Homed~WAN~JPE14041442~None
+172.25.48.100~SY-SER-02-MRV01~Unknown~Unknown~Canada~NS~Sydney~Halifax-Homed~MRV~None~None
+10.91.212.254~ROUY-NET-TECR-R3-M02~Cisco~WS-C3650-48PS~Canada~PQ~Rouyn Radio~MPLS Quebec~Network~FDO2009E1WT~None
+10.91.214.10~ROUY-NET-TECR-R3-S01~Cisco~WS-C3650-48PS~Canada~PQ~Rouyn Radio~MPLS Quebec~Network~FDO2009Q0KW~None
+10.91.214.11~ROUY-NET-TECR-R3-S04~Cisco~WS-C3650-48PS~Canada~PQ~Rouyn Radio~MPLS Quebec~Network~FDO2009Q0LE~None
+10.200.168.2~MIR-NET-RR-R1-M02~Cisco~WS-C3650-24PD-S~Canada~ON~Midland Radio~VPN Connected~Network~FDO2137E07S~None
+10.200.169.5~MIR-NET-RR-R1-S03~Cisco~WS-C3650-24PD-S~Canada~ON~Midland Radio~VPN Connected~Network~FDO2141E1E0~None
+10.254.0.49~FR-CER-R1-M01~Cisco~WS-C3560G-24TS-S~Canada~NB~Fredericton~Halifax-Homed~Network~FOC1207Y1J1~None
+10.128.192.254~FRDR-NET-SVRM-R4-M01~Cisco~WS-C3560X-48PF-S~Canada~PEI~Fredericton~Halifax-Homed~Network~FDO1547P1S0~None
+10.128.193.10~FRDR-NET-SRVM-R4-S02~Cisco~WS-C3560X-48P-L~Canada~PEI~Fredericton~Halifax-Homed~Network~FDO1804Z0VK~None
+172.25.112.101~FR-CER-03-MRV01~Unknown~Unknown~Canada~PEI~Fredericton~Halifax-Homed~Network~None~None
+172.25.112.51~FR-CER-R01-RB01~Cisco~WS-C3560X-24T-S~Canada~PEI~Fredericton~Halifax-Homed~WAN~FDO1650R04D~None
+172.25.112.52~FR-CER-R01-TB01~Arista Networks~DCS-7050T-52~Canada~PEI~Fredericton~Halifax-Homed~WAN~JPE14041437~None
+10.128.199.254~BATH-NET-R1-S01~Cisco~WS-C3560X-24P-S~Canada~NB~Bathurst Radio~Halifax-Homed~Network~FDO1916H1QV~None
+10.128.199.69~BATH-NET-R1-S02~Cisco~WS-C3560X-24P-L~Canada~NB~Bathurst Radio~Halifax-Homed~Network~FDO1916H1QZ~None
+10.128.198.254~GRFA-PRTRM-R1-M01~Cisco~WS-C3560X-24P-S~Canada~NS~Grand Falls Radio~Halifax-Homed~Network~FDO1916P1WW~None
+10.254.0.24~SJ-CER-R01-M01~Cisco~WS-C3560X-48PF-S~Canada~NB~St John~Halifax-Homed~Network~FDO1650P2TJ~None
+10.146.16.50~SJ-CER-R01-RB01~Cisco~WS-C3560G-24TS-S~Canada~NB~St John~Halifax-Homed~Network~FOC1036Z18H~None
+10.146.16.51~SJ-CER-R01-TB01~Arista Networks~DCS-7048T-A~Canada~NB~St John~Halifax-Homed~WAN~JPE12480874~None
+172.25.96.100~172.25.96.100~Unknown~Unknown~Canada~NB~St John~Halifax-Homed~Network~None~None
+10.128.197.254~TRUR-NET-R1-M01~Cisco~WS-C3560X-24P-S~Canada~NS~Truro Radio~Halifax-Homed~Network~FDO1916H1R1~None
+10.128.197.69~TRUR-NET-R1-S02~Cisco~WS-C3560X-48P-S~Canada~NS~Truro Radio~Halifax-Homed~Network~FDO1923F1CT~None
+10.128.196.254~WDSK-NET-RR-R1-M02~Cisco~WS-C3560X-24P-S~Canada~NB~Woodstock Radio~Halifax-Homed~Network~FDO1602K0UD~None
+10.128.196.69~WDSK-NET-RR-R1-S01~Cisco~WS-C3560X-24P-L~Canada~NB~Woodstock Radio~Halifax-Homed~Network~FDO1916P1VQ~None
+10.254.0.211~OTT-NET-CER-R22-M01~Cisco~WS-C4507R-E~Canada~ON~Ottawa Station~Montreal-Homed~Network~FOX1319G3LU~None
+172.25.128.100~OT-CER-24-MRV01~Unknown~Unknown~Canada~ON~Ottawa Station~Montreal-Homed~Network~None~None
+10.135.16.51~OT-ER-R23-RA01~Cisco~WS-C3560X-24P-S~Canada~ON~Ottawa Station~Montreal-Homed~WAN~FDO1449K2AL~None
+10.135.16.10~OTT-NET-CER-R22-S02~Cisco~WS-C3560G-48TS-S~Canada~ON~Ottawa Station~Montreal-Homed~Network~FOC1232W5JL~None
+10.135.16.11~OTITCL5SW01~Cisco~WS-C3560G-48TS-S~Canada~ON~Ottawa Station~Montreal-Homed~Network~FOC1232Z24G~None
+10.135.16.14~OTTA-IT-ZONE1-SW01~Cisco~WS-C3560G-48TS-S~Canada~ON~Ottawa Station~Montreal-Homed~Network~FOC1232W5HH~None
+10.125.148.9~OTT-NET-Z3-R1-S02~Cisco~WS-C3560G-48PS-S~Canada~ON~Ottawa Station~Montreal-Homed~Network~FOC1229Y0KK~None
+10.135.16.41~OTTA-IT-ZONE4-SW01~Cisco~WS-C3560G-48TS-S~Canada~ON~Ottawa Station~Montreal-Homed~Network~FOC1232Y3P0~None
+10.135.16.52~OT-ER-R23-RB01~Cisco~WS-C3560X-24P-S~Canada~ON~Ottawa Station~Montreal-Homed~Video Network~FDO1448K0QZ~None
+10.135.16.70~OTT-NET-CER-R10-S01~Arista Networks~DCS-7050TX-64~Canada~ON~Ottawa Station~Montreal-Homed~Network~JPE16063016~None
+10.135.16.71~OTTA-NET-CER-R10-S02~Arista Networks~DCS-7050TX-64~Canada~ON~Ottawa Station~Montreal-Homed~Network~JPE16063019~None
+10.135.16.122~OTT-IT-CER-R22-ILO-SW1~Cisco~WS-C3560-48TS-S~Canada~ON~Ottawa Station~Montreal-Homed~Network~CAT1031RJPL~None
+10.135.16.151~OTT-NET-CER-R51-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Ottawa Station~Montreal-Homed~Network~FOC1244W17B~None
+10.135.16.152~OTT-NET-CER-R51-S02~Cisco~WS-C3560G-48PS-S~Canada~ON~Ottawa Station~Montreal-Homed~Network~FOC1005Y0HA~None
+10.254.0.142~OTTA-WAN-CER-R22-JA01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Ottawa Station~Montreal-Homed~WAN~B8803~None
+10.254.0.143~OTTA-WAN-CER-R22-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Ottawa Station~Montreal-Homed~WAN~B8720~None
+172.25.128.5~OTT-NET-CER-R24-S03~Cisco~WS-C3560G-24TS-S~Canada~ON~Ottawa Station~Montreal-Homed~Network~FOC1129Z7UA~None
+172.25.128.7~OTT-NET-CER-R24-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Ottawa Station~Montreal-Homed~Network~FOC1349Z1TZ~None
+172.25.128.50~OTT-NTS-CER58-SW01~Cisco~WS-C3560X-48T-L~Canada~ON~Ottawa Station~Montreal-Homed~Network~FDO1609Z09E~None
+172.25.128.51~OTT-NTS-CER58-SW02~Cisco~WS-C3560X-48PF-L~Canada~ON~Ottawa Station~Montreal-Homed~Network~FDO1511Z0FE~None
+172.25.128.53~OT-NET-HDR-R66-S01~Cisco~WS-C3560X-48P-S~Canada~ON~Ottawa Station~Montreal-Homed~Network~FDO1440K17Y~None
+172.25.128.54~OT-NET-HDR-R66-S02~Cisco~WS-C3560X-48PF-L~Canada~ON~Ottawa Station~Montreal-Homed~Network~FDO1511Z04F~None
+10.125.8.42~1755-WAN-SRV31-R4-TB01~Arista Networks~DCS-7124SX~Canada~PQ~1755~Montreal-Homed~WAN~JPE12320377~None
+10.125.8.41~1755-WAN-SRV31-R5-TA01~Arista Networks~DCS-7124SX~Canada~PQ~1755~Montreal-Homed~WAN~JPE12331040~None
+10.128.157.1~PEM-NET-RRM-R1-M02~Cisco~WS-C3560X-48P-S~Canada~ON~Pembroke Radio~Montreal-Homed~Network~FDO1916H05V~None
+10.128.157.2~PEM-NET-RRM-R1-S02~Cisco~WS-C3560X-48T-S~Canada~ON~Pembroke Radio~Montreal-Homed~Network~FDO1919F29Y~None
+10.131.16.52~OB-ER-R18-RA01~Cisco~WS-C3560X-24P-S~Canada~ON~Ottawa Bureau~Montreal-Homed~Video Network~FDO1448K0RW~None
+10.131.16.53~OB-ER-R18-RB01~Cisco~WS-C3560X-24P-S~Canada~ON~Ottawa Bureau~Montreal-Homed~Video Network~FDO1443Z0NM~None
+10.131.16.225~OB-CER-17-UPS01~American Power Conversion Corp.~SMARTUPS2~Canada~ON~Ottawa Bureau~Montreal-Homed~Network~None~None
+10.254.0.69~OTTB-WAN-CER-R13-JA01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Ottawa Bureau~Montreal-Homed~WAN~B8811~None
+10.254.0.70~OTTB-WAN-CER-R13-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Ottawa Bureau~Montreal-Homed~WAN~B8807~None
+10.254.0.200~OTB-NEX-R18-M01~Cisco~MIDPLANE~Canada~ON~Ottawa Bureau~Montreal-Homed~Nexxio~JAE14350220~None
+10.254.0.201~OTB-NEX-R18-M02~Cisco~MIDPLANE~Canada~ON~Ottawa Bureau~Montreal-Homed~Nexxio~JAE1341L01L~None
+172.25.16.5~OB-NET-CER-R18-S01~Cisco~WS-C3560G-48TS-S~Canada~ON~Ottawa Bureau~Montreal-Homed~Network~FOC1223Z085~None
+172.25.16.55~OTTN-ENG-NPT-SW01~Cisco~WS-C3560G-48PS-S~Canada~ON~Ottawa Press Theatre~Montreal-Homed~Network~FOC1005Y0H7~None
+172.25.16.100~OB-CER-18-MRV01~Unknown~Unknown~Canada~ON~Ottawa Bureau~Montreal-Homed~Network~None~None
+172.25.16.101~OTTN-NPT-MRV01~Unknown~Unknown~Canada~ON~Ottawa Press Theatre~Montreal-Homed~Network~None~None
+10.200.16.1~AMOS-VPN-ASA5512~Cisco~Cisco ASA 5512-X~Canada~PQ~Amos Radio~VPN Connected~Network~None~None
+10.200.14.1~AMQU-VPN-ASA5512~Cisco~ASA5512~Canada~PQ~Amqui Radio~VPN Connected~Network~FGL180440Y5~None
+10.200.14.64~3Com Baseline Switch~Unknown~Unknown~Canada~PQ~Amqui Radio~VPN Connected~Network~None~None
+10.36.16.51~BA-CER4-R3-RA01~Cisco~WS-C3560X-24P-S~Canada~ON~Barrie~Agincourt Homed~Video Network~FDO1637V08R~None
+10.36.16.52~BA-CER4-R3-RB01~Cisco~WS-C3560X-24P-S~Canada~ON~Barrie~Agincourt Homed~Video Network~FDO1525R0TM~None
+10.36.16.54~BA-CER4-R3-TB01~Arista Networks~DCS-7020SR-24C2~Canada~ON~Barrie~Agincourt Homed~WAN~JPE19230661~None
+10.36.16.101~BA-NET-CER4-R3-S03~Cisco~WS-C3560G-48TS-S~Canada~ON~Barrie~Agincourt Homed~Network~FOC1250W27N~None
+10.36.16.102~BA-NET-CER4-R3-S04~Cisco~WS-C3560G-48PS-S~Canada~ON~Barrie~Agincourt Homed~Network~FOC1343Y0RE~None
+10.36.16.127~BA-NET-CX-R2-S02~Cisco~WS-C3560G-48PS-S~Canada~ON~Barrie~Agincourt Homed~Network~FOC1218W2MQ~None
+10.254.0.30~BA-NET-CER4-R1-M01~Cisco~WS-C4507R-E~Canada~ON~Barrie~Agincourt Homed~Network~FXS1639Q17H~None
+10.254.0.59~BA-NEX-CER4-RK2-M01~Cisco~MIDPLANE~Canada~ON~Barrie~Agincourt Homed~ISIS~JAE160607FR~None
+10.254.0.60~BA-NEXB-CER4-R3-M07~Cisco~MIDPLANE~Canada~ON~Barrie~Agincourt Homed~ISIS~JAE152103IJ~None
+10.254.0.144~BA-WAN-CER4-R2-JA01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Barrie~Agincourt Homed~WAN~B8754~None
+10.254.0.145~BA-WAN-CER4-R2-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Barrie~Agincourt Homed~WAN~B8801~None
+172.22.224.6~BATV-ENG-XMIT-SW01~Cisco~WS-C2960G-24TC-L~Canada~ON~Barrie~Agincourt Homed~Network~FOC1507V5E4~None
+172.22.224.50~BA-CER4-07-UPS01~American Power Conversion Corp.~smartUPS 1500~Canada~ON~Barrie~Agincourt Homed~Network~None~None
+172.22.224.100~BA-CER4-03-MRV01~Unknown~Unknown~Canada~ON~Barrie~Agincourt Homed~Network~None~None
+10.1.16.200~AG-NER-S04-TA01~Arista Networks~DCS-7150S-52-CL~Canada~ON~Agincourt~Agincourt Homed~WAN~JPE13400357~None
+10.1.16.201~AG-NER-S04-TB01~Arista Networks~DCS-7150S-52-CL~Canada~ON~Agincourt~Agincourt Homed~WAN~JPE13400348~None
+10.60.16.6~SU-NET-ENGRRM-C2-S02~Cisco~WS-C3560G-24TS-S~Canada~ON~Sudbury~Agincourt Homed~Network~FOC0948Y3LY~None
+10.60.16.70~SU-NET-DR2-R1-S01~Arista Networks~DCS-7050TX-64~Canada~ON~Sudbury~Agincourt Homed~Network~JPE15413187~None
+10.60.16.71~SU-NET-DR2-R2-S02~Arista Networks~DCS-7050TX-64~Canada~ON~Sudbury~Agincourt Homed~Network~JPE15413450~None
+10.60.16.101~SUTV-IT-INEWS-SW01~Cisco~WS-C3560G-24TS-S~Canada~ON~Sudbury~Agincourt Homed~Network~FOC1207Y1LG~None
+10.60.16.102~SUTV-IT-INEWS-SW02~Cisco~WS-C3560G-24TS-S~Canada~ON~Sudbury~Agincourt Homed~Network~FOC1207Y1H0~None
+10.60.16.201~SU-ER-C03-RA01~Cisco~WS-C3560X-24P-S~Canada~ON~Sudbury~Agincourt Homed~Video Network~FDO1525R0TA~None
+10.60.16.202~SU-ER-C03-RB01~Cisco~WS-C3560X-24P-S~Canada~ON~Sudbury~Agincourt Homed~Video Network~FDO1525R0T9~None
+10.254.0.16~SU-MSR-R02-M01~Cisco~WS-C4507R-E~Canada~ON~Sudbury~Agincourt Homed~Network~FXS1639Q199~None
+10.254.0.137~SUTV-NTS-MDC-CME01~Cisco~CISCO3825~Canada~ON~Sudbury~Agincourt Homed~Network~FHK1051F2NX~None
+10.254.0.146~SUTV-WAN-ER-C03-JA01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Sudbury~Agincourt Homed~WAN~B8751~None
+10.254.0.147~SUTV-WAN-ER-C03-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Sudbury~Agincourt Homed~WAN~B8797~None
+172.22.48.5~SU-NET-ENGRRM-C2-S03~Cisco~WS-C3560G-24TS-S~Canada~ON~Sudbury~Agincourt Homed~Network~FOC1403Y2YJ~None
+172.22.48.6~SUTV-ENG-CER-SW02~Cisco~WS-C3650-24PS~Canada~ON~Sudbury~Agincourt Homed~Network~FDO2033E289~None
+172.22.48.7~SUTV-ENG-DR-SW01~Cisco~WS-C3560X-48P-S~Canada~ON~Sudbury~Agincourt Homed~Network~FDO1718H28W~None
+172.22.48.100~172.22.48.100~Unknown~Unknown~Canada~ON~Sudbury~Agincourt Homed~Network~None~None
+10.91.198.10~CHIC-NET-ITRM-R2-S02~Cisco~WS-C3650-48PS~Canada~QC~Chicoutimi Radio~MPLS Quebec~Network~FDO1932E11Y~None
+10.91.198.11~CHIC-NET-ITRM-R2-S03~Cisco~WS-C3650-24PS~Canada~QC~Chicoutimi Radio~MPLS Quebec~Network~FDO1849E0A3~None
+10.57.16.11~KITV-NET-ILOMGT-SW01~Cisco~WS-C2950G-24-EI~Canada~ON~Kitchener~Agincourt Homed~Network~FOC0909Z22W~None
+10.57.16.12~KITV-ENG-SVR2NDFLR-SW01~Cisco~WS-C3560G-48PS-S~Canada~ON~Kitchener~Agincourt Homed~Network~FOC1225W7K9~None
+10.57.16.30~KITV-TWR-SW01~Cisco~WS-C3560G-24TS-S~Canada~ON~Kitchener~Agincourt Homed~Network~FOC1403Y334~None
+10.57.16.50~KI-ER-RKN-TA01~Arista Networks~DCS-7124SX~Canada~ON~Kitchener~Agincourt Homed~WAN~JPE12341168~None
+10.57.16.51~KI-ER-RKN-RA01~Cisco~WS-C3560X-24P-S~Canada~ON~Kitchener~Agincourt Homed~Video Network~FDO1637V07U~None
+10.57.16.52~KI-ER-RKN-RB01~Cisco~WS-C3560X-24P-S~Canada~ON~Kitchener~Agincourt Homed~Network~FDO1637V081~None
+10.57.16.53~KI-ER-RKN-TB01~Arista Networks~DCS-7124SX~Canada~ON~Kitchener~Agincourt Homed~WAN~JPE12320299~None
+10.57.16.54~KI-SL-CER-R24-SPINE1~Arista Networks~DCS-7280SR-48C6~Canada~ON~Kitchener~Spine&Leaf EIP~Engineering~SSJ17173760~None
+10.57.16.55~KI-SL-CER-R25-SPINE2~Arista Networks~DCS-7280SR-48C6~Canada~ON~Kitchener~Spine&Leaf Agincourt~Engineering~SSJ17173764~None
+10.57.16.101~KITV-IT-INEWS-SW01~Cisco~WS-C3560G-24TS-S~Canada~ON~Kitchener~Agincourt Homed~Network~FOC1207Y1JL~None
+10.57.16.102~KITV-IT-INEWS-SW02~Cisco~WS-C3560G-24TS-S~Canada~ON~Kitchener~Agincourt Homed~Network~FOC1207Y1HT~None
+10.254.0.77~KITV-NET-CER-R31-M01~Cisco~WS-C4507R-E~Canada~ON~Kitchener~Agincourt Homed~Network~FXS1639Q19E~None
+10.254.0.87~KITV-WAN-ER-RKN-JA01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Kitchener~Agincourt Homed~WAN~B8792~None
+10.254.0.88~KITV-WAN-ER-RKN-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Kitchener~Agincourt Homed~WAN~B8789~None
+172.22.16.19~WAN UPS KITCHENER~Unknown~Unknown~Canada~ON~Kitchener~Agincourt Homed~Network~None~None
+10.254.0.82~KT-CER-D10-M01~Cisco~MIDPLANE~Canada~ON~Kitchener~Agincourt Homed~Nexxio~JAE1609082W~None
+10.254.0.83~KT-CER-D10-M02~Cisco~MIDPLANE~Canada~ON~Kitchener~Agincourt Homed~Nexxio~JAE160607GC~None
+172.22.16.100~KI-CER-15-MRV01~Unknown~Unknown~Canada~ON~Kitchener~Agincourt Homed~Network~None~None
+10.57.0.34~KIR-NET-ESHP-R7-M01~Cisco~WS-C3560G-48TS-S~Canada~ON~Kitchener Radio~Agincourt Homed~Network~FOC1232Y3R2~None
+10.192.19.5~KIR-AXIA-ESHP-R1-S01~Cisco~WS-C3560G-24TS-S~Canada~ON~Kitchener Radio~Agincourt Homed~Network~FOC1117Z7AS~None
+172.21.1.7~AG-ENG-AER-RE3-S02~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SMC1344008U~None
+10.14.18.16~QSWS11_QU-IT-1ST299-R2-S01.on.bell.ca~Cisco~WS-C4507R+E~Canada~Ontario~Queen~Agincourt Homed~IT Distribution~FXS1632Q01K~None
+10.59.16.21~LO-NET-NEWSEB-R1-S02~Cisco~WS-C3560G-48TS-S~Canada~ON~London~Agincourt Homed~Network~FOC1225W02Y~None
+10.59.16.22~LO-NET-CER-R411-S01~Cisco~WS-C3560G-24TS-E~Canada~ON~London~Agincourt Homed~Network~FOC1247W3EZ~None
+10.59.16.36~LO-NET-NEX-R2-S01~Cisco~WS-C3560-24TS-S~Canada~ON~London~Agincourt Homed~Network~FDO1202X1HZ~None
+10.59.16.41~LO-NET-TRAFH-R1-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~London~Agincourt Homed~Network~FOC1518Z0EW~None
+10.59.16.44~LO-NET-NWSCTL-R1-S01~Cisco~WS-C3650-48PS~Canada~ON~London~Agincourt Homed~Network~FDO1931E26A~None
+10.59.16.43~LO-NET-TRFW-R1-S01.CTV.ca~Cisco~WS-C3560G-48PS-S~Canada~ON~London~Agincourt Homed~Network~FOC1349Z1T8~None
+10.59.16.61~LO-NET-AVI-R1-S01~Cisco~WS-C3550-48-SMI~Canada~ON~London~Agincourt Homed~Network~CAT0832Y1LG~None
+10.59.16.70~LO-NET-NEXX-R1-S01~Arista Networks~DCS-7050TX-64~Canada~ON~London~Agincourt Homed~Network~JPE15413307~None
+10.59.16.71~LO-NET-NEXX-R2-S02~Arista Networks~DCS-7050TX-64~Canada~ON~London~Agincourt Homed~Network~JPE15413344~None
+10.59.16.101~LO-SRV-INEWS-01~Cisco~WS-C3560G-48PS-S~Canada~ON~London~Agincourt Homed~Network~FOC1343Y0RG~None
+10.59.16.102~LO-SRV-INEWS-02~Cisco~WS-C3560G-48PS-S~Canada~ON~London~Agincourt Homed~Network~FOC1243W4PV~None
+10.59.16.103~LO-NET-SRV-R509-S01~Cisco~WS-C3560X-48P-L~Canada~ON~London~Agincourt Homed~Network~FDO1732R33Y~None
+10.59.16.200~LO-CER-502-TA01~Arista Networks~DCS-7124SX~Canada~ON~London~Agincourt Homed~WAN~JPE12320376~None
+10.59.16.201~LO-CER-502-RA01~Cisco~WS-C3560X-24P-S~Canada~ON~London~Agincourt Homed~Video Network~FDO1637V08B~None
+10.59.16.202~LO-CER-502-RB01~Cisco~WS-C3560X-24P-S~Canada~ON~London~Agincourt Homed~Video Network~FDO1637V082~None
+10.59.16.203~LO-CER-502-TB01~Arista Networks~DCS-7124SX~Canada~ON~London~Agincourt Homed~WAN~JSH11460026~None
+10.59.16.225~LO-ER-01-UPS01~American Power Conversion Corp.~SMARTUPS2~Canada~ON~London~Agincourt Homed~Network~None~None
+10.254.0.50~LOTV-WAN-CER-502-JA01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~London~Agincourt Homed~WAN~B8727~None
+10.254.0.51~LOTV-WAN-CER-502-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~London~Agincourt Homed~WAN~B8802~None
+10.254.0.136~LO-NET-SRV-R1-M01~Cisco~WS-C4507R-E~Canada~ON~London~Agincourt Homed~Network~FOX1504GDJS~None
+172.22.240.6~LO-NET-TX-R1-S01~Cisco~WS-C2960G-24TC-L~Canada~ON~London~Agincourt Homed~Network~FOC1509V03R~None
+172.22.240.100~LOTV-CER-R109-MRV~Unknown~Unknown~Canada~ON~London~Agincourt Homed~Network~None~None
+10.91.248.254~DAWS-NET-RRRM-R3-M01~Cisco~WS-C3650-48PS-S~Canada~BC~Dawson Creek Radio~MPLS BCI~Network~FDO1941E37H~None
+10.91.250.10~DAWS-NET-TVRR-R3-S01~Cisco~WS-C3650-48PS~Canada~BC~Dawson Creek Radio~MPLS BCI~Network~FDO1851E1WK~03.06.04.E
+10.91.250.11~DAWS-NET-RRRM-R1-S02~Cisco~WS-C3650-48PS~Canada~BC~Dawson Creek Radio~MPLS BCI~Network~FDO1851E0X4~03.06.04.E
+10.91.208.254~DRUM-NET-R1-M01~Cisco~WS-C3650-48PS~Canada~QC~Drummondville Radio~MPLS Quebec~Network~FDO2009Q0LF~15.0(2)SE6
+10.91.210.10~DRUM-NET-R1-S02~Cisco~WS-C3650-48PS~Canada~QC~Drummondville Radio~MPLS Quebec~Network~FDO2009Q0LH~None
+10.91.210.11~DRUM-NET-R1-S03~Cisco~WS-C3650-48PS~Canada~QC~Drummondville Radio~MPLS Quebec~Network~FDO2009Q0L9~None
+10.91.224.254~GAT-NET-TECR-R8-M01~Cisco~WS-C3650-48PS~Canada~QC~Gatineau Radio~MPLS Quebec~Network~FDO2009E1WU~12.2(55)SE5
+10.91.226.10~GAT-NET-TECR-R8-S02~Cisco~WS-C3650-48PS~Canada~QC~Gatineau Radio~MPLS Quebec~Network~FDO1938E0ZU~None
+10.91.226.11~GAT-NET-TECR-R8-S03~Cisco~WS-C3650-48PS~Canada~QC~Gatineau Radio~MPLS Quebec~Network~FDO2009Q0L3~None
+10.91.226.12~GAT-NET-TECR-R8-S04~Cisco~WS-C3650-48PS~Canada~QC~Gatineau Radio~MPLS Quebec~Network~FDO2009E1U6~None
+10.125.81.8~QC-NET-TECR-R2-S02~Cisco~WS-C3650-48PS~Canada~QC~Quebec City~MPLS Quebec~Network~FDO1931P1GH~None
+10.125.81.9~QC-NET-TECR-R2-S03~Cisco~WS-C3650-48PS~Canada~QC~Quebec City~MPLS Quebec~Network~FDO1913E39P~None
+10.125.81.10~QC-NET-TECR-R2-S04~Cisco~WS-C3650-48PS~Canada~QC~Quebec City~MPLS Quebec~Network~FDO1932E2ZY~None
+10.91.192.254~RIMO-NET-TECR-R2-M04~Cisco~WS-C3650-48PS-S~Canada~QC~Rimouski Radio~MPLS Quebec~Network~FDO1925P0GF~03.07.01E
+10.91.194.10~RIMO-NET-TECR-R2-S03~Cisco~WS-C3650-48PS~Canada~QC~Rimouski Radio~MPLS Quebec~Network~FDO1931P1HW~None
+10.91.194.11~RIMO-NET-TECR-R2-S02~Cisco~WS-C3650-48PS~Canada~QC~Rimouski Radio~MPLS Quebec~Network~FDO1931E1W1~None
+10.91.194.12~RIMO-NET-TECR-R2-S01~Cisco~WS-C3650-48PS~Canada~QC~Rimouski Radio~MPLS Quebec~Network~FDO1931E1SP~None
+10.91.194.13~RIMO-NET-TECR-R1-S01~Cisco~WS-C3650-24PS~Canada~QC~Rimouski Radio~MPLS Quebec~Network~FDO1922E222~None
+10.91.206.10~SHER-NET-ENGR-R2-S02~Cisco~WS-C3650-48PS~Canada~QC~Sherbrooke Radio~MPLS Quebec~Network~FDO2008E1PY~None
+10.91.206.11~SHER-NET-ENGR-R2-S03~Cisco~WS-C3650-48PS~Canada~QC~Sherbrooke Radio~MPLS Quebec~Network~FDO1851E0WT~None
+10.91.206.12~SHER-NET-ENGR-R2-S04~Cisco~WS-C3650-48PS~Canada~QC~Sherbrooke Radio~MPLS Quebec~Network~FDO2009E1U7~None
+10.91.200.254~STHY-NET-TECR-R1-M03~Cisco~WS-C3650-48PS-S~Canada~QC~St Hyacinthe Radio~MPLS Quebec~Network~FDO1925E065~03.07.01E
+10.91.202.10~STHY-NET-TECR-R1-S01~Cisco~WS-C3650-48PS~Canada~QC~St Hyacinthe Radio~MPLS Quebec~Network~FDO1937E11M~None
+10.91.228.254~STJE-NET-TECH-R4-M02~Cisco~WS-C3650-48PS~Canada~QC~St Jean Radio~MPLS Quebec~Network~FDO2009E1W7~15.0(2)SE6
+10.91.230.10~STJE-NET-TECH-R4-S01~Cisco~WS-C3650-48PS~Canada~QC~St Jean Radio~MPLS Quebec~Network~FDO1934E1L9~None
+10.91.230.11~STJE-NET-CONF-R0-S01~Cisco~WS-C3650-24PS~Canada~QC~St Jean Radio~MPLS Quebec~Network~FDO2007E1Q1~None
+10.91.216.254~VALD-NET-TECR-R2-M01~Cisco~WS-C3650-48PS-S~Canada~QC~Val d'Or Radio~MPLS Quebec~Network~FDO1925P0GQ~03.07.01E
+10.91.218.10~VALD-NET-RECR-R2-S02~Cisco~Cisco Catalyst 3650-48PS-E~Canada~QC~Val d'Or Radio~MPLS Quebec~Network~None~None
+10.91.218.11~VALD-NET-TECR-R2-S03~Cisco~WS-C3650-24PS~Canada~QC~Val d'Or Radio~MPLS Quebec~Network~FDO1931P0K9~None
+10.91.220.254~TRRI-NET-R1-M01~Cisco~WS-C3650-48PS-S~Canada~QC~Trois-Rivieres Radio~MPLS Quebec~Network~FDO1926E0NY~03.07.01E
+10.91.222.10~TRRI-NET-R1-S02~Cisco~WS-C3650-48PS~Canada~QC~Trois-Rivieres Radio~MPLS Quebec~Network~FDO2009Q0LG~None
+10.91.222.11~TRRI-NET-R1-S03~Cisco~WS-C3650-48PS~Canada~QC~Trois-Rivieres Radio~MPLS Quebec~Network~FDO2009Q0LP~None
+10.91.222.12~TRRI-NET-R1-S04~Cisco~WS-C3650-24PS~Canada~QC~Trois-Rivieres Radio~MPLS Quebec~Network~FDO1927E27S~None
+10.13.100.1~FNL-VPN-ASA5512~Cisco~ASA5512~Canada~BC~Fort Nelson Radio~VPN Connected~Network~FGL18494167~None
+10.91.180.254~FSJR-NET-RERM-R1-M03~Cisco~WS-C3650-48PS-S~Canada~BC~Fort St John Radio~MPLS BCI~Network~FDO1925P0GK~03.07.01E
+10.91.181.10~FSJR-NET-RERM-R1-S02~Cisco~WS-C3650-48PS~Canada~BC~Fort St John Radio~MPLS BCI~Network~FDO1932E30A~03.06.04.E
+10.91.132.254~GOLD-NET-R1-M01~Cisco~WS-C3650-24PS-S~Canada~BC~Golden Radio~MPLS BCI~Network~FDO1928E1X9~03.07.01E
+10.91.133.10~GOLD-NET-R1-S02~Cisco~WS-C3650-24PS~Canada~BC~Golden Radio~MPLS BCI~Network~FDO1918E1DA~03.06.04.E
+10.91.188.254~HAMI-NET-R1-M01~Cisco~WS-C3650-48PS~Canada~ON~Hamilton Radio~MPLS Central~Network~FDO2009E1WK~03.06.04.E
+10.91.190.10~HAMI-NET-R1-S02~Cisco~WS-C3650-48PS~Canada~ON~Hamilton Radio~MPLS Central~Network~FDO2009E1WW~03.06.04.E
+10.91.190.11~HAMI-NET-R1-S03~Cisco~WS-C3650-48PS~Canada~ON~Hamilton Radio~MPLS Central~Network~FDO2009E1WC~03.06.04.E
+10.91.190.12~HAMI-NET-R1-S04~Cisco~WS-C3650-48PS~Canada~ON~Hamilton Radio~MPLS Central~Network~FDO2009Q0LJ~03.06.04.E
+10.91.190.13~HAMI-NET-R1-S05~Cisco~WS-C3650-24PS~Canada~ON~Hamilton Radio~MPLS Central~Network~FDO2005Q14W~03.06.04.E
+10.91.190.14~HAMI-NET-R1-S06~Cisco~WS-C3650-24PS~Canada~ON~Hamilton Radio~MPLS Central~Network~FDO1952Q140~03.06.04.E
+10.91.190.15~HAMI-NET-R1-S07~Cisco~WS-C3560CX-12PC-S~Canada~ON~Hamilton Radio~MPLS Central~Network~FOC1936W1KY~15.2(4)E1
+10.91.190.16~HAMR-NET-OCST-R1-S01~Cisco~WS-C3560CX-12PC-S~Canada~ON~Hamilton Radio~MPLS Central~Network~FOC1946Y2VX~15.2(4)E1
+10.91.190.17~HAMI-NET-R1-S09~Cisco~WS-C3560CX-12PC-S~Canada~ON~Hamilton Radio~MPLS Central~Network~FOC1947Z5FS~15.2(4)E1
+10.91.190.18~HAMI-NET-R1-S10~Cisco~WS-C3560CX-12PC-S~Canada~ON~Hamilton Radio~MPLS Central~Network~FOC1947Z5FR~15.2(4)E1
+10.91.190.19~HAMI-NET-R1-S11~Cisco~WS-C3560CX-12PC-S~Canada~ON~Hamilton Radio~MPLS Central~Network~FOC2029Z30X~None
+10.56.16.10~WN-NET-CER-R5-S04~Cisco~WS-C3560X-48P-L~Canada~ON~Windsor~Agincourt Homed~Network~FDO1526R1ML~None
+10.56.16.11~WN-NET-CER-R4-S04~Cisco~WS-C3560X-48P-S~Canada~ON~Windsor~Agincourt Homed~Network~FDO1625R00W~None
+10.56.16.50~WN-WAN-CER-R5-TA01~Arista Networks~DCS-7124SX~Canada~ON~Windsor~Agincourt Homed~WAN~JSH11200459~None
+10.56.16.51~WN-VID-CER-R5-RA01~Cisco~WS-C3560X-24P-S~Canada~ON~Windsor~Agincourt Homed~Video Network~FDO1524P223~None
+10.56.16.52~WN-VID-CER-R4-RB02~Cisco~WS-C3560X-24P-S~Canada~ON~Windsor~Agincourt Homed~Video Network~FDO1531K036~None
+10.56.16.53~WN-WAN-CER-R4-TB01~Arista Networks~DCS-7124SX~Canada~ON~Windsor~Agincourt Homed~WAN~JPE12320235~None
+10.56.16.100~WN-CER-04-MRV01~Unknown~Unknown~Canada~ON~Windsor~Agincourt Homed~Network~None~None
+10.254.0.56~WN-NET-CER-R5-M03~Cisco~MIDPLANE~Canada~ON~Windsor~Agincourt Homed~Network~JAE1341L02D~None
+10.254.0.57~WN-NET-CER-R4-M03~Cisco~MIDPLANE~Canada~ON~Windsor~Agincourt Homed~Network~JAE15420779~None
+10.254.0.108~WNTV-WAN-CER-R05-JA01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Windsor~Agincourt Homed~WAN~B8795~None
+10.254.0.109~WNTV-WAN-CER-R05-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~ON~Windsor~Agincourt Homed~WAN~B8790~None
+10.124.107.7~XMITCHWI-60-SW01~Cisco~WS-C2960G-24TC-L~Canada~ON~Windsor Victoria Park XMT~Agincourt Homed~Network~FOC1436Z6NW~None
+10.14.18.17~QSWS12_QU-IT-1ST299-R2-S02.on.bell.ca~Cisco~WS-C4507R-E~Canada~ON~Queen~Agincourt Homed~IT Distribution~FOX1233GT0F~None
+10.91.144.254~KELR-NET-SECR-R3-M01~Cisco~WS-C3650-48PS-S~Canada~BC~Kelowna Radio~MPLS BCI~Network~FDO1925E061~03.07.01E
+10.91.146.10~KELR-NET-SECR-R3-S02~Cisco~WS-C3650-48PS~Canada~BC~Kelowna Radio~MPLS BCI~Network~FDO1931E1W2~03.06.04.E
+10.14.18.31~QSWS21_QU-IT-2ND299-R2-S01.on.bell.ca~Cisco~WS-C4507R+E~Canada~ON~Queen~Agincourt Homed~IT Distribution~FXS1650Q260~None
+10.14.18.32~QSWS22_QU-IT-2ND299-R2-S02.on.bell.ca~Cisco~WS-C4507R-E~Canada~ON~Queen~Agincourt Homed~IT Distribution~FOX1346GVNX~None
+10.1.0.241~1755-ENG-SE21-R15-SPINE1~Arista Networks~DCS-7508~Canada~ON~1755~None~Green ENG~HSH15075032~None
+10.1.0.242~1755-ENG-SE11-R8-SPINE2~Arista Networks~DCS-7508~Canada~PQ~1755~Montreal-Homed~Green ENG~HSH15075028~None
+10.125.8.40~MTL-VSS-Astral~Cisco~  ~Canada~PQ~1755~Montreal-Homed~WAN~JAE17340B0R~None
+10.1.10.254~FGMTL01~Fortinet, Inc.~FortiGate 310B~Canada~PQ~1717~Montreal-Homed~Legacy Astral~None~None
+10.46.252.65~RELV01~Cisco~  ~Canada~PQ~1717~Montreal-Homed~IT Astral~JAE16210B7N~None
+10.46.252.66~RLES01mt~Cisco~WS-C4506-E~Canada~PQ~1717~Montreal-Homed~IT Astral~SPE15490205~None
+10.46.252.69~RLES11mt~Cisco~WS-C4506-E~Canada~PQ~1717~Montreal-Homed~IT Astral~SPE154901YW~None
+10.46.252.70~RLES21mt~Cisco~WS-C4506-E~Canada~PQ~1717~Montreal-Homed~IT Astral~FOX1520GGFG~None
+10.46.252.72~RLES41mt~Cisco~WS-C4506-E~Canada~PQ~1717~Montreal-Homed~IT Astral~SPE154600R3~None
+10.48.254.1~3750A-1717-RCmt~Cisco~WS-C3750G-12S-E~Canada~PQ~1717~Astral~Legacy Astral~FDO1442Y0ED~None
+10.48.254.2~3750B-1717-RCmt~Cisco~WS-C3750G-24TS-S~Canada~PQ~1717~Astral~Legacy Astral~CAT1015Z5TM~None
+10.48.254.3~3750XA-1717-RCmt~Cisco~WS-C3750X-48T-S~Canada~PQ~1717~Montreal-Homed~Legacy Astral~FDO1524P0B8~None
+10.125.63.5~1717-SALLE23-R1-SPINE1~Arista Networks~DCS-7280SE-64~Canada~PQ~1717~Montreal-Homed~Spine/Leaf~JPE14475001~None
+10.125.63.6~1717-SALLE23-R2-SPINE2~Arista Networks~DCS-7280SE-64~Canada~PQ~1717~Montreal-Homed~Spine/Leaf~JPE14463349~None
+10.125.116.66~1717-RC-1-MRV01~Unknown~Unknown~Canada~PQ~1717~Montreal-Homed~Engineering~None~None
+10.254.0.126~RLVV3A_managed_by_ICN~Unknown~WS-C6506-E~Canada~PQ~1755~Montreal-Homed~ICN Managed~SAL1529K2W2~None
+10.254.0.128~MTL-SVR31-R5-M01~Cisco~WS-C6506-E~Canada~PQ~1755~Montreal-Homed~Engineering~SAL13431VEH~None
+172.24.1.23~MTL-RC-33-ENS01~Cisco~WS-C4510R-E~Canada~PQ~1755~Montreal-Homed~Engineering~SPE114801B0~None
+172.24.1.24~MTL-BELL1-01ENS01~Cisco~WS-C3560G-48PS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1343Y0PV~None
+172.24.1.25~MTL-RC32-ENS01~Cisco~WS-C4510R~Canada~PQ~1755~Montreal-Homed~Engineering~FOX094417NB~None
+172.24.1.26~MTL-SE21-R2-ENS01~Cisco~WS-C4507R-E~Canada~PQ~1755~Montreal-Homed~Engineering~FOX1244GQU2~None
+172.24.1.30~1755-RC-R22-S01~Cisco~WS-C3560G-24TS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1207Y1J3~None
+172.24.1.37~MTL-SE21-2ENS03~Cisco~WS-C3560G-48PS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1005Y0K9~None
+172.24.1.41~MTL-RC-46ENS01~Cisco~WS-C3560G-48PS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1341Z0ZV~None
+172.24.1.42~MONR-ENG-3rdFlrRDS-SW02~Cisco~WS-C3560X-48P-L~Canada~PQ~1755~Montreal-Homed~Engineering~FDO1545V0FY~None
+172.24.1.43~MTL-SE21-2ENS01~Cisco~WS-C3560G-48PS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1422W13Z~None
+172.24.1.45~MTL-BELLR1-ENS02~Cisco~WS-C3560G-48PS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1521Y1P2~None
+172.24.1.48~MTL-RC-60ENS01~Cisco~WS-C3560G-48PS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1102ZB4Q~None
+172.24.1.49~MTL-RC-60ENS02~Cisco~WS-C3560G-48PS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1310Z4P9~None
+172.24.1.79~MTL-RC-10ENS01~Cisco~WS-C3560G-48TS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1338Z2EH~None
+172.24.1.81~1755-SE21-R02-RA01~Cisco~MIDPLANE~Canada~PQ~1755~Montreal-Homed~Video Network~JAE155201AO~None
+172.24.1.82~1755-SE21-R02-RB01~Cisco~MIDPLANE~Canada~PQ~1755~Montreal-Homed~Video Network~JAE153702F1~None
+172.24.1.101~MTL-CER-E9S01~Cisco~WS-C3560G-48PS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1517W14J~None
+172.24.1.102~MTL-CER-E9S02~Cisco~WS-C3560G-48PS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1321Y05V~None
+172.24.1.105~MTL-BELLR1-ENS03~Cisco~WS-C3560G-48PS-S~Canada~PQ~1755~Montreal-Homed~Engineering~FOC1140Y3VE~None
+172.24.1.210~1755-ENG-RC-R39-S01~Cisco~WS-C3560X-48T-S~Canada~PQ~1755~Montreal-Homed~Engineering~FDO1816P2WU~None
+172.24.1.211~1755-BellCtr-CER-R1-S01~Cisco~WS-C3560X-24T-S~Canada~PQ~1755~Montreal-Homed~Engineering~FDO1816Z09P~None
+172.24.1.252~MO-TIME1~Symmetricom~Symmetricom SyncServer S200~Canada~PQ~1755~Montreal-Homed~Engineering~None~None
+10.1.0.248~MONR-ICN-srv31-R17-JR12~Juniper Networks, Inc.~Juniper MX40-T Internet Backbone Router~Canada~PQ~1755~Montreal-Homed~WAN~T9713~None
+10.10.127.243~1755-TVE-RC-66-M01~Arista Networks~DCS-7048T-A~Canada~PQ~1755~Montreal-Homed~DMZ~JPE12490470~None
+10.10.127.244~1755-TVE-RC-66-M02~Arista Networks~DCS-7048T-A~Canada~PQ~1755~Agincourt Homed~DMZ~JPE12490462~None
+10.46.253.17~MTL07SW0301~Cisco~  ~Canada~PQ~1755~Montreal-Homed~WAN~JAE17340B5J~None
+10.125.8.19~1755-ENG-RC-R55-L02~Arista Networks~DCS-7308~Canada~PQ~1755~Montreal-Homed~Green ENG~HSH16165055~None
+10.125.8.11~1755-ENG-RC-R50-S01~Arista Networks~DCS-7010T-48~Canada~PQ~1755~Montreal-Homed~Green ENG~SSJ16311034~None
+10.91.146.11~KELR-NET-SECR-R3-S03~Cisco~WS-C3650-48PS~Canada~BC~Kelowna Radio~MPLS BCI~Network~FDO1913E3C6~03.06.04.E
+10.91.146.12~KELR-NET-SECR-R3-S04~Cisco~WS-C3650-48PS~Canada~BC~Kelowna Radio~MPLS BCI~Network~FDO1943Q0PW~03.06.04.E
+10.91.146.13~KELR-NET-BKRM-R1-S01~Cisco~WS-C3650-48PS~Canada~BC~Kelowna Radio~MPLS BCI~Network~FDO1931P1FA~03.06.04.E
+10.91.146.14~KELR-NET-ENOF-R1-S01~Cisco~WS-C3650-24PS~Canada~BC~Kelowna Radio~MPLS BCI~Network~FDO1952Q12S~03.06.04.E
+10.91.152.254~KITI-NET-R1-S01~Cisco~WS-C3650-24PS-S~Canada~BC~Kitimat Radio~MPLS BCI~Network~FDO1928E1Z7~03.07.01E
+10.91.140.254~NELR-NET-RR-R1-M01~Cisco~WS-C3650-24PS-S~Canada~BC~Nelson Radio~MPLS BCI~Network~FDO1928E1YR~03.07.01E
+10.91.141.10~NELR-NET-RR-R1-S02~Cisco~WS-C3650-24PS~Canada~BC~Nelson Radio~MPLS BCI~Network~FDO1952E28V~03.03.05SE
+10.13.88.1~BRAN-VPN-ASA5512~Cisco~ASA5512~Canada~MB~Brandon Radio~None~Network~FGL185141HB~None
+10.91.164.254~OSOY-NET-R1-M01~Cisco~WS-C3650-24PS-S~Canada~BC~Osoyoos Radio~MPLS BCI~Network~FDO1928E1UP~03.07.01E
+10.45.5.22~DMAS11_TOR01SWS105~Cisco~WS-C3750X-24T-S~Canada~ON~Wynford DC~Montreal-Homed~IT Astral~FDO1744P18J~None
+10.45.5.23~DMAS12_TOR01SWS110~Cisco~WS-C2960S-24TS-L~Canada~ON~Wynford DC~Montreal-Homed~IT Astral~FOC1737V05D~None
+10.45.5.3~DMAVK4_TOR01SWS104~Cisco~N5K-C5548UP~Canada~ON~Wynford DC~Montreal-Homed~IT Astral~SSI17300ADY~None
+10.45.5.21~DMAR12_TOR01RTS102~Cisco~ASR1001~Canada~ON~Wynford DC~Montreal-Homed~IT Astral~SSI173706L0~None
+10.45.5.4~DMAVK1_TOR01SWS101~Cisco~N5K-C5548UP~Canada~ON~Wynford DC~Montreal-Homed~IT Astral~SSI173506PX~None
+10.45.5.5~DMAVK2_TOR01SWS102~Cisco~N5K-C5548UP~Canada~ON~Wynford DC~Montreal-Homed~IT Astral~SSI173506PZ~None
+10.45.5.2~DMAVK3_TOR01SWS103~Cisco~N5K-C5548UP~Canada~ON~Wynford DC~Montreal-Homed~IT Astral~SSI1735009K~None
+10.91.80.1~DMM-NET-R925-R1-M01~Cisco~WS-C3650-24PS~Canada~PQ~Dome Montreal~MPLS Dome~Network~FDO2015E1DR~None
+10.91.32.1~TODM-NET-STUD-R1-M01~Cisco~WS-C3650-48PS~Canada~ON~Dome Toronto~MPLS Dome~Network~FDO1938E1B7~None
+10.192.2.6~DM-NET-CER-R01-S01~Cisco~WS-C3650-48PS~Canada~ON~Dome Toronto~MPLS Dome~Network~FDO1926E05F~None
+10.192.2.9~DM-2FL-HVAC-SW01~Cisco~WS-C3650-24PS~Canada~ON~Dome Toronto~MPLS Dome~Network~FDO2010E2PV~None
+10.192.2.11~TODM-IT-CITRMDC-SW02~Cisco~WS-C3650-48PS~Canada~ON~Dome Toronto~MPLS Dome~Network~FDO1935P0LQ~None
+10.192.2.12~TODM-IT-OTRMDC-SW01~Cisco~WS-C3650-24PS~Canada~ON~Dome Toronto~MPLS Dome~Network~FDO2015Q0SR~None
+10.192.2.14~TODM-IT-EXECMDC-SW01~Cisco~WS-C3650-48PS~Canada~ON~Dome Toronto~MPLS Dome~Network~FDO1934E3G3~None
+10.125.8.12~1755-ENG-RC-R50-S02~Arista Networks~DCS-7010T-48~Canada~PQ~1755~Montreal-Homed~Green ENG~SSJ16311044~None
+10.125.8.16~1755-ENG-SRV31-R20-L01~Arista Networks~DCS-7308~Canada~PQ~1755~Montreal-Homed~Green ENG~HSH15235068~None
+10.125.8.17~1755-ENG-SRV31-R16-L01~Arista Networks~7308~Canada~QC~1755~Montreal-Homed~Green ENG~None~None
+10.125.8.18~1755-ENG-RC-R56-L02~Arista Networks~DCS-7308~Canada~PQ~1755~Montreal-Homed~Green ENG~HSH15235071~None
+10.125.8.29~MTL-3240C-Rene~Fortinet, Inc.~FortiGate 3240C~Canada~PQ~1755~Montreal-Homed~Engineering~None~None
+10.125.8.30~MTL-3240C-BSLdc~Fortinet, Inc.~FortiGate 3240C~Canada~PQ~1755~Montreal-Homed~Engineering~None~None
+10.125.8.46~1755-SRV31-18-MRV01~Unknown~Unknown~Canada~PQ~1755~Montreal-Homed~Engineering~None~None
+10.125.8.45~1755-SRV31-4-MRV01~Unknown~Unknown~Canada~PQ~1755~Montreal-Homed~Engineering~None~None
+10.254.0.191~MO-NEXX-M01~Cisco~MIDPLANE~Canada~PQ~1755~Montreal-Homed~Nexxio~JAE1351RFR7~None
+10.254.0.192~MO-NEXX-M02~Cisco~MIDPLANE~Canada~PQ~1755~Montreal-Homed~Nexxio~JAE14200VTG~None
+10.254.0.193~MTL-SRV31-4ENM01~Cisco~WS-C6506-E~Canada~QC~1755~Montreal-Homed~Engineering~SAL13442H00~None
+10.1.0.250~MONR-NTS-MDC-JR10~Juniper Networks, Inc.~Juniper MX80 Internet Backbone Router~Canada~PQ~1755~Montreal-Homed~WAN~F1226~None
+10.254.200.254~MONR-NTS-MDC-JR11~Juniper Networks, Inc.~Juniper MX80 Internet Backbone Router~Canada~PQ~1755~Montreal-Homed~WAN~F1063~None
+172.24.1.31~172.24.1.31~Unknown~Unknown~Canada~PQ~1755~Montreal-Homed~Automation~None~None
+172.24.1.32~172.24.1.32~Unknown~Unknown~Canada~PQ~1755~Montreal-Homed~Automation~None~None
+172.24.1.33~172.24.1.33~Unknown~Unknown~Canada~PQ~1755~Montreal-Homed~Automation~None~None
+172.24.1.34~172.24.1.34~Unknown~Unknown~Canada~PQ~1755~Montreal-Homed~Automation~None~None
+172.24.1.67~1755-ENG-RC-66-sw01~Cisco~Cisco Nexus 3048TP1GESys~Canada~PQ~1755~Agincourt Homed~TVE~None~None
+172.24.1.68~1755-ENG-RC-66-sw02~Unknown~Unknown~Canada~PQ~1755~Agincourt Homed~TVE~None~None
+172.24.1.106~1755-SE21-2-MRV01~Unknown~Unknown~Canada~PQ~1755~Montreal-Homed~Engineering~None~None
+172.24.1.190~K2_1240B_MTL01~Fortinet, Inc.~FortiGate 1240B~Canada~PQ~1755~Montreal-Homed~Engineering~None~None
+172.24.1.191~K2_1240B_MTL02~Fortinet, Inc.~FortiGate 1240B~Canada~PQ~1755~Montreal-Homed~Engineering~None~None
+172.24.100.10~1755-ENG-SRV31-R5-S01~Arista Networks~DCS-7280SE-64~Canada~PQ~1755~Montreal-Homed~Engineering~JPE14463312~None
+172.24.100.11~1755-ENG-SRV31-R4-S01~Arista Networks~DCS-7280SE-64~Canada~PQ~1755~Montreal-Homed~Engineering~JPE14453090~None
+172.24.100.13~1755-ENG-SRV31-R4-S03~Cisco~Cisco Catalyst 4948-10GE~Canada~QC~1755~Montreal-Homed~Engineering~FOX1235GY54~None
+172.24.100.14~1755-ENG-SRV31-R4-S04~Cisco~Cisco Catalyst 4948-10GE~Canada~PQ~1755~Montreal-Homed~Engineering~FOX1228H39C~None
+172.24.100.15~1755-ENG-SRV31-R5-S02~Cisco~Cisco Catalyst 4948-10GE~Canada~PQ~1755~Montreal-Homed~Engineering~FOX1244GDNH~None
+172.24.100.16~1755-ENG-SRV31-R5-S03~Cisco~Cisco Catalyst 4948-10GE~Canada~PQ~1755~Montreal-Homed~Engineering~FOX1152HFM6~None
+172.24.100.17~1755-ENG-SRV31-R5-S04~Cisco~Cisco Catalyst 4948-10GE~Canada~PQ~1755~Montreal-Homed~Engineering~FOX1152HFWE~None
+172.22.158.100~UK-CER-BAY2-MRV01~Unknown~Unknown~UK~UK~UK Bureau~Agincourt Homed~Network~None~None
+172.22.153.51~UK-CER-R1-RB01~Cisco~WS-C3560X-24T-S~UK~UK~UK Bureau~Agincourt Homed~Video Network~FDO1712Z0DM~None
+172.22.153.14~UK-CER-R1-S02~Cisco~WS-C3560G-48PS-S~UK~UK~UK Bureau~Agincourt Homed~Network~FOC1307Z5G3~None
+10.254.0.22~UK-NET-CER-R1-M01~Cisco~WS-C3560G-48PS-S~UK~UK~UK Bureau~Agincourt Homed~Network~FOC0919U04K~None
+10.254.0.177~UKTV-NTS-CME01~Cisco~CISCO2901/K9~UK~UK~UK Bureau~Agincourt Homed~Network~FCZ141992AK~None
+10.113.5.22~DCAS11_MTL01SWRC05~Cisco~WS-C3750X-24T-S~Canada~PQ~Dorval DC~Montreal-Homed~IT Astral~FDO1624V1S7~None
+10.113.5.23~DCAS12_MTL01SWRC10~Cisco~WS-C2960S-24TS-L~Canada~PQ~Dorval DC~Montreal-Homed~IT Astral~FOC1628X3VQ~None
+10.113.5.4~DCAVK1_MTL01SWRC01~Cisco~N5K-C5548UP~Canada~PQ~Dorval DC~Montreal-Homed~IT Astral~SSI161306K2~None
+10.113.5.5~DCAVK2_MTL01SWRC02~Cisco~N5K-C5548UP~Canada~PQ~Dorval DC~Montreal-Homed~IT Astral~SSI161202NF~None
+10.113.5.2~DCAVK3_MTL01SWRC03~Cisco~N5K-C5548UP~Canada~PQ~Dorval DC~Montreal-Homed~IT Astral~SSI161306KK~None
+10.113.5.3~DCAVK4_MTL01SWRC04~Cisco~N5K-C5548UP~Canada~PQ~Dorval DC~Montreal-Homed~IT Astral~SSI16120EXK~None
+10.113.5.21~DCAR12_MTL01RTRC02~Cisco~ASR1001~Canada~PQ~Dorval DC~Montreal-Homed~IT Astral~SSI17360FSX~None
+10.28.1.250~50EG-10TH-F01_600C_RMA~Fortinet, Inc.~FortiGate 600C~Canada~ON~Eglington~Agincourt Homed~Network~None~None
+10.28.0.254~EG-ER10-R01-M01~Cisco~WS-C6506-E~Canada~ON~Eglington~Agincourt Homed~Network~SAL1005CGLJ~None
+10.254.200.251~TOAG-NTS-NDC-JR10-RE0~Juniper Networks, Inc.~Juniper MX960 Internet Backbone Router~Canada~ON~Agincourt~Agincourt Homed~WAN~JN11D48E3AFA~None
+10.254.200.252~TOAG-NTS-NDC-JR11-RE0~Juniper Networks, Inc.~Juniper MX960 Internet Backbone Router~Canada~ON~Agincourt~Agincourt Homed~WAN~JN11C8E76AFA~None
+10.1.0.17~AG-ICN-NER-S5-JR13~Juniper Networks, Inc.~Juniper MX40-T Internet Backbone Router~Canada~ON~Agincourt~Agincourt Homed~WAN~T9734~None
+10.1.0.41~AG-ICN-NER-S5-JR12~Juniper Networks, Inc.~Juniper MX40-T Internet Backbone Router~Canada~ON~Agincourt~Agincourt Homed~WAN~T6982~None
+10.123.60.2~NYKA-ENG-MDC-TB01~Arista Networks~DCS-7048T-A~US~NY~New York Encompass~Agincourt Homed~WAN~JPE12150517~None
+10.123.60.50~NYKA-ENG-CER-R71-MRV01~Unknown~Unknown~US~ON~New York Encompass~Agincourt Homed~WAN~None~None
+10.250.5.193~NY-ETV~Cisco~Cisco ASA 5505~US~NJ~E! New Jersey~VPN Connected~WAN~None~None
+10.91.156.254~PENT-NET-RR-R2-M02~Cisco~WS-C3650-48PS-S~Canada~BC~Penticton Radio~MPLS BCI~Network~FDO1925E1HY~03.07.01E
+10.91.157.10~PENT-NET-RR-R2-S03~Cisco~WS-C3560X-48P-S~Canada~BC~Penticton Radio~MPLS BCI~Network~FDO1923F1C3~15.0(2)SE9
+10.91.52.1~QCNB-NET-NECL-R0-M01~Cisco~WS-C3560X-24T-L~Canada~QC~Quebec City News~MPLS Quebec~Network~FDO1522K24A~115.0(2)SE8
+10.91.136.254~REVE-NET-R1-M01~Cisco~WS-C3650-24PS-S~Canada~BC~Revelstoke Radio~MPLS BCI~Network~FDO1928E1Z6~03.07.01E
+10.91.137.10~REVE-NET-R1-S02~Cisco~WS-C3650-24PS~Canada~BC~Revelstoke Radio~MPLS BCI~Network~FDO1930P0NH~03.06.04.E
+10.200.114.194~RWND-NET-HUT-R3-S01~Cisco~WS-C3650-48PS~Canada~ON~Toronto TX~None~Network~FDO1938P0MG~None
+10.91.148.254~SALM-NET-COMR-R2-M03~Cisco~WS-C3650-48PS-S~Canada~BC~Salmon Arm Radio~MPLS BCI~Network~FDO1925E1UK~03.07.01E
+10.91.149.10~SALM-NET-COMR-R2-S02~Cisco~WS-C3650-48PS~Canada~BC~Salmon Arm Radio~MPLS BCI~Network~FDO1931P1GF~03.06.04.E
+10.91.149.9~SALM-NET-COMR-R2-S01~Cisco~WS-C3650-24PS~Canada~BC~Salmon Arm Radio~MPLS BCI~Network~FDO1952E25E~03.06.04.E
+10.91.176.254~SMIT-NET-R1-S01~Cisco~WS-C3650-24PS-S~Canada~BC~Smithers Radio~MPLS BCI~Network~FDO1928E1Z3~03.07.01E
+10.91.168.254~SUMR-NET-RRM-R2-M01~Cisco~WS-C3650-24PS-S~Canada~BC~Summerland Radio~MPLS BCI~Network~FDO1928P1FG~03.07.01E
+10.91.246.1~TERR-NET-RADRR-R1-M01~Cisco~WS-C3650-48PS-S~Canada~BC~Terrace Radio~MPLS BCI~Network~FDO1942E04L~03.07.02E
+10.91.246.10~TERR-NET-R1-S02~Cisco~WS-C3650-48PS~Canada~BC~Terrace Radio~MPLS BCI~Network~FDO1910E2CK~03.06.03E
+10.123.60.100~NYKM-ENC-927-MRV01~Unknown~Unknown~US~NY~New York Viacom~Agincourt Homed~Network~None~None
+10.123.60.66~NYKM-ENG-MDC-TB01~Cisco~WS-C3560CG-8PC-S~US~NY~New York Viacom~Agincourt Homed~Network~FOC1815Y2LH~None
+10.123.60.150~NYKN-CER-11A-MRV01~Unknown~Unknown~US~NY~New York NASDAQ~Agincourt Homed~Network~None~None
+10.123.60.137~NYKN-ENG-CER-11A-MAKITO(BNN)~Unknown~Unknown~US~NY~New York NASDAQ~Agincourt Homed~Network~None~None
+10.123.60.130~NYKN-ENG-MDC-TB01~Cisco~WS-C3560CG-8PC-S~US~NY~New York NASDAQ~Agincourt Homed~Network~FOC1552W40Q~None
+10.123.60.194~NYBL-NET-CER-R8-TB01~Cisco~N3K-C3548P-10GX~US~NY~New York Bloomberg~Agincourt Homed~Network~FOC2204R20B~None
+10.33.52.77~WA-367-01-MRV01~Unknown~Unknown~US~DC~Washington~Agincourt Homed~Network~None~None
+10.254.0.133~WSHN-NTS-MDC-CME01~Cisco~CISCO2851      ~US~DC~Washington~Agincourt Homed~Network~FHK1118F0WG~None
+10.1.255.98~WSHN-NET-RR-R1-M01~Cisco~WS-C3650-48PS-S~US~DC~Washington~Agincourt Homed~Network~FDO1940E0LJ~None
+172.22.129.50~WA-CER-R01-RB01~Cisco~WS-C3560X-24P-S~US~DC~Washington~Agincourt Homed~Network~FDO1448K0RX~None
+172.22.129.51~WA-CER-R01-TB01~Arista Networks~DCS-7124SX~US~DC~Washington~Agincourt Homed~WAN~JPE12341197~None
+10.123.217.4~CNT-L5-R01-FG80C~Fortinet, Inc.~FortiGate 80C~Canada~ON~CN Tower~Agincourt Homed~Network~None~None
+10.123.217.6~CNT-NET-L5-RD1-S02~Cisco~WS-C3650-48PS~Canada~ON~CN Tower~Agincourt Homed~Network~FDO1845E0PY~None
+10.123.217.12~CNT-AXIA-L5-RR1-S03~Cisco~WS-C3650-24PS-S~Canada~ON~CN Tower~Agincourt Homed~Network~FDO2016E0DZ~None
+10.254.0.134~CNT-NET-L5-TV2-M02~Cisco~WS-C3560G-48PS-S~Canada~ON~CN Tower~Agincourt Homed~Network~FOC1243Z5K0~None
+10.254.0.135~CNT-NET-L5-TV2-M01~Cisco~WS-C3560G-48PS-S~Canada~ON~CN Tower~Agincourt Homed~Network~FOC1431Y4VD~None
+10.254.0.6~TOAG-NTS-NDC-B06-COR02~Cisco~WS-C6506-E~Canada~ON~Agincourt~Agincourt Homed~NTS Core~SAL114249GT~None
+10.254.0.63~TOQU-NTS-BDC-COR01~Cisco~WS-C6506-E~Canada~ON~Queen~Agincourt Homed~NTS Core~SAL1127TDVE~None
+10.62.16.11~WITV-NET-ILOMGT-SW01~Cisco~WS-C2950T-24~Canada~MB~Winnipeg~Agincourt Homed~Network~FOC0921Y0XE~None
+10.62.16.20~WITV-IT-3FLR-SW01~Cisco~WS-C4507R~Canada~MB~Winnipeg~Agincourt Homed~Network~FOX0931058C~None
+10.62.16.21~WITV-ENG-MDC-SW01~Cisco~WS-C3550-24~Canada~MB~Winnipeg~Agincourt Homed~Network~CAT0833N3M4~None
+10.62.16.22~WI-NET-JBD-SW01~Cisco~WS-C2960G-8TC-L~Canada~MB~Winnipeg~Agincourt Homed~Network~FOC1208U1HL~None
+10.62.16.23~WITV-ENG-EQX-SW01~Cisco~WS-C3560G-48PS-S~Canada~MB~Winnipeg~Agincourt Homed~Network~FOC1140Y4MZ~None
+10.62.16.24~WITV-ENG-EQX-SW02~Cisco~WS-C3560G-48PS-S~Canada~MB~Winnipeg~Agincourt Homed~Network~FOC1030Y39K~None
+10.62.16.30~WITV-IT-4FLR-SW01~Cisco~WS-C4507R~Canada~MB~Winnipeg~Agincourt Homed~Network~FOX0931058A~None
+10.62.16.51~WI-NET-ER-H4-RA01~Cisco~WS-C3560X-24P-S~Canada~MB~Winnipeg~Agincourt Homed~Video Network~FDO1504R16J~None
+10.62.16.52~WI-NET-ER-H4-RB01~Cisco~WS-C3560X-24P-S~Canada~MB~Winnipeg~Agincourt Homed~Video Network~FDO1504P18A~None
+10.62.16.101~WITV-ENG-CER-SW01~Cisco~WS-C3560G-24TS-S~Canada~MB~Winnipeg~Agincourt Homed~Network~FOC1207Y1GM~None
+10.62.16.102~WITV-ENG-CER-SW02~Cisco~WS-C3560G-24TS-S~Canada~MB~Winnipeg~Agincourt Homed~Network~FOC1207Y1H4~None
+10.254.0.85~WITV-WAN-ER-H3-JA01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~MB~Winnipeg~Agincourt Homed~WAN~B8749~None
+10.254.0.86~WITV-WAN-ER-H3-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~MB~Winnipeg~Agincourt Homed~WAN~B8742~None
+10.254.0.115~WG-NEX-CER-D10-M01~Cisco~MIDPLANE~Canada~MB~Winnipeg~Agincourt Homed~Nexxio~JAE15310HGD~None
+10.254.0.116~WG-NEX-CER-D10-M02~Cisco~MIDPLANE~Canada~MB~Winnipeg~Agincourt Homed~Nexxio~JAE160607CQ~None
+172.22.64.100~WI-CER3-H2-MRV01~Unknown~Unknown~Canada~MB~Winnipeg~Agincourt Homed~Network~None~None
+10.124.79.1~WPGR-NET-RR-B1-M02~Cisco~WS-C3650-24PS-S~Canada~MB~Winnipeg Radio~Agincourt Homed~Network~FDO2141E1AE~None
+10.192.96.10~WPGR-NET-RR-A8-S01~Cisco~WS-C3560X-24T-S~Canada~MB~Winnipeg Radio~Agincourt Homed~Network~FDO1742R2D7~None
+10.192.96.51~WPGR-NET-RR-B3-S02~Cisco~WS-C3560G-48TS-S~Canada~MB~Winnipeg Radio~Agincourt Homed~Network~FOC1215W2LV~None
+10.192.96.52~WPGR-NET-RR-B3-S01~Cisco~WS-C3560G-48TS-S~Canada~MB~Winnipeg Radio~Agincourt Homed~Network~FOC1215W2ME~None
+10.192.96.53~WPGR-NET-RR-A1-S01~Cisco~WS-C3560G-48TS-S~Canada~None~Winnipeg Radio~None~Network~FOC1217Y1M4~None
+10.1.0.244~CA-ICN-RR-R34-JR13~Juniper Networks, Inc.~Juniper MX80-T Internet Backbone Router~Canada~AB~Calgary~Calgary-Homed~WAN~V0266~None
+10.1.0.245~CA-ICN-RR-R33-JR12~Juniper Networks, Inc.~Juniper MX80-T Internet Backbone Router~Canada~AB~Calgary~Calgary-Homed~WAN~B8833~None
+10.10.127.245~CA-TVE-CER-H28-M01~Arista Networks~DCS-7048T-A~Canada~AB~Calgary~Agincourt Homed~TVE~JPE12481210~None
+10.10.127.246~CA-TVE-CER-H28-M02~Arista Networks~DCS-7048T-A~Canada~AB~Calgary~Agincourt Homed~TVE~JPE12481262~None
+10.122.15.8~CA-RR-R17-TA01~Arista Networks~DCS-7124SX~Canada~AB~Calgary~Calgary-Homed~WAN~JPE12490196~None
+10.122.15.10~CA-RR-R17-RA01~Cisco~MIDPLANE~Canada~AB~Calgary~Calgary-Homed~Video Network~JAE16090838~None
+10.122.15.9~CA-RR-R17-TB01~Arista Networks~DCS-7124SX~Canada~AB~Calgary~Calgary-Homed~WAN~JPE12320200~None
+10.122.15.11~CA-RR-R17-RB01~Cisco~MIDPLANE~Canada~AB~Calgary~Calgary-Homed~Video Network~JAE160607FS~None
+10.122.15.12~CA-K2-1200D-FW01~Fortinet, Inc.~FortiGate 1200D~Canada~AB~Calgary~Calgary-Homed~Engineering~None~None
+10.122.15.13~CA-K2-1200D-FW02~Fortinet, Inc.~FortiGate 1200D~Canada~AB~Calgary~Calgary-Homed~Engineering~None~None
+10.91.246.11~TERR-NET-RADRR-R2-S02~Cisco~WS-C3650-48PS~Canada~BC~Terrace Radio~MPLS BCI~Network~FDO1949Q0NJ~03.06.04.E
+10.91.246.12~TERR-NET-RADRR-R2-S01~Cisco~WS-C3650-48PS~Canada~BC~Terrace Radio~MPLS BCI~Network~FDO1830Q1PX~03.06.04.E
+10.91.246.13~TERR-NET-TVRR2-R2-S01~Cisco~WS-C3650-24PS~Canada~BC~Terrace Radio~MPLS BCI~Network~FDO1952E28Y~03.06.04.E
+10.91.172.254~TRLR-NET-RRM-R1-M01~Cisco~WS-C3650-48PS~Canada~BC~Trail Radio~MPLS BCI~Network~FDO1910E2CL~03.03.04SE
+10.91.173.10~TRLR-NET-RRM-R1-S02~Cisco~WS-C3650-48PS~Canada~BC~Trail Radio~MPLS BCI~Network~FDO1935P0LK~03.06.04.E
+10.91.160.254~VNR-NET-RR-RKD-M01~Cisco~WS-C3650-48PS-S~Canada~BC~Vernon Radio~MPLS BCI~Network~FDO1925E1U8~03.07.01E
+10.91.240.254~STCA-NET-RR-RC1-M03~Cisco~WS-C3650-48PS-S~Canada~ON~St Catharines Radio~MPLS Central~Network~FDO1925P0GM~03.07.01E
+10.91.242.10~STCA-NET-RR-RC1-S01~Cisco~WS-C3650-48PS~Canada~ON~St Catharines Radio~MPLS Central~Network~FDO2009Q0LC~03.06.04.E
+10.91.242.11~STCA-NET-RR-RC1-S02~Cisco~WS-C3650-48PS~Canada~BC~St Catharines Radio~MPLS Central~Network~FDO2009E1UX~03.06.04.E
+10.91.242.12~STCA-NET-RR-RB2-S01~Cisco~WS-C3650-48PS~Canada~ON~St Catharines Radio~MPLS Central~Network~FDO2009E1W2~03.06.04.E
+10.91.240.250~STCA-NET-ITOFF-R0-S01~Cisco~WS-C3650-48PS~Canada~BC~St Catharines Radio~MPLS Central~Network~FDO2009Q0KV~03.06.04.E
+10.91.242.14~STCA-NET-RR-RA4-S01~Cisco~WS-C3650-24PS~Canada~BC~St Catharines Radio~MPLS Quebec~Network~FDO2005E2NQ~03.06.04.E
+10.91.242.15~STCA-NET-R1-S07~Cisco~WS-C3650-24PS~Canada~BC~St Catharines Radio~MPLS Central~Network~FDO1910E3W9~03.06.04.E
+10.122.8.200~ca-esxi~VMware Inc.~VMware ESX~Canada~AB~Calgary~Calgary-Homed~Engineering~None~None
+10.122.30.10~CA-ENG-RCER-R7-S01~Arista Networks~DCS-7010T-48~Canada~AB~Calgary~Calgary-Homed~Engineering~JPE17150562~None
+10.122.30.11~CA-ENG-RCER-R7-S02~Arista Networks~DCS-7010T-48~Canada~AB~Calgary~Calgary-Homed~Engineering~JPE17150548~None
+10.122.30.12~CA-ENG-RCER-R7-S03~Arista Networks~DCS-7010T-48~Canada~AB~Calgary~Calgary-Homed~Engineering~JPE17150610~None
+10.91.242.16~STCA-NET-SALES-R0-S01~Cisco~WS-C3650-24PS~Canada~ON~St Catharines Radio~MPLS Central~Network~FDO2005E2K1~03.06.04.E
+10.91.242.17~STCA-NET-JKP-R1-S01~Cisco~WS-C3650-24PS~Canada~ON~St Catharines Radio~MPLS Central~Network~FDO2005E2HV~03.06.04.E
+10.91.242.18~STCA-NET-NEWS-R2-01~Cisco~WS-C3650-24PS~Canada~ON~St Catharines Radio~MPLS Central~Network~FDO2007E1Q6~03.06.04.E
+10.91.242.19~STCA-NET-CHRE-R1-S01~Cisco~WS-C3650-24PS~Canada~ON~St Catharines Radio~MPLS Central~Network~FDO2007Q0TV~03.06.04.E
+10.91.242.20~SACA-NET-WOR-R2-S01~Cisco~WS-C3650-24PS~Canada~ON~St Catharines Radio~MPLS Central~Network~FDO2005E2NP~03.06.04.E
+10.91.242.21~STCA-NET-ATTC-R1-S01~Cisco~WS-C3650-24PS~Canada~ON~St Catharines Radio~MPLS Central~Network~FDO2005E2P2~03.06.04.E
+10.254.0.10~CA-RR-R8A-M01~Cisco~WS-C6509-E~Canada~AB~Calgary~Calgary-Homed~IT Distribution~SMG1038NYBH~None
+10.254.0.80~CATV-ENG-CER-M03~Cisco~WS-C6504-E~Canada~AB~Calgary~Calgary-Homed~Engineering~FOX1230GV43~None
+10.254.0.97~CATV-ENG-MDC-M01~Cisco~WS-C6509-V-E~Canada~AB~Calgary~Calgary-Homed~Engineering~FOX1223G1VY~None
+10.254.0.98~CATV-ENG-MDC-M02~Cisco~WS-C6509-V-E~Canada~AB~Calgary~Calgary-Homed~Engineering~FOX1222HHLK~None
+10.254.0.117~CA-NTS-H3C-M01~Unknown~Unknown~Canada~AB~Calgary~Calgary-Homed~K2 Video Playout~None~None
+10.254.200.249~CATV-NTS-MDC-JR10~Juniper Networks, Inc.~Juniper MX80 Internet Backbone Router~Canada~AB~Calgary~Calgary-Homed~WAN~F1203~None
+10.254.200.250~CATV-NTS-MDC-JR11~Juniper Networks, Inc.~Juniper MX80 Internet Backbone Router~Canada~AB~Calgary~Calgary-Homed~WAN~F1075~None
+172.18.1.26~CA-CER-H14-S01~Cisco~WS-C3560X-24T-S~Canada~AB~Calgary~Calgary-Homed~Automation~FDO1621R1T4~None
+172.18.1.27~CA-CER-H14-S02~Cisco~WS-C3560X-24T-S~Canada~AB~Calgary~Calgary-Homed~Automation~FDO1643H0QH~None
+172.18.1.49~CA-ENG-RR-R40-S01~Arista Networks~DCS-7050S-64~Canada~AB~Calgary~Spine&Leaf Agincourt~Spine/Leaf~JPE13330489~None
+172.18.1.50~CA-ENG-RR-R40-S02~Arista Networks~DCS-7050S-64~Canada~AB~Calgary~Calgary-Homed~Spine/Leaf~JPE13341975~None
+172.18.1.67~CA-ENG-CER-H28-S03~Cisco~N3K-C3048TP-1GE~Canada~AB~Calgary~Agincourt Homed~TVE~FOC1720R04M~None
+172.18.1.68~CA-ENG-CER-Rh28-S04~Cisco~N3K-C3048TP-1GE~Canada~AB~Calgary~Agincourt Homed~TVE~FOC1720R03E~None
+172.18.1.100~CA-RR-16-MRV01~Unknown~Unknown~Canada~AB~Calgary~Calgary-Homed~Engineering~None~None
+172.18.1.101~CA-BENG-RR-R40-SPINE1~Arista Networks~DCS-7280QR-C36~Canada~AB~Calgary~Spine&Leaf Agincourt~Spine/Leaf~SSJ17186229~None
+172.18.1.102~CA-BENG-RR-R41-SPINE2~Arista Networks~DCS-7280QR-C36~Canada~AB~Calgary~Spine&Leaf Agincourt~Spine/Leaf~SSJ17186249~None
+172.18.2.17~CATV-ENG-XMIT-SW01~Cisco~WS-C2960G-24TC-L~Canada~AB~Calgary~Calgary-Homed~Engineering~FOC1436Z6PB~None
+172.18.2.110~CA-CER-R15-HAR-VID~Cisco~WS-C3560G-24TS-E~Canada~AB~Calgary~Calgary-Homed~Engineering~FOC1612Z56Z~None
+172.18.2.111~CA-CER-R16-HAR-VID~Cisco~WS-C3560G-24TS-E~Canada~AB~Calgary~Calgary-Homed~Engineering~FOC1552V1L4~None
+172.18.59.9~CA-K2X-CER-H16-S01~Unknown~Unknown~Canada~AB~Calgary~Calgary-Homed~K2 Video Playout~None~None
+172.18.59.10~CA-K2Y-CER-H32-S02~Unknown~Unknown~Canada~AB~Calgary~Calgary-Homed~K2 Video Playout~None~None
+172.18.59.11~CA-K2X-CER-H16-S02~Unknown~Unknown~Canada~AB~Calgary~Calgary-Homed~K2 Video Playout~None~None
+172.18.59.12~CA-K2Y-CER-H32-S01~Unknown~Unknown~Canada~AB~Calgary~Calgary-Homed~K2 Video Playout~None~None
+172.18.122.17~CATV-ENG-ICONMSTR2-SW01~Cisco~WS-C3560X-48P-S~Canada~AB~Calgary~Calgary-Homed~Engineering~FDO1916H05U~None
+10.82.201.2~LAEN-NET-COLO-RK11-TB01~Arista Networks~DCS-7020SR-24C2~US~CA~LA Encompass~Calgary-Homed~WAN~JPE19390052~None
+172.22.128.1~LANB-NTS-MDC-SW01~Cisco~WS-C3560G-24TS-S~US~CA~LA Bureau~Calgary-Homed~Network~FOC1119Y3VC~None
+172.22.128.50~LANB-NET-SRV-RK2001-TB01~Cisco~WS-C3560X-24T-S~US~CA~LA Bureau~Calgary-Homed~WAN~FDO1709Z0D8~None
+172.22.128.51~LANB-NET-SRV-RK2001-RB01~Cisco~WS-C3560X-24P-S~US~CA~LA Bureau~Calgary-Homed~Video Network~FDO1813Z029~None
+172.22.128.100~LANB-SRV-2001-MRV01~Unknown~Unknown~US~CA~LA Bureau~Calgary-Homed~Network~None~None
+10.122.197.12~LE-VID-CER-R2-RA03~Cisco~WS-C3560X-24P-S~Canada~AB~Lethbridge~Calgary-Homed~Video Network~FDO1525Z00T~None
+10.122.197.13~LE-VID-CER-R2-RB04~Cisco~WS-C3560X-24P-S~Canada~AB~Lethbridge~Calgary-Homed~Video Network~FDO1530V0S7~None
+10.96.16.200~SA-ER-R9-TA01~Arista Networks~DCS-7124SX~Canada~SK~Saskatoon~None~WAN~JPE12341185~None
+10.96.16.201~SA-CER-A3-RA01~Cisco~WS-C3560X-24P-S~Canada~SK~Saskatoon~Calgary-Homed~Video Network~FDO1449K2AN~None
+10.96.16.202~SA-CER-A3-RB01~Cisco~WS-C3560X-24P-S~Canada~SK~Saskatoon~Calgary-Homed~Video Network~FDO1449Z17X~None
+10.96.16.203~SA-CER-A3-TB01~Arista Networks~DCS-7124SX~Canada~SK~Saskatoon~Calgary-Homed~WAN~JPE12320388~None
+10.194.63.101~SATV-ENG-A1-M01~Cisco~WS-C4507R+E~Canada~SK~Saskatoon~Calgary-Homed~Engineering~FXS1721Q56M~None
+10.194.63.102~SA-CER-RK2-M01~Cisco~MIDPLANE~Canada~SK~Saskatoon~Calgary-Homed~Nexxio~JAE172204Y4~None
+10.194.63.103~SA-CER-RK2-M02~Cisco~MIDPLANE~Canada~SK~Saskatoon~Calgary-Homed~Nexxio~JAE1722056W~None
+10.254.0.71~SA-SVR-R01-M01~Cisco~WS-C4507R-E~Canada~SK~Saskatoon~Calgary-Homed~IT Distribution~FXS1639Q198~None
+10.254.0.89~SATV-WAN-CER-A3-JA01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~SK~Saskatoon~Calgary-Homed~WAN~B8798~None
+10.254.0.90~SATV-WAN-MDC-R01-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~SK~Saskatoon~Calgary-Homed~WAN~B8800~None
+172.17.32.6~RE_SATV-ENG-XMIT-SW01~Cisco~WS-C2960G-24TC-L~Canada~SK~Saskatoon~Calgary-Homed~Engineering~FOC1452V1Q1~None
+172.17.48.22~SATV-ENG-A12-SW01~Cisco~WS-C3560X-48PF-L~Canada~SK~Saskatoon~Calgary-Homed~Engineering~FDO1632Z0Y5~None
+172.17.48.6~SATV-ENG-CFQCMDC-SW02~Cisco~WS-C3560-24TS-S~Canada~SK~Saskatoon~Calgary-Homed~Engineering~CAT0938N07T~None
+172.17.48.23~SATV-ENG-A12-SW02~Cisco~WS-C3560X-48PF-L~Canada~SK~Saskatoon~Calgary-Homed~Engineering~FDO1650R174~None
+172.17.48.24~SATV-ENG-A1-SW02~Cisco~WS-C3560X-48PF-L~Canada~SK~Saskatoon~Calgary-Homed~Engineering~FDO1423P00Q~None
+172.17.48.101~SA-CER-A3-MRV01~Unknown~Unknown~Canada~SK~Saskatoon~Calgary-Homed~Engineering~None~None
+172.17.55.5~TRANSCFQC-TV-SW01~Cisco~WS-C2960G-24TC-L~Canada~SK~Saskatoon~Calgary-Homed~Engineering~FOC1507V5E8~None
+10.80.100.1~YO-NET-RR-R1-M05~Cisco~WS-C3650-48PS~Canada~SK~Yorkton~Calgary-Homed~Network~FDO1931P1GR~None
+10.80.100.2~YO-NET-RR-R1-JB02~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~SK~Yorkton~Calgary-Homed~WAN~B8805~None
+10.80.101.5~YO-NET-RR-R1-S06~Cisco~WS-C3650-48PS~Canada~SK~Yorkton~Calgary-Homed~Network~FDO1937E2G9~None
+10.80.101.6~YO-NET-RR-R1-TB01~Arista Networks~Arista DCS-7050T-52~Canada~SK~Yorkton~Calgary-Homed~WAN~None~None
+10.80.101.7~YOTV-MDC-R01-RB01~Cisco~WS-C3560X-24T-S~Canada~SK~Yorkton~Calgary-Homed~Video Network~FDO1716Z1YD~None
+10.122.101.14~YO-IT-1-MRV01~Unknown~Unknown~Canada~SK~Yorkton~Calgary-Homed~Network~None~None
+10.80.104.16~PA-WAN-CER-R01-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~SK~Prince Albert~Calgary-Homed~WAN~B8746~None
+10.80.105.1~PA-NET-CER-R2-M01~Cisco~WS-C3650-48PS~Canada~SK~Prince Albert~Calgary-Homed~Network~FDO1937E3A1~None
+10.80.105.5~PA-NET-CER-R1-S02~Cisco~WS-C3650-48PS~Canada~ON~Prince Albert~Calgary-Homed~Network~FDO1939E2WH~None
+10.80.105.7~PA-WAN-CER-R2-TB03~Arista Networks~DCS-7050T-52~Canada~SK~Prince Albert~Calgary-Homed~WAN~JSH11430828~None
+10.80.105.10~PA-WAN-CER-R2-RB04~Cisco~WS-C3560X-24T-S~Canada~SK~Prince Albert~Calgary-Homed~Video Network~FDO1642X1UW~None
+10.80.105.100~10.80.105.100~Unknown~Unknown~Canada~SK~Prince Albert~None~Network~None~None
+10.80.81.51~RE-ER-R14-RA01~Cisco~WS-C3650-24PS~Canada~SK~Regina~Calgary-Homed~Video Network~FDO1928P1DH~None
+172.17.32.116~Selenio~Harris Computer Systems Division (HCSD)~Harris Computer Systems Division (HCSD)~Canada~SK~Regina~Calgary-Homed~Video Network~None~None
+10.80.95.254~RETV-WAN-ER-R14-JA01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~SK~Regina~Calgary-Homed~WAN~B8799~None
+10.98.16.52~RE-ER-R14-RB01~Cisco~WS-C3560X-24T-S~Canada~SK~Regina~Calgary-Homed~Video Network~FDO1650R039~None
+10.98.16.101~RETV-IT-INEWS-SW01~Cisco~WS-C3560G-24TS-S~Canada~SK~Regina~Calgary-Homed~Network~FOC1219W6YH~None
+10.98.16.102~RETV-IT-INEWS-SW02~Cisco~WS-C3560G-24TS-S~Canada~SK~Regina~Calgary-Homed~IT Distribution~FOC1219W6ZF~None
+10.194.127.101~RE-ENG-CER-C4-M01~Cisco~WS-C4507R-E~Canada~SK~Regina~Calgary-Homed~Engineering~FOX1521H5WG~None
+10.194.127.102~RE-ENG-CER-A3-M01~Cisco~MIDPLANE~Canada~SK~Regina~Calgary-Homed~Nexxio~JAE1227NWQR~None
+10.194.127.103~RE-ENG-CER-A3-M02~Cisco~MIDPLANE~Canada~SK~Regina~Calgary-Homed~Nexxio~JAE1227NZPR~None
+10.254.0.17~RETV-NET-M01~Cisco~WS-C4507R-E~Canada~SK~Regina~Calgary-Homed~IT Distribution~FOX1233GVA9~None
+172.17.32.5~RETV-ENG-CKCKMDC-SW01~Cisco~WS-C3560G-24TS-S~Canada~SK~Regina~Calgary-Homed~Engineering~FOC0948Y372~None
+172.17.32.22~RE-ENG-CER-B04-S01~Cisco~WS-C3560X-48PF-L~Canada~SK~Regina~Calgary-Homed~Engineering~FDO1710P2L7~None
+172.17.32.23~RE-ENG-CER-B04-S02~Cisco~WS-C3560X-48P-S~Canada~SK~Regina~Calgary-Homed~Engineering~FDO1653H015~None
+172.17.32.100~RE-CER-13A-MRV01~Unknown~Unknown~Canada~SK~Regina~Calgary-Homed~Engineering~None~None
+10.254.0.114~RETV-WAN-ER-R14-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~SK~Regina~Calgary-Homed~WAN~B8729~None
+10.80.236.1~ED-RAD-RR2-R3-M01~Cisco~WS-C3560X-48T-S~Canada~None~Edmonton~Calgary-Homed~Network~FDO1919F2A7~None
+10.80.236.8~ED-RAD-RR1-R1-S01~Cisco~WS-C3560X-48T-S~Canada~None~Edmonton~Calgary-Homed~Network~FDO1919F29V~None
+10.85.16.10~EDTV-IT-CLB-SW01~Cisco~WS-C3560G-48PS-S~Canada~None~Edmonton~Calgary-Homed~Network~FOC1303W1HU~None
+10.85.16.16~ED-NET-CER-R6-S03~Cisco~WS-C3560X-48T-L~Canada~None~Edmonton~Calgary-Homed~Network~FDO1449K20E~None
+10.85.16.17~ED-CER-R32-S01~Cisco~WS-C3560G-48PS-S~Canada~None~Edmonton~Calgary-Homed~Network~FOC1023Y1KL~None
+10.85.16.18~ED-CER-R32-S02~Cisco~WS-C3560G-48PS-S~Canada~None~Edmonton~Calgary-Homed~Network~FOC1043ZAFT~None
+10.85.16.51~ED-CER-R03-RA01~Cisco~WS-C3560X-24P-S~Canada~None~Edmonton~Calgary-Homed~Video Network~FDO1449R1JF~None
+10.85.16.52~ED-CER-R03-RB01~Cisco~WS-C3560X-24P-S~Canada~None~Edmonton~Calgary-Homed~Video Network~FDO1449Z18S~None
+10.85.16.101~ED-NET-CER-R6-S01~Cisco~WS-C3560G-24TS-S~Canada~None~Edmonton~Calgary-Homed~Network~FOC1144Y3GN~None
+10.85.16.102~ED-NET-CER-R6-S02~Cisco~WS-C3560G-24TS-S~Canada~None~Edmonton~Calgary-Homed~Network~FOC1145Y29S~None
+10.254.0.163~EDTV-WAN-CER-R03-JA01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~None~Edmonton~Calgary-Homed~WAN~B8783~None
+10.254.0.164~EDTV-WAN-CER-R03-JB01~Juniper Networks, Inc.~Juniper MX5-T Internet Backbone Router~Canada~None~Edmonton~Calgary-Homed~WAN~V0301~None
+172.17.16.5~EDTV-IT-CFRNMDC-SW01~Cisco~WS-C3560-24TS-S~Canada~None~Edmonton~Calgary-Homed~Network~CAT0938N0EB~None
+172.17.16.100~ED-NEWCER-03-MRV01~Unknown~Unknown~Canada~None~Edmonton~Calgary-Homed~Network~None~None
+10.122.130.40~VA-WAN-CER-H8-TA05~Arista Networks~DCS-7124SX~Canada~BC~Vancouver~Vancouver Homed~WAN~JPE12341183~None
+10.122.130.42~VA-VID-CER-H8-RA07~Cisco~WS-C3560X-24P-S~Canada~BC~Vancouver~Vancouver Homed~Video Network~FDO1449Z18H~None
+10.122.130.43~VA-VID-CER-H8-RB08~Cisco~WS-C3560X-24P-S~Canada~BC~Vancouver~Vancouver Homed~Video Network~FDO1449P167~None
+10.122.130.41~VA-WAN-CER-H8-TB06~Arista Networks~DCS-7124SX~Canada~BC~Vancouver~Vancouver Homed~WAN~JPE12320253~None
+10.254.0.14~VATV-ENG-MDC-M01~Cisco~WS-C6509-E~Canada~BC~Vancouver~Vancouver Homed~Engineering~SMC12430025~None
+10.254.0.68~VCRV41.on.bell.ca~Cisco~WS-C4507R-E~Canada~BC~Vancouver~Vancouver Homed~ICN Managed~FXS1639Q19L~None
+10.254.200.247~VATV-NTS-MDC-JR10~Juniper Networks, Inc.~Juniper MX80 Internet Backbone Router~Canada~BC~Vancouver~Vancouver Homed~WAN~T2202~None
+10.254.200.248~VATV-NTS-MDC-JR11~Juniper Networks, Inc.~Juniper MX80 Internet Backbone Router~Canada~BC~Vancouver~Vancouver Homed~WAN~F6768~None
+172.17.1.100~172.17.1.100~Unknown~Unknown~Canada~BC~Vancouver~Vancouver Homed~Engineering~None~None
+172.17.1.101~VATV-ENG-WSMDC-SW01~Cisco~WS-C3560G-24TS-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1207Y1HL~None
+172.17.1.102~VATV-ENG-WSMDC-SW02~Cisco~WS-C3560G-24TS-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1207Y1HN~None
+172.17.1.120~VA-CER-RR3-S01~Cisco~WS-C4507R-E~Canada~BC~Vancouver~Vancouver Homed~Engineering~FXS1639Q17J~None
+172.17.1.121~VA-CER-RR1-S01~Cisco~WS-C4507R-E~Canada~BC~Vancouver~Vancouver Homed~Engineering~FXS1639Q17F~None
+172.17.1.122~VA-CL6-R2-S01~Cisco~WS-C4507R+E~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOX1506G27N~None
+172.17.1.125~VA-R608-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1641Y3DZ~None
+172.17.1.126~VA-R608-R01-S02~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1641Y3EQ~None
+172.17.1.127~VA-ENG-SHOP-JBD-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1715Y0BH~None
+172.17.1.130~VA-R610-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1715Y0B7~None
+172.17.1.131~VA-R610-R01-S02~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1531W3R0~None
+172.17.1.135~VA-R614-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1715Y05C~None
+172.17.1.136~VA-R614-R01-S02~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1715Y0BN~None
+172.17.1.140~VA-R616-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1715Y03E~None
+172.17.1.145~VA-R618-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1604W1ZC~None
+172.17.1.146~VA-R618-R01-S02~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1715Y05P~None
+172.17.1.155~VA-R620-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1715Y04B~None
+172.17.1.160~VA-R625-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1715Y0CJ~None
+172.17.1.161~VA-R625-R01-S02~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1641Y3BW~None
+172.17.1.165~VA-R626-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1715Y0C7~None
+172.17.1.170~VA-R629-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1715Y02D~None
+172.17.1.175~VA-R630-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1715Y04G~None
+172.17.1.180~VA-R632-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1641Y3DA~None
+172.17.1.185~VA-R633-R01-S01~Cisco~WS-C3560CG-8PC-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FOC1641Y3F1~None
+172.17.1.190~VA-R636-R01-S01~Cisco~WS-C3560X-24P-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FDO1720P2UJ~None
+172.17.1.191~VA-R636-R01-S02~Cisco~WS-C3560X-24P-S~Canada~BC~Vancouver~Vancouver Homed~Engineering~FDO1737Z1UY~None
+172.17.1.91~VA-ENG-SVRM-J01-S01~Cisco~  ~Canada~BC~Vancouver~Vancouver Homed~Engineering~CAT1503S0TA~None
+10.73.16.8~VIC-NET-BSMT-R1-S01~Cisco~Cisco Catalyst 3548 XL~Canada~BC~Victoria~Vancouver Homed~Network~None~None
+10.73.16.15~VIC-NET-2FL-R1-S01~Cisco~WS-C3560G-48PS-S~Canada~BC~Victoria~Vancouver Homed~Network~FOC1321Z5JX~None
+10.73.16.16~VIC-NET-3FL-R1-S01~Cisco~WS-C3560G-48PS-S~Canada~BC~Victoria~Vancouver Homed~Network~FOC1349Z1TX~None
+10.73.16.17~VIC-NET-RCER-R4-S01~Cisco~WS-C3560G-48TS-S~Canada~BC~Victoria~Vancouver Homed~Network~FOC0950Y29D~None
+10.73.16.52~VIC-VID-CER-R54-RA03~Cisco~WS-C3560X-24P-S~Canada~BC~Victoria~Vancouver Homed~Video Network~FDO1448K0S0~None
+10.73.16.53~VIC-VID-CER-R54-RB04~Cisco~WS-C3560X-24P-S~Canada~BC~Victoria~Vancouver Homed~Video Network~FDO1525R0T6~None
+10.73.16.100~VIC-NET-CER-R41-S01~Cisco~WS-C3560G-48PS-S~Canada~BC~Victoria~Vancouver Homed~Network~FOC1202Y1D3~None
+10.73.16.101~VIC-NET-CER-R41-S02~Cisco~WS-C3560G-48PS-S~Canada~BC~Victoria~Vancouver Homed~Network~FOC1409Y377~None
+10.73.16.225~VI-CER-54-UPS01~American Power Conversion Corp.~SMARTUPS2~Canada~BC~Victoria~Vancouver Homed~WAN~None~None
+10.254.0.186~VIC-NET-CER-R41-M03~Cisco~WS-C4507R+E~Canada~BC~Victoria~Vancouver Homed~Network~FOX1526H03J~None
+10.254.0.187~VIC-NEX-CER-R34-M01~Cisco~MIDPLANE~Canada~BC~Victoria~Vancouver Homed~Nexxio~JAE153702EX~None
+10.254.0.188~VIC-NEX-CER-R34-M02~Cisco~MIDPLANE~Canada~BC~Victoria~Vancouver Homed~Nexxio~JAE15480GTU~None
+172.17.96.5~VIC-NET-CER-R56-S01~Cisco~WS-C3560G-24TS-S~Canada~BC~Victoria~Vancouver Homed~Network~FOC1110Y5VM~None
+172.17.96.100~VI-CER-56-MRV01~Unknown~Unknown~Canada~BC~Victoria~Vancouver Homed~Network~None~None
+10.122.160.3~VB-ER-097B-MRV01~Unknown~Unknown~Canada~BC~Victoria Bureau~Vancouver Homed~Network~None~None
+10.122.160.5~VB-ER-097B-S01~Cisco~WS-C3560X-48T-L~Canada~BC~Victoria Bureau~Vancouver Homed~Network~FDO1715R2DA~None
+10.13.1.3~TOAG-NTS-ICNBCE-R01~Unknown~Unknown~Canada~ON~Bell ICN~Agincourt Homed~Network~None~None
+10.125.154.8~BRR-NET-PRM-R1-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Brockville~MPLS Central~Network~FOC1329W08S~None
+10.125.154.7~BRR-NET-BMT-R1-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Brockville~MPLS Central~Network~FOC1329W098~None
+10.125.154.2~BROR-IT-MDC-R01~Cisco~CISCO2851      ~Canada~ON~Brockville~MPLS Central~Network~FHK1310F1ST~None
+10.125.154.5~BRR-NET-RR-R1-S01~Cisco~WS-C3560G-48TS-S~Canada~ON~Brockville~MPLS Central~Network~FOC1221Y5AX~None
+10.125.154.6~BRR-NET-RR-R1-S02~Cisco~WS-C3560G-48PS-S~Canada~ON~Brockville~MPLS Central~Network~FOC1519V0QS~None
+10.125.155.5~KGR-NET-RR-R11-S02~Cisco~WS-C3560G-48PS-S~Canada~ON~Kingston Radio~Montreal-Homed~Network~FOC1148Y1FH~None
+10.125.155.6~KGR-NET-RR-R1-S01~Cisco~WS-C3560G-48TS-S~Canada~ON~Kingston Radio~Montreal-Homed~Network~FOC1232Z23X~None
+10.125.155.7~KGR-NET-RR-R7-S01~Cisco~WS-C3560G-48TS-S~Canada~ON~Kingston Radio~Montreal-Homed~Network~FOC1225W05S~None
+10.125.155.8~KGR-NET-TV-R1-S01~Cisco~WS-C3560G-48TS-S~Canada~ON~Kingston Radio~Montreal-Homed~Network~FOC1232Y3QC~None
+10.125.155.9~KGR-NET-TC-R1-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Kingston Radio~Montreal-Homed~Network~FOC1030Y2DH~None
+10.125.155.10~KGR-NET-BT-R0-S01~Cisco~WS-C2960G-8TC-L~Canada~ON~Kingston Radio~Montreal-Homed~Network~FOC1208U1J8~None
+10.91.64.1~LKSH-NET-HUT-R1-M01~Cisco~WS-C3650-48PS~Canada~ON~Lakeshore Transmitter~MPLS Central~Network~FDO1938P0LX~None
+10.200.160.2~ORR-NET-RR-R1-M02~Cisco~WS-C3650-24PD-S~Canada~ON~Orillia Radio~VPN Connected~Network~FDO2128Q21S~None
+10.91.127.142~ORR-NET-RR-R1-S03~Cisco~WS-C3650-24PD-S~Canada~ON~Orillia Radio~VPN Connected~Network~FDO2125E17A~None
+10.254.0.210~OTB-CER-R13-M01~Cisco~WS-C4507R-E~Canada~ON~Ottawa Bureau~Montreal-Homed~Network~FOX1347G93W~None
+10.14.18.41~QSWS31_QU-IT-3RD299-R2-S01.on.bell.ca~Cisco~WS-C4507R+E~Canada~ON~Queen~Agincourt Homed~IT Distribution~FXS1703Q1AT~None
+10.14.18.26~QSWS41_QU-IT-4TH299-R2-S01.on.bell.ca~Cisco~WS-C4506-E~Canada~Ontario~Queen~Agincourt Homed~IT Distribution~FOX1214GQLC~None
+10.14.18.36~QSWS51_QU-IT-5TH299-R2-S01.on.bell.ca~Cisco~WS-C4507R+E~CANADA~ON~Queen~None~IT Distribution~FXS1711Q5QU~None
+10.254.0.64~TOQU-NTS-BDC-COR02~Cisco~WS-C6506-E~Canada~ON~Queen~None~NTS Core~SAL09412DNN~None
+10.200.164.2~OSR-NET-RR-R1-M02~Cisco~WS-C3650-24PD-S~Canada~ON~Owen Sound Radio~VPN Connected~Network~FDO2125E17D~None
+10.200.165.5~OSR-NET-RR-R1-S03~Cisco~WS-C3650-24PD-S~Canada~ON~Owen Sound Radio~VPN Connected~Network~FDO2141E1FP~None
+172.22.45.45~TORC-NET-DC-R0-S01~Cisco~IE-3000-4TC~Canada~ON~Toronto Cameras~Agincourt Homed~Network~FOC1636X1G1~None
+10.200.121.162~TOCH-NET-RR-R1-S01~Cisco~WS-C3560X-24P-S~Canada~ON~Toronto City Hall~VPN Connected~Network~FDO1919F0RU~None
+10.192.17.11~WNDR-IT-BPR01-SW02~Cisco~WS-C3560G-48PS-S~Canada~ON~Windsor Radio~MPLS Central~Network~FOC1019Y3NK~None
+10.192.17.203~WNDR-IT-MDC-SW02~Cisco~WS-C3560G-48TS-S~Canada~ON~Windsor Radio~MPLS Central~Network~FOC1232W5KJ~None
+10.192.17.205~WNDR-IT-MDC-SW04~Cisco~WS-C3560G-48TS-S~Canada~ON~Windsor Radio~MPLS Central~Network~FOC1232W5L2~None
+10.192.17.206~WNDR-IT-MDC-SW05~Cisco~WS-C3560G-48TS-S~Canada~ON~Windsor Radio~MPLS Central~Network~FOC1232Z247~None
+10.192.17.204~WNDR-IT-MDC-SW03~Cisco~WS-C3560G-48TS-S~Canada~ON~Windsor Radio~MPLS Central~Network~FOC1221Y22V~None
+10.1.16.28~ACS_Rm_A~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~None~None
+10.1.16.22~AG-IT-EER-C5-S01~Cisco~WS-C3560-48TS-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~CAT0938R5DC~None
+10.1.16.23~AG-IT-NER-C01-SW02~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOC1312Z4TX~None
+10.1.16.24~TOAG-IT-NDCMGTB-SW01~Cisco~WS-C3560-48TS-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~CAT1033ZL00~None
+10.1.16.25~AG-IT-NER-C01-S01~Cisco~WS-C3560-48TS-S~Canada~ON~Agincourt~None~IT Distribution~CAT1033ZL07~None
+10.1.16.26~AG-MGMT-NER-D03-S01~Cisco~WS-C3560-48TS-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~CAT1032ZJT6~None
+10.1.16.27~TOAG-IT-NDCSTGR-SW01~Cisco~WS-C3560G-48TS-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOC1103Y3N1~None
+10.1.16.31~TOAG-IT-EDCMGTD-SW01~Cisco~WS-C3560-48TS-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~CAT0919N2B4~None
+10.1.16.34~AG-IT-NER-C06-SW01~Cisco~  ~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~JAE1849063X~None
+10.1.16.36~TOAG-EDCA03-SW01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOC1328Z1NF~None
+10.1.16.40~TOAG-IT-EDCB10-SW01~Cisco~WS-C3560-48TS-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~CAT1103ZG3V~None
+10.1.16.41~AG-NRTD-EER-D05-S02~Cisco~  ~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~JAE214003C9~None
+10.1.16.45~AG-IT-PHONERM-R2-S02~Cisco~WS-C3650-24PS~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FDO1827Q10F~None
+10.1.16.46~AG-IT-CER-O7-S01~Cisco~WS-C3560X-48P-L~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FDO1732R33H~None
+10.1.16.47~AG-IT-CER-O7-S02~Cisco~WS-C3560X-48P-L~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FDO1732R33K~None
+10.1.16.48~AG-IT-CER-O7-S03~Cisco~WS-C3560X-48P-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FDO1818P12M~None
+10.1.16.29~ACS_Rm_B~Cyclades Corporation~AlterPath ACS48~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~None~None
+10.1.16.53~AG-IT-NEWS-R4-S01~Cisco~WS-C4507R+E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FXS1917Q1K4~None
+10.1.16.55~TOAG-IT-AER-SW01~Cisco~WS-C4507R~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1224GY9V~None
+10.1.16.56~TOAG-IT-AERRKD2-SW01~Cisco~WS-C4507R-E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1239GED0~None
+10.1.16.59~AG-ENG-NEWS-R05-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1005Y0K4~None
+10.1.16.60~AG-ENG-NEWS-R05-S02~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1451V4Q7~None
+10.1.16.75~AG-NDC-SYSLOG~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~Engineering~None~None
+10.1.16.86~AG-IT-NWLAB-R0-S01~Cisco~WS-C3560-24TS-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FDO1144Y3SS~None
+10.1.16.87~AG-IT-NWSARC-R0-S01~Cisco~WS-C3650-24PS~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FDO2033E3KA~None
+10.1.16.93~AG-IT-MGARAGE-R1-S01~Cisco~WS-C3560G-24PS-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOC1236Z49V~None
+10.1.16.101~AG-IT-ANIT-CLA-R1-S01~Cisco~WS-C4507R-E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1505H6LP~None
+10.1.16.108~AG-IT-NW2-R1-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOC1230Z1FT~None
+10.1.16.109~AG-IT-NW3-R2-S01~Cisco~WS-C3560X-48P-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FDO1916P05N~None
+10.1.16.110~AG-IT-NW3-R2-S02~Cisco~WS-C3560X-48P-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FDO1916F002~None
+10.1.16.111~AG-IT-BORIKA-R0-S01~Cisco~WS-C3560CG-8PC-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOC1816Y0HX~None
+10.1.16.116~AG-IT-CFTO-R1-S01~Cisco~WS-C4507R+E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1510H4P5~None
+10.123.47.34~AG-EER-D07-FM400C-slave~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.123.47.33~AG-NER-B01-FM400C~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.1.16.125~AG-IT-ANX1-R2-S01~Cisco~WS-C4507R+E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1509G5X3~None
+10.1.16.126~AG-IT-WW1-R01-SW01~Cisco~WS-C4507R+E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1505HALA~None
+10.14.18.67~QSWS09_TOQU-IT-BMT299-SW02.on.bell.ca~Cisco~WS-C3560G-48PS-S~Canada~Ontario~Queen~Agincourt Homed~IT Distribution~FOC1306W1HM~None
+10.254.0.100~TOQU-ENG-CER-M01~Cisco~WS-C6509-V-E~Canada~Ontario~Queen~Agincourt Homed~Engineering~FOX1214GRZN~None
+10.254.0.99~QU-ENG-BDC-R621-M02~Cisco~WS-C6509-V-E~Canada~ON~Queen~None~Engineering~FOX1223H4GU~None
+10.254.0.94~TOQU-ENG-CER-M03~Cisco~MIDPLANE~Canada~ON~Queen~None~ISIS~JAE1228OQNR~None
+10.254.0.95~TOQU-ENG-CER-M04~Cisco~MIDPLANE~Canada~Ontario~Queen~Agincourt Homed~ISIS~JAE1229OZZO~None
+10.1.255.249~QU-CER-RK651-SPINE1~Arista Networks~DCS-7508~Canada~Ontario~Queen~Agincourt Homed~Spine/Leaf~HSH14335007~None
+10.1.255.250~QU-CER-RK653-SPINE2~Arista Networks~DCS-7508~Canada~Ontario~Queen~Agincourt Homed~Spine/Leaf~HSH14345087~None
+10.254.0.52~QU-SVF-BDC-R618-M02.on.bell.ca~Cisco~WS-C6509-V-E~Canada~Ontario~Queen~Agincourt Homed~ICN Managed~FOX1152GYQN~None
+10.254.0.53~QU-SVR-BDC-R609-M02.on.bell.ca~Cisco~WS-C6509-V-E~Canada~Ontario~Queen~Agincourt Homed~ICN Managed~FOX1152GYQX~None
+10.1.16.130~AG-IT-WW3-R2-S05~Cisco~WS-C4507R+E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1539GHCR~None
+10.1.16.131~AG-IT-WW3-R2-S06~Cisco~WS-C4507R-E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1345G5TN~None
+10.1.16.132~AG-IT-ANX2-R2-S01~Cisco~WS-C4507R-E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1505H6L3~None
+10.1.16.133~AG-IT-EPI-R1-S01~Cisco~WS-C4507R-E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1504G03M~None
+10.1.16.134~AG-IT-NTSLab-SW1~Cisco~WS-C3560G-24TS-E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOC1332Y07P~None
+10.1.16.135~AG-IT-ST10-R2-S03~Cisco~WS-C4507R-E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1346H36T~None
+10.1.16.137~AG-IT-LOFT3-R1-S01~Cisco~WS-C4507R-E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1435GQYN~None
+10.1.16.139~AG-IT-LOFT4-R1-S01~Cisco~WS-C4507R+E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FXS1917Q12P~None
+10.123.81.20~Ag-nts-brnacvip-vm.int~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.1.16.148~AG-IT-WW2-R1-S01~Cisco~WS-C4507R+E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FXS1851Q2S9~None
+10.1.16.149~AG-IT-WW2-R2-S02~Cisco~WS-C4507R-E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX1244GQUY~None
+10.1.16.171~AG-TVE-NER-E1-RMA~Fortinet, Inc.~FortiGate 3600C~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.1.16.172~AG-TVE-NER-E8~Fortinet, Inc.~FortiGate 3600C~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.1.16.202~AG-NER-B09-RA01~Cisco~MIDPLANE~Canada~ON~Agincourt~Agincourt Homed~Video Network~JAE1602018U~None
+10.1.16.203~AG-NER-B09-RB01~Cisco~MIDPLANE~Canada~ON~Agincourt~Agincourt Homed~Video Network~JAE1610039V~None
+10.1.16.213~TOAG-NTS-NER-S5-FW01~Cisco~Fortinet FGT_3600C, HW Serial#: FG3K6C3A14800357~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~None~None
+10.1.16.214~TOAG-NTS-NER-S5-FW02~Cisco~Fortinet FGT_3600C, HW Serial#: FG3K6C3A14800380~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~None~None
+10.1.16.216~AG-IT-CFTOG-R1-S01~Cisco~WS-C3560X-48T-L~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FDO1702H125~None
+10.1.16.217~AG-IT-CFTOG-R1-S02~Cisco~WS-C3560X-48T-L~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FDO1703W3HN~None
+10.1.16.240~AG-1240B-NER-MPLS~Cisco~Fortinet FGT_1240B, HW Serial#: FGT1KB3909601369~Canada~ON~Agincourt~Agincourt Homed~WAN~None~None
+10.1.16.246~AG-IT-Gate-R1-S01~Cisco~WS-C3560CG-8PC-S~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOC1852Z3BU~None
+10.1.16.252~AG-Time1~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~Engineering~None~None
+10.1.42.10~agntsccm01~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~None~None
+10.1.42.11~agntsccm02~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~None~None
+10.1.116.14~TOAG-SVF-NDC-SW01~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm~SMG1020NJU6~None
+10.1.116.15~AG-SVR-EER-D3-S01~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm~SMG0839N3S9~None
+10.1.116.34~TOAG-SVF-EDCCTVBC3-SW01~Cisco~WS-CBS3012-IBM-I~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm~FOC1252S0G6~None
+10.1.116.35~TOAG-SVF-EDCCTVBC3-SW02~Cisco~WS-CBS3012-IBM-I~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm~FOC1252S0H8~None
+10.1.116.100~AG-SVR-NER-C2-S01~Cisco~WS-C2960X-24TS-LL~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm~FCW2119A3YZ~None
+10.1.191.9~TVE-Inet-ASA~Cisco~Cisco ASA-5585 SC~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.1.191.10~TVE-Inet-ASA~Cisco~Cisco ASA-5585 SC~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.1.216.6~AG-BKUP-NER-D3-S06~Arista Networks~DCS-7150S-52-CL~Canada~ON~Agincourt~Agincourt Homed~Backup Network~JPE15083327~None
+10.1.216.21~TOAG-IT-EDCCTVBC3-SW03~Cisco~WS-CBS3110X-S-I~Canada~ON~Agincourt~Agincourt Homed~Backup Network~FOC1441S07W~None
+10.1.255.251~AG-ENG-MEGA-A9-SW01~Arista Networks~DCS-7280SE-64~Canada~ON~Agincourt~Agincourt Homed~Spine/Leaf~JPE14463302~None
+10.1.255.252~AG-ENG-WERX-C29-SW01~Arista Networks~DCS-7280SE-64~Canada~ON~Agincourt~Agincourt Homed~Spine/Leaf~JPE14463330~None
+10.1.255.253~AG-NER-G13-SPINE1~Arista Networks~DCS-7508~Canada~ON~Agincourt~Spine&Leaf Agincourt~Spine/Leaf~HSH16175084~None
+10.1.255.254~AG-EER-C10-SPINE2~Arista Networks~DCS-7508~Canada~ON~Agincourt~Spine&Leaf Agincourt~Spine/Leaf~HSH16195034~None
+10.2.208.166~MRV Desktop PC~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.6.16.16~AG-NER-RO11-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~FOC1345Y005~None
+10.6.16.47~AG-NER-M02-SW01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~FOC1241W3CH~None
+10.6.16.48~AG-ESVR-NER-M2-S02~Cisco~WS-C3560G-48TS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~FOC1428W2G5~None
+10.6.16.49~AG-NER-B20-SW01~Cisco~WS-C3560-48TS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~CAT0948Z091~None
+10.6.16.50~TOAG-SVF-NDC-SW03~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~SMC1309002H~None
+10.6.16.51~TOAG-SVF-NDC-SW04~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~SMG1132N4XH~None
+10.6.16.52~AG-NER-S02-MRV01~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~None~None
+10.6.16.56~AG-EER-RA13-SW01~Arista Networks~DCS-7050S-64~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~JPE12271313~None
+10.6.16.57~AG-EER-RA13-SW02~Arista Networks~DCS-7050S-64~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~JPE12271163~None
+10.6.16.60~AG-WER-A14-SW01~Arista Networks~DCS-7048T-A~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~JPE13221422~None
+10.6.16.61~AG-WER-A15-SW02~Cisco~DCS-7048T-A~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~JPE12481285~None
+10.6.16.77~AG-ESRV-NER-RO5-S01~Cisco~WS-C3560G-48TS-E~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~FOC0907U03S~None
+10.8.16.155~TOAG-SVF-NDCCTVBC6-SW01~Cisco~OS-CIGESM-18TT-EBU~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm 2~FOC0944H05X~None
+10.8.16.156~TOAG-SVF-NDCCTVBC6-SW02~Cisco~OS-CIGESM-18TT-EBU~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm 2~FOC0946H0CM~None
+10.8.16.157~AG-RC08-NERCTVBC8-SW01~Cisco~WS-CBS3012-IBM-I~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm 2~FOC1618S0BD~None
+10.8.16.158~AG-RC08-NERCTVBC8-SW02~Cisco~WS-CBS3012-IBM-I~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm 2~FOC1619S07D~None
+10.8.16.159~AG-RC08-NERCTVBC8-SW03~Cisco~WS-CBS3012-IBM-I~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm 2~FOC1619S07H~None
+10.8.16.160~AG-RC08-NERCTVBC8-SW04~Cisco~WS-CBS3012-IBM-I~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm 2~FOC1619S09A~None
+10.8.16.161~AG-RC07-NERCTVBC6-SW03~Cisco~OS-CIGESM-18TT-EBU~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm 2~FOC0944H0NW~None
+10.8.16.162~AG-RC07-NERCTVBC6-SW04~Cisco~OS-CIGESM-18TT-EBU~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm 2~FOC0946H0AK~None
+10.10.100.2~TVE-Int-Core-I2~Arista Networks~DCS-7508~Canada~ON~Agincourt~Agincourt Homed~TVE~JSH12380247~None
+10.10.100.3~TVE-Int-Core-I6~Arista Networks~DCS-7508~Canada~ON~Agincourt~Agincourt Homed~TVE~JSH12140052~None
+10.10.100.5~AG-TVE-NER-E6-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~TVE~FOC1316Z4GB~None
+10.1.255.247~QUK2-SVF-CER-M03~Arista Networks~DCS-7280SE-64~Canada~ON~Queen~None~Engineering~JPE14453036~4.14.2F
+10.1.255.248~QUK2-SVF-CER-M04~Arista Networks~DCS-7280SE-64~Canada~ON~Queen~None~Engineering~JPE14443203~4.14.2F
+10.14.1.1~QU-INT-R620-FW01.chum~Cisco~Cisco ASA 5550~Canada~ON~Queen~None~DMZ~JMX1205L1Q8~8.4(4)1
+10.14.1.2~QU-INT-R620-FW01.chum~Cisco~Cisco ASA 5550~Canada~ON~Queen~None~DMZ~JMX1032K1HX~None
+10.14.18.15~TOQU-NTS-BDCMGMT-SW03~Cisco~WS-C3550-48~Canada~ON~Queen~None~IT Distribution~CAT0637X0EV~112.1(22)EA8a
+10.14.18.21~QSWS08_QU-IT-MUX-R2-S01.on.bell.ca~Cisco~WS-C4507R-E~Canada~ON~Queen~None~IT Distribution~FOX1233H6A6~None
+10.14.18.22~QU-WILD-BDC-R620-S01~Cisco~WS-C3560G-24TS-S~Canada~ON~Queen~None~DMZ~FOC1123Z0EF~None
+10.14.18.23~QU-WILD-BDC-R619-S01~Cisco~WS-C3560G-24TS-S~Canada~ON~Queen~None~DMZ~FOC1123Y59A~None
+10.14.18.39~TOQU-IT-3RD299-SW02~Cisco~WS-C2960G-8TC-L~Canada~ON~Queen~None~IT Distribution~FOC1210U23X~112.2(35)SE5
+10.14.18.47~QS7S21_QU-IT-2ND277-R1-S01.on.bell.ca~Cisco~WS-C3650-48FD-S~Canada~ON~Queen~None~IT Distribution~FDO2144E238~None
+10.14.18.66~RW6S51_QU-IT-5TH260-R1-S01.on.bell.ca~Cisco~WS-C4507R-E~Canada~ON~Queen~None~IT Distribution~FOX1240GTW7~112.2(37)SG1
+10.14.18.103~TOQU-IT-3RD250-SW01~Cisco~WS-C3560X-48PF-L~Canada~ON~Queen~None~IT Distribution~FDO1511Z04L~112.2(53)SE2
+10.14.18.110~QS7S01_QU-IT-BMT277-R1-S01.on.bell.ca~Cisco~WS-C3650-48FD-S~Canada~ON~Queen~None~IT Distribution~FDO2144E21M~112.1(22)EA8a
+10.14.18.118~QU-INT-620-IPS02~Fortinet, Inc.~FortiGate 600C~Canada~ON~Queen~None~IT Distribution~FG600C3912801900~5.0.8
+10.14.18.119~QU-INT-619-IPS01~Fortinet, Inc.~FortiGate 600C~Canada~ON~Queen~None~IT Distribution~FG600C3913800681~5.0.8
+10.10.100.6~AG-TVE-NER-E6-S02~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~TVE~FOC1451V4VT~None
+10.10.100.13~AG-TVE-NER-I2-S03~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~TVE~FOC1452Z2GD~None
+10.10.100.14~AG-TVE-NER-I2-S04~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~TVE~FOC1108Y05V~None
+10.10.100.17~AG-TVE-NER-I2-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~TVE~FOC1239W5JX~None
+10.10.100.18~AG-TVE-NER-I2-S02~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~TVE~FOC1211W2T6~None
+10.10.100.19~TVE-Mgmt-E12-SW01~Cisco~WS-C3560-48TS-S~Canada~ON~Agincourt~Agincourt Homed~TVE~CAT1004Z4FQ~None
+10.10.100.20~TVE-TIME1~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~TVE~None~None
+10.10.100.27~TVE-NDC-E1-SW01~Arista Networks~DCS-7050T-52~Canada~ON~Agincourt~Agincourt Homed~TVE~JSH11430830~None
+10.10.100.28~TVE-NDC-E8-SW01~Arista Networks~DCS-7050T-52~Canada~ON~Agincourt~None~TVE~JPE14041435~None
+10.10.100.29~TVE-Mgmt-E13-SW01~Cisco~WS-C3560-48TS-S~Canada~ON~Agincourt~Agincourt Homed~TVE~CAT1004Z4FA~None
+10.10.100.61~AG-TVE-WER-RA16-SW01~Arista Networks~DCS-7048T-A~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE13221353~None
+10.10.100.62~AG-TVE-WER-RA16-SW02~Arista Networks~DCS-7048T-A~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE12490434~None
+10.10.100.63~TVE-NDC-E12-sw01~Arista Networks~DCS-7050S-64~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE12332503~None
+10.10.100.64~TVE-NDC-E12-sw02~Arista Networks~DCS-7050S-64~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE12332522~None
+10.10.100.65~AG-TVE-TSLAB7-SW01~Arista Networks~DCS-7048T-A~Canada~ON~Agincourt~Agincourt Homed~TVE~JSH11381264~None
+10.10.100.66~AG-TVE-TSLAB7-SW02~Arista Networks~DCS-7048T-A~Canada~ON~Agincourt~Agincourt Homed~TVE~JSH11380357~None
+10.10.100.67~TVE-NDC-E13-sw01~Arista Networks~DCS-7050S-64~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE13161142~None
+10.10.100.68~TVE-NDC-E13-sw02~Arista Networks~DCS-7050S-64~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE13161151~None
+10.10.100.69~TVE-NDC-G7-sw01~Arista Networks~DCS-7050S-64~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE12331797~None
+10.10.100.70~TVE-NDC-G7-sw02~Arista Networks~DCS-7050S-64~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE12332529~None
+10.10.100.71~TVE-NDC-G8-sw01~Arista Networks~DCS-7050S-64~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE13380975~None
+10.10.100.72~TVE-NDC-G8-sw02~Arista Networks~DCS-7050S-64~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE13380857~None
+10.10.100.73~TVE-Mgmt-G7-SW01~Cisco~WS-C3560-48TS-S~Canada~ON~Agincourt~Agincourt Homed~TVE~CAT0938R4E7~None
+10.10.100.74~TVE-Mgmt-G8-SW01~Cisco~WS-C3560-48TS-S~Canada~ON~Agincourt~Agincourt Homed~TVE~CAT0938R5D5~None
+10.10.100.75~AG-TVE-MER-C18-S01~Arista Networks~DCS-7048T-A~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE13401919~None
+10.10.100.76~AG-TVE-MER-C18-S02~Arista Networks~DCS-7048T-A~Canada~ON~Agincourt~Agincourt Homed~TVE~JPE13402000~None
+10.10.100.77~AG-ENG-MER-C18-S03~Cisco~WS-C3560-24TS-S~Canada~ON~Agincourt~Agincourt Homed~TVE~CAT0938N0A1~None
+10.10.101.1~AG-TVE-MER-C18-S04~Arista Networks~DCS-7048T-A~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~JPE15473514~None
+10.14.18.120~QU-DMZ-R620-DIS01~Cisco~WS-C6504-E~Canada~ON~Queen~None~DMZ~FOX1314G9NA~112.2(33)SXH6
+10.14.18.121~QU-DMZ-R619-sw01~Cisco~WS-C3560G-48PS-S~Canada~ON~Queen~None~DMZ~FOC1303W1HZ~112.2(35)SE5
+10.14.18.122~QU-DMZ-R620-sw02~Cisco~WS-C3560G-48PS-S~Canada~ON~Queen~None~DMZ~FOC1244Z0PB~112.2(35)SE5
+10.14.18.124~QS-DMZ-CER-SW01~Cisco~WS-C3560X-24T-L~Canada~ON~Queen~None~DMZ~FDO1604K0HQ~112.2(55)SE3
+10.14.18.123~QU-DMZ-1FL-R1-SW01~Cisco~WS-C3560-24TS-S~Canada~ON~Queen~None~DMZ~CAT0931N1DA~112.2(25)SEB2
+10.14.18.237~Queen-DMZ-Internet1.production~Fortinet, Inc.~Fortigate 1500D~Canada~ON~Queen~None~DMZ~FG1K5D3I14800945~5.0.8
+10.14.18.238~Queen-DMZ-Internet2.production~Fortinet, Inc.~Fortigate 1500D~Canada~ON~Queen~None~DMZ~None~None
+10.14.18.250~RW5S02_TOQU-IT-BMT250-SW01.on.bell.ca~Cisco~WS-C4507R-E~Canada~ON~Queen~None~IT Distribution~FOX1309H4VD~115.2(1)E1
+10.14.255.254~QU-NTS-CER-R176-JR11~Juniper Networks, Inc.~Juniper MX104 Internet Backbone Router~Canada~ON~Queen~None~WAN~H7042~13.2R2.4
+10.14.255.255~QU-NTS-CER-R176-JR10~Juniper Networks, Inc.~Juniper MX104 Internet Backbone Router~Canada~ON~Queen~None~WAN~H9603~13.2R2.4
+10.124.9.20~QS-CER-RK651-AERO-SW01~Cisco~WS-C3650-48TS~Canada~ON~Queen~None~Engineering~FDO1814Q07R~03.03.03SE
+10.124.9.21~PIA-ENG-RK1-SW01~Cisco~WS-C3650-48TS~Canada~ON~Queen~None~Engineering~FDO1814Q05E~03.03.03SE
+10.124.14.16~QU-ENG-1ST299-R1-L01~Arista Networks~DCS-7050TX-64~Canada~ON~Queen~None~Spine/Leaf~SSJ17111484~4.19.4M
+10.124.14.17~QU-ENG-1ST299-R1-L02~Arista Networks~DCS-7050TX-64~Canada~ON~Queen~None~Spine/Leaf~SSJ17111226~4.19.4M
+10.124.14.18~QU-ENG-1ST299-R1-L03~Arista Networks~DCS-7050TX-64~Canada~ON~Queen~None~Spine/Leaf~JPE17082699~4.19.4M
+10.124.14.19~QU-BENG-2ND299-R2-L03~Arista Networks~DCS-7050TX-64~Canada~ON~Queen~None~Spine/Leaf~SSJ17042620~4.19.4M
+10.124.14.20~QU-BENG-2ND299-R2-L04~Arista Networks~DCS-7050TX-64~Canada~ON~Queen~None~Spine/Leaf~SSJ17111039~4.19.4M
+10.124.14.21~QU-BENG-2ND299-R2-L05~Arista Networks~DCS-7050TX-64~Canada~ON~Queen~None~Spine/Leaf~JPE17103029~4.19.4M
+10.124.14.22~QU-BENG-3RD299-R2-L02~Arista Networks~DCS-7050TX-64~Canada~ON~Queen~None~Spine/Leaf~SSJ17111078~4.19.4M
+10.124.14.23~QU-BENG-3RD299-R2-L03~Arista Networks~DCS-7050TX-64~Canada~ON~Queen~None~Spine/Leaf~SSJ17111086~None
+10.124.14.24~QU-BENG-3RD299-R2-L04~Arista Networks~DCS-7050TX-64~Canada~ON~Queen~None~Spine/Leaf~JPE17103049~4.19.4M
+10.124.14.34~QU-BENG-BDC-R623-L03~Arista Networks~DCS-7010T-48~Canada~ON~Queen~None~Spine/Leaf~JPE17081705~4.19.5M
+10.124.14.35~QU-BENG-BDC-R623-AS04~Arista Networks~DCS-7010T-48~Canada~ON~Queen~None~Spine/Leaf~JPE17081535~4.19.5M
+10.124.14.36~QU-BENG-BDC-R623-AS05~Arista Networks~DCS-7010T-48~Canada~ON~Queen~None~Spine/Leaf~JPE17081494~4.19.5M
+10.124.14.27~QU-ENG-CER-R174-L01~Arista Networks~DCS-7280SR-48C6~Canada~ON~Queen~None~ISIS~SSJ16420616~None
+10.124.14.28~QU-ENG-CER-R174-L02~Arista Networks~DCS-7280SR-48C6~Canada~ON~Queen~None~ISIS~SSJ17030209~None
+10.124.59.15~QSCMX-GVES141~HPE~J9728A~Canada~ON~Queen~None~Engineering~SG63FLYCJ5 ~None
+10.124.59.16~QSCMX-GVES142~HPE~J9728A~Canada~ON~Queen~None~Engineering~SG63FLYCLH ~None
+10.124.59.17~QSCMX-GVES161~HPE~J9728A~Canada~ON~Queen~None~Engineering~SG63FLYCLK ~None
+10.124.59.18~QSCMX-GVES162~HPE~J9728A~Canada~ON~Queen~None~Engineering~SG68FLYS98 ~None
+10.201.44.5~QU-ISIS-IDF2-R2-S04~Cisco~Cisco Catalyst 4948-10GE~Canada~ON~Queen~None~ISIS~FOX1207G4H1~112.2(31)SGA4
+10.201.44.6~TOQU-ENG-ISIS-SW02~Cisco~Cisco Catalyst 4948-10GE~Canada~ON~Queen~None~ISIS~FOX1204G7TU~112.2(31)SGA4
+10.201.48.6~QU-ISIS-1ST299-R2-S05~Cisco~Cisco Catalyst 4948-10GE~Canada~ON~Queen~None~ISIS~FOX1206G3J0~112.2(31)SGA4
+10.254.0.65~QSWV02_TOQU-ITD.on.bell.ca~Cisco~WS-C6504-E~Canada~ON~Queen~None~Engineering~FOX11440V7E~112.2(18)SXF11
+10.254.0.66~QSWV01_TOQU-ITD.on.bell.ca~Cisco~WS-C6504-E~Canada~ON~Queen~None~Engineering~FOX1142132P~112.2(18)SXF11
+172.20.1.5~TOQU-ENG-CER-SW01~Cisco~WS-C3560G-24TS-S~Canada~ON~Queen~None~Engineering~FOC1046Y1UU~112.2(25)SEE2
+172.20.1.6~TOQU-ENG-CER-SW02~Cisco~WS-C3560G-48TS-E~Canada~ON~Queen~None~Engineering~FOC0907U04V~112.2(25)SEE2
+172.20.1.8~QU-ENG-250-R1-S01~Cisco~WS-C6506-E~Canada~ON~Queen~None~Engineering~SAL1323RR2T~112.2(33)SXH6
+172.20.1.9~QU-ENG-CER-R28-SW03~Cisco~WS-C3560G-48PS-S~Canada~ON~Queen~None~Engineering~FOC1224Z5GN~112.2(35)SE5
+172.20.1.11~QU-ENG-1ST299-R2-S03~Cisco~WS-C3560G-48TS-E~Canada~ON~Queen~None~Engineering~FOC1130Y3CL~112.2(35)SE5
+172.20.1.12~QU-ENG-1ST299-R2-S07~Cisco~WS-C3750G-24TS-S~Canada~ON~Queen~None~Engineering~CAT0847X1JU~112.1(19)EA1d
+172.20.1.13~TOQU-ENG-3RD299-SW01~Cisco~WS-C3560G-48TS-E~Canada~ON~Queen~None~Engineering~FOC1012Y35Q~112.2(25)SEB4
+172.20.1.14~TOQU-ENG-MUX-SW01~Cisco~WS-C3560G-48TS-S~Canada~ON~Queen~None~Engineering~FOC1102Z3J4~112.2(25)SEE2
+172.20.1.21~QU-ENG-MCC-R860-S02~Cisco~WS-C3560X-48P-L~Canada~ON~Queen~None~Engineering~FDO1551W0BD~112.2(55)SE3
+172.20.1.22~QU-ENG-MCC-R860-S03~Cisco~WS-C3560X-48P-S~Canada~ON~Queen~None~Engineering~FDO1718H279~112.2(55)SE5
+172.20.1.23~QU-ENG-MCC-R860-S04~Cisco~WS-C3560X-24T-L~Canada~ON~Queen~None~Engineering~FDO1622V0YB~112.2(55)SE3
+172.20.1.24~QU-ENG-MCC-R860-S05~Cisco~WS-C3560X-24T-L~Canada~ON~Queen~None~Engineering~FDO1526V090~112.2(55)SE3
+172.20.1.27~TOQU-ENG-RK786-SW01~Cisco~WS-C3560G-24PS-S~Canada~ON~Queen~None~Engineering~FOC1201Y1SQ~112.2(40)SE
+172.20.1.31~QU-ENG-BDC-R623-S01.bellmedia~Cisco~WS-C3560G-48PS-S~Canada~ON~Queen~None~Engineering~FOC1239W5K7~115.0(2)SE6
+172.20.1.32~QS-ENG-BDC-623SW2~Cisco~WS-C3560G-48PS-S~Canada~ON~Queen~None~Engineering~FOC1241W1XN~None
+172.20.1.36~QS-RESCU-R130-SW01~Cisco~WS-C3560-48TS-S~Canada~ON~Queen~None~Engineering~CAT0919N2AE~None
+172.20.1.37~RESCU-SW01~Cisco~WS-C2960G-8TC-L~Canada~ON~Queen~None~Engineering~FOC1221V309~None
+172.20.1.45~QU-TVE-BDC-R601-S01~Arista Networks~DCS-7048T-A~Canada~ON~Queen~None~Engineering~JPE12481215~4.13.12M
+172.20.1.46~QU-TVE-BDC-R601-S02~Arista Networks~DCS-7048T-A~Canada~ON~Queen~None~Engineering~JPE12481236~4.13.12M
+172.20.1.50~TOQU-ENG-HARRISA-SW01~Cisco~Cisco Catalyst 4948-10GE~Canada~ON~Queen~None~Engineering~None~112.2(25)EWA8
+172.20.1.51~QU-ENG-CER-HARISA-S02~Cisco~Catalyst 4948~Canada~ON~Queen~None~Engineering~None~112.2(25)EWA8
+172.20.1.52~QU-CER-R766-S01~Cisco~WS-C3750G-24TS-S~Canada~ON~Queen~None~Engineering~CAT0922Y0SD~112.2(25)SEC2
+172.20.1.53~QU-ENG-CER-R718-SW01~Cisco~WS-C3750G-24TS-S~Canada~ON~Queen~None~Engineering~CAT0847X1K6~None
+10.200.112.146~OSR-XMIT-S01~Cisco~WS-C3560G-24TS-S~Canada~ON~Owen Sound Radio~VPN Connected~TX~FOC1123Z0A1~None
+10.10.103.20~tve_f5_host1~Unknown~Unknown~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.10.103.25~wiintlb03~Unknown~Unknown~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.10.103.30~widmzlb03~Unknown~Unknown~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.10.103.35~widmzlb05~Unknown~Unknown~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.10.103.55~tve_f5_host2~Unknown~Unknown~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.10.103.60~wiintlb04~Unknown~Unknown~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.10.103.65~widmzlb04~Unknown~Unknown~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.10.103.70~widmzlb06~Unknown~Unknown~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.10.103.214~HTSUCSNEXUS01~Cisco~N5K-C5548UP~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~SSI16450AE6~None
+10.10.103.215~HTSUCSNEXUS02~Cisco~N5K-C5548UP~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~SSI1647046H~None
+10.123.28.67~AG-NER-S03-NorthLeaf01~Arista Networks~DCS-7280SR-48C6~Canada~ON~Agincourt DMZ~Agincourt Homed~FortiChassis~JPE16200947~None
+10.123.28.68~AG-NER-S03-SouthLeaf01~Arista Networks~DCS-7280SR-48C6~Canada~ON~Agincourt DMZ~Agincourt Homed~FortiChassis~JPE16200943~None
+10.123.28.69~AG-NER-S03-NorthLeaf02~Arista Networks~DCS-7280SR-48C6~Canada~ON~Agincourt DMZ~Agincourt Homed~FortiChassis~SSJ17173871~None
+10.123.28.70~AG-NER-S03-SouthLeaf02~Arista Networks~DCS-7280SR-48C6~Canada~ON~Agincourt DMZ~Agincourt Homed~FortiChassis~SSJ17234013~None
+10.123.32.8~AG-ENG-MEGA-B5-SW01~Arista Networks~DCS-7050TX-48~Canada~ON~Agincourt~Agincourt Homed~Spine/Leaf~JPE16193156~None
+10.123.32.9~AG-ENG-MEGA-B5-SW02~Arista Networks~DCS-7050TX-48~Canada~ON~Agincourt~Agincourt Homed~Spine/Leaf~JPE16193210~None
+10.123.32.10~AG-BENG-NW3-R2-S04~Cisco~  ~Canada~ON~Agincourt~Agincourt Homed~Spine/Leaf~CAT2037SAVP~None
+10.123.32.13~AG-BENG-WW1-R1-SW01~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt~Agincourt Homed~Spine/Leaf~SSJ16512851~None
+10.123.32.14~AG-BENG-WW1-R1-SW02~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt~Agincourt Homed~Spine/Leaf~SSJ16512818~None
+10.91.127.154~EDGTX-HUT-R2-S01~Cisco~WS-C3560X-24T-E~Canada~ON~Midland Radio~MPLS Central~TX~FDO1918F3Y0~None
+10.123.32.21~AG-BENG-WWLB-R7-S03~Arista Networks~DCS-7050TX-72Q~Canada~ON~Agincourt~Agincourt Homed~Spine/Leaf~SSJ16420132~None
+10.123.33.16~AG-BENG-NER-M1-L01~Arista Networks~DCS-7280QR-C36~Canada~ON~Agincourt~Agincourt Homed~Green ENG~SSJ17331204~None
+10.123.33.17~AG-BENG-NER-M1-L02~Arista Networks~DCS-7280QR-C36~Canada~ON~Agincourt~Agincourt Homed~Green ENG~SSJ17331171~None
+10.123.33.18~AG-BENG-WER-B08-L04~Arista Networks~DCS-7308~Canada~ON~Agincourt~Agincourt Homed~Green ENG~HSH17105009~None
+10.123.33.19~AG-BENG-WERX-D38-L04~Arista Networks~DCS-7308~Canada~ON~Agincourt~Agincourt Homed~Green ENG~HSH17105019~None
+10.123.33.20~AG-VIDEOCENTRAL-SW01~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt~Agincourt Homed~Spine/Leaf~JPE17104361~None
+10.123.33.21~AG-ENG-MER-A13-L01~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt ~Agincourt Homed~Green ENG~JPE17081665~None
+10.123.33.22~AG-ENG-MER-A13-L02~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt ~Agincourt Homed~Green ENG~JPE17081582~None
+10.123.33.23~AG-ENG-MER-C18-L05~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt ~Agincourt Homed~Green ENG~JPE17163710~None
+10.123.33.24~AG-ENG-MER-C18-L06~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt ~Agincourt Homed~Green ENG~JPE17163697~None
+10.254.0.1~TOAG-IT-NDC-DIS02~Cisco~WS-C6504-E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX11440V90~None
+10.254.0.2~TOAG-IT-EDC-DIS01~Cisco~WS-C6504-E~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FOX11440GZH~None
+10.254.0.3~TOAG-SVF-NDC-M01~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm~SMG0925N35X~None
+10.254.0.7~AG-ENG-NER-D8-M01~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SMG1240N6YL~None
+10.14.18.48~QU-IT-1ST277-R1-S02~Cisco~WS-C3560G-48PS-S~Canada~ON~Queen~Agincourt Homed~IT Distribution~FOC1219W3NU~None
+10.254.0.8~TOAG-ENG-EDC-M01~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~Engineering~None~None
+10.254.0.47~AG-SVF-NDC-S01-M03~Arista Networks~DCS-7508~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~JSH10210146~None
+10.14.18.64~RW6S41_QU-IT-4TH260-R2-S01.on.bell.ca~Cisco~WS-C4507R+E~Canada~ON~Queen~Agincourt Homed~IT Distribution~FXS1704Q1H8~None
+10.254.0.48~AG-SVF-NDC-S08-M02~Arista Networks~DCS-7508~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~HSH13270063~None
+10.254.0.58~TOAG-NTS-MGCP-01~Cisco~CISCO3845         ~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FHK1232F2TQ~None
+10.254.0.61~TOAG-NTS-MGCP-02~Cisco~CISCO3845         ~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FTX1236A1BC~None
+10.254.0.130~TOAG-IT-EDCBack-SW01~Cisco~MIDPLANE~Canada~ON~Agincourt~Agincourt Homed~Backup Network~JAE13391C2K~None
+10.254.0.131~TOAG-IT-NDCBack-SW01~Cisco~MIDPLANE~Canada~ON~Agincourt~Agincourt Homed~Backup Network~JAE14300AZ1~None
+10.254.0.166~AG-NDC-RO5-M01~Cisco~MIDPLANE~Canada~ON~Agincourt~Agincourt Homed~ISIS~JAE1351R5AG~None
+10.254.0.221~AG-NER-RS12-M02~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm 2~SMC1636006W~None
+10.254.0.167~AG-NDC-RO5-M02~Cisco~MIDPLANE~Canada~ON~Agincourt~Agincourt Homed~ISIS~JAE14260R3W~None
+10.254.0.220~AG-NER-RS12-M01~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~IT Server Farm 2~SMC16030003~None
+10.123.140.16~AG-NTS-ORION.production~Windows~Windows 2019 Server~Canada~ON~Agincourt~Agincourt Homed~Engineering~None~None
+10.254.1.251~AG-NDC-P03-MGMTSW01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~NTS Core~FOC1347Y07N~None
+10.254.1.253~AG-EDC-D01-MGMTSW01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~NTS Core~FOC1349Z1T7~None
+69.156.254.254~TVE-ASR9000-Cluster~Cisco~Cisco ASR9006~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+172.20.1.57~QU-TVE-SW03~Unknown~Unknown~Canada~ON~Queen~None~Engineering~FOC1719371N~15.2(1)
+172.20.1.58~QU-TVE-SW04~Unknown~Unknown~Canada~ON~Queen~None~Engineering~FOC1719374B~15.2(1)
+172.20.1.61~QS-ENG-BDC-621SW1~Cisco~WS-C3560G-48PS-S~Canada~ON~Queen~None~Engineering~FOC1239W5F0~None
+172.20.1.62~QS-ENG-BDC-621SW2~Cisco~WS-C3560G-48PS-S~Canada~ON~Queen~None~Engineering~FOC1239W5FD~None
+10.192.13.6~PETR-NET-SRVM-R5-S01~Cisco~WS-C3560G-48TS-S~Canada~ON~Peterborough Radio~MPLS Central~Network~FOC1232Y3QT~None
+10.200.144.1~QTR-NET-BCER-R1-M01~Arista Networks~DCS-7280SR2-48YC6~Qatar~ON~Qatar~Agincourt Homed~Network~JPE20302309~None
+172.22.45.6~TO-FENL-NET-S01~Cisco~IE-3000-4TC~Canada~ON~Toronto Cameras~Agincourt Homed~Network~FOC1938Z28H~None
+172.21.1.4~TOAG-ENG-WER-D8-SW01~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SMG0944N0TD~None
+172.21.1.6~AG-ENG-CER-B10-S03~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SMG0941NFPR~None
+172.21.1.14~AG-ENG-WER-B08-S01~Cisco~WS-C4507R+E~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOX1433GRZM~None
+172.21.1.22~AG-ENG-SAT-R1-S01~Cisco~WS-C3650-48TS~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO1933E1L5~None
+172.21.1.30~AG-ENG-MEGA-C17-S01~Cisco~WS-C4507R+E~Canada~ON~Agincourt~Agincourt Homed~Engineering~FXS1917Q15C~None
+172.21.1.41~TOAG-ENG-WEX-SW02~Cisco~WS-C6504-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOX1230GV41~None
+172.21.1.42~TOAG-ENG-S10EQX-SW03~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1451V4R4~None
+172.21.1.43~AG-ENG-LOFT-R02-SW01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1528Y198~None
+172.21.1.44~AG-ST10-R2-SW02~Cisco~WS-C3560G-24TS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1634X2GE~None
+172.21.1.45~TOAG-ENG-NEXMER-SW02~Cisco~WS-C3650-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO2202E2D2~None
+172.21.1.46~AGEN-MERC17EQX-SW02~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1307W238~None
+172.21.1.47~AG-ENG-FNP-R3-S01~Cisco~WS-C3650-48PS~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO1925E1NR~None
+172.21.1.48~TOAG-ENG-EQXCER-SW01~Cisco~WS-C3560G-48TS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1232Z23G~None
+172.21.1.49~AG-MEGA-RH26-S01~Cisco~WS-C3560G-48TS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1232Z24Q~None
+172.21.1.51~TOAG-ENG-NEWS-SW01~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SMG1050N70W~None
+172.21.1.52~TOAG-ENG-CER-TSW01~Cisco~Cisco Catalyst 4948-10GE~Canada~ON~Agincourt~Agincourt Homed~Engineering~None~None
+172.21.1.54~AG-ENG-ST6-C14-S01~Cisco~WS-C2960X-48TS-L~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1923S17Q~None
+172.21.1.55~AG-ENG-CFTO-R1-S01~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SMG1145NGP5~None
+172.21.1.57~AG-ENG-MERX-H6-S01~Cisco~WS-C3650-48TS~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO1851E378~None
+172.21.1.58~AG-ENG-MERX-H6-S02~Cisco~WS-C3650-48TS~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO1851E38Q~None
+172.21.1.60~TOAG-ENG-WEX-SW03~Cisco~WS-C6506-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SAL12330M9H~None
+172.21.1.61~TOAG-ENG-WEX-SW04~Cisco~WS-C6506-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SAL12330M7M~None
+172.21.1.62~AG-ENG-NW2-R1-S02~Cisco~WS-C3560G-48TS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1245W1JJ~None
+172.21.1.74~AG-ENG-MER-C18-S04~Cisco~WS-C4507R-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOX1332GXQA~None
+172.21.1.75~AG-MER-RC18-SW02~Cisco~WS-C4507R+E~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOX1520GJFM~None
+172.21.1.76~AG-MG2-RA5-ENS02~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1307W20G~None
+172.21.1.77~AG-ENG-MER-C15-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1452Z2ED~None
+172.21.1.78~AG-ENG-MER-C15-S02~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1452Z2GS~None
+172.21.1.79~AG-MER-C16-S02~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SMG1039NZ1N~None
+172.21.1.80~TOAG-ENG-CER-SW02~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SMC13240021~None
+172.21.1.81~TOAG-ENG-MERD15-SW01~Cisco~WS-C6506-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SAL1309KRCT~None
+172.21.1.82~TOAG-ENG-MERE15-SW01~Cisco~WS-C6506-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SAL1309KRCS~None
+172.21.1.83~AG-MER-C16-S01~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SMC1309003A~None
+172.21.1.84~AG-MER-B10-SW01~Cisco~WS-C4507R-E~Canada~ON~Agincourt~Agincourt Homed~Master Control~FOX1435GQWP~None
+172.21.1.85~AG-ENG-WW2-SW01~Cisco~WS-C4507R+E~Canada~ON~Agincourt~None~Engineering~FXS1918Q31D~None
+172.21.1.92~AG-ENG-MGARAGE-R1-S02~Cisco~WS-C3560G-24PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1440Y12T~None
+172.21.1.93~AG-WER-D21-SW01~Cisco~WS-C4507R-E~Canada~ON~Agincourt~None~Engineering~FOX1345GR55~None
+172.21.1.99~AG-ENG-WW1-R2-S02~Cisco~WS-C3560X-48T-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO1919F2A1~None
+172.21.1.101~TOAG-ENG-STUD11-SW01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~None~Engineering~FOC1452Z2GJ~None
+172.21.1.106~AG-NETA-UER-R2-S01~Cisco~WS-C3560X-24T-L~Canada~ON~Agincourt~Agincourt Homed~Video Network~FDO1812Z2TZ~None
+172.21.1.107~AG-NETB-UER-R3-S01~Cisco~WS-C3560X-24P-L~Canada~ON~Agincourt~Agincourt Homed~Video Network~FDO1627V1KV~None
+172.21.1.108~AG-ENG-UER-R2-S02~Cisco~WS-C3560X-48P-L~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO1732R2TA~None
+172.21.1.109~AG-ENG-UER-R3-S02~Cisco~WS-C3560X-48P-L~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO1732R34F~None
+172.21.1.110~AG-WER-A23-HAR-VID~Cisco~WS-C3560G-24TS-E~Canada~ON~Agincourt~None~Engineering~FOC1612Z56X~None
+172.21.1.111~AG-WER-A22-HAR-VID~Cisco~WS-C3560G-24TS-E~Canada~ON~Agincourt~None~Engineering~FOC1552V1K8~None
+172.21.1.112~AG-WER-A23-HAR-MAN~Cisco~WS-C2960-24TT-L~Canada~ON~Agincourt~None~Engineering~FCQ1537Y388~None
+172.21.1.113~AG-WER-A22-HAR-MAN~Cisco~WS-C2960-24TT-L~Canada~ON~Agincourt~Agincourt Homed~Engineering~FCQ1610X302~None
+172.21.1.116~TOAG-ENG-WWBRM-SW01~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1341Z12V~None
+172.21.1.171~AG-VIDA-WER-D7-S01~Cisco~WS-C3560X-48P-L~Canada~ON~Agincourt~Agincourt Homed~Video Network~FDO1525K1C1~None
+172.21.1.172~AG-VIDB-WER-D7-S02~Cisco~WS-C3560X-24P-L~Canada~ON~Agincourt~Agincourt Homed~Video Network~FDO1526Z0A4~None
+172.21.1.173~AG-MER-NETA-E13-S01~Cisco~WS-C3560X-48P-L~Canada~ON~Agincourt~Agincourt Homed~Video Network~FDO1513K00T~None
+172.21.1.174~AG-MER-NETB-E13-S02~Cisco~WS-C3560X-24P-L~Canada~ON~Agincourt~Agincourt Homed~Video Network~FDO1441K166~None
+172.21.1.176~AG-VIDA-CER-B15-S01~Cisco~WS-C3560X-24P-L~Canada~ON~Agincourt~Agincourt Homed~Video Network~FDO1640H12V~None
+172.21.1.177~AG-VIDB-CER-B15-S02~Cisco~WS-C3560X-24T-E~Canada~ON~Agincourt~Agincourt Homed~Video Network~FDO1919F04V~None
+172.21.1.182~K2-X_1240B_AG_Mega~Fortinet, Inc.~FortiGate 1240B~Canada~ON~Agincourt~Agincourt Homed~K2 Video Playout~None~None
+172.21.1.183~K2-Y_1240B_AG_WEX~Fortinet, Inc.~FortiGate 1240B~Canada~ON~Agincourt~Agincourt Homed~K2 Video Playout~None~None
+172.21.1.185~AG-EN-ST1-RE-S01~Cisco~WS-C3560X-24P-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO1525R0T5~None
+172.21.1.186~AG-EN-ST1-RE-S02~Cisco~WS-C3560X-24P-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO1525R03H~None
+172.21.1.206~AG-ENG-WER-B17-S01~Cisco~WS-C3560X-48T-L~Canada~ON~Agincourt~Agincourt Homed~Master Control~FDO1814Z0T5~None
+172.21.1.207~AG-ENG-WER-B17-S02~Cisco~WS-C3560X-48T-L~Canada~ON~Agincourt~Agincourt Homed~Master Control~FDO1814Z0U0~None
+172.21.1.208~AG-ENG-MEGA-B15-S01~Cisco~WS-C3560X-48T-L~Canada~ON~Agincourt~Agincourt Homed~Master Control~FDO1814H06Z~None
+172.21.1.209~AG-ENG-MEGA-B15-S02~Cisco~WS-C3560X-48T-L~Canada~ON~Agincourt~Agincourt Homed~Master Control~FDO1814Z0UQ~None
+172.21.1.213~AG-ENG-EPI-R1-SW01~Cisco~WS-C3560X-48T-L~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO1540V06Y~None
+172.21.1.214~AG-ENG-EPI-R1-SW02~Cisco~WS-C3560X-48P-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO1718H25F~None
+172.21.1.216~AG-AXIA-CFTO-R1-S03~Cisco~WS-C3560G-24PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1328W6VN~None
+172.21.1.225~AG-ENG-TSNMSTR-R1-S01~Cisco~WS-C3560X-48T-L~Canada~ON~Agincourt~Agincourt Homed~Master Control~FDO1547R0DJ~None
+172.21.1.226~AG-ENG-TSNMSTR-R1-S02~Cisco~WS-C3560X-48T-L~Canada~ON~Agincourt~Agincourt Homed~Master Control~FDO1428K06Y~None
+172.21.1.227~AG-ENG-TSNMSTR-R2-S01~Cisco~WS-C3560X-48P-L~Canada~ON~Agincourt~Agincourt Homed~Master Control~FDO1732R34L~None
+172.21.1.228~AG-ENG-TSNMSTR-R2-S02~Cisco~WS-C3560X-48T-L~Canada~ON~Agincourt~Agincourt Homed~Master Control~FDO1802R1PT~None
+172.21.1.232~AG-AXIA-WER-B08-S01~Cisco~WS-C3560G-24PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1222Z49H~None
+172.21.1.233~AG-AXIA-WER-B08-S03~Cisco~WS-C3560G-24PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1201Z3WG~None
+172.21.1.246~TOAG-ENG-HDCAM-SW01~Cisco~WS-C2960-48TC-L~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOC1111Z3GU~None
+172.21.1.249~AG-ENG-WERXC38-SW01~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SMC1048000U~None
+172.21.88.7~TK2ESC01~HPE~J9728A~Canada~ON~Agincourt~Agincourt Homed~K2 Video Playout~SG45FLYW4K ~None
+172.21.88.8~TK2ESC02~HPE~J9728A~Canada~ON~Agincourt~Agincourt Homed~K2 Video Playout~SG3BFLY232 ~None
+172.21.88.9~AG-K2-MER-E4-S6~HPE~J9147A~Canada~ON~Agincourt~Agincourt Homed~K2 Video Playout~SG342IR01T ~None
+172.21.88.10~AG-K2-MER-E4-S7~HPE~J9147A~Canada~ON~Agincourt~Agincourt Homed~K2 Video Playout~SG313IR0FW ~None
+172.21.88.141~AGK2ESX03~HPE~J9145A~Canada~ON~Agincourt~Agincourt Homed~K2 Video Playout~SG251IP0BN ~None
+172.21.88.142~AGK2ESX04~HPE~J9145A~Canada~ON~Agincourt~Agincourt Homed~K2 Video Playout~SG238IP11P ~None
+172.20.1.65~QS-ENG-BDC-621-S05~Cisco~WS-C3560G-48PS-S~Canada~ON~Queen~None~Engineering~FOC1239W5N5~None
+172.20.1.77~QU-ENG-CER737-SW02~Cisco~WS-C3560G-48TS-S~Canada~ON~Queen~None~Engineering~FOC1232Y3QZ~112.2(35)SE5
+172.20.1.78~QU-ENG-CER737-SW03~Cisco~WS-C3560G-48TS-S~Canada~ON~Queen~None~Engineering~FOC1247W6M1~112.2(53)SE1
+172.20.1.79~QU-ENG-CER737-SW04~Cisco~WS-C3560X-48P-L~Canada~ON~Queen~None~Engineering~FDO1639H1AF~112.2(55)SE5
+172.20.1.101~QU-BDC-619-MRV01~Unknown~Unknown~Canada~ON~Queen~None~Engineering~None~None
+172.20.1.200~QU-CER-R176-TA01~Arista Networks~DCS-7124SX~Canada~ON~Queen~None~WAN~JPE12320387~4.13.12M
+172.20.1.201~QU-CER-R135-RA01~Cisco~WS-C3560X-24P-S~Canada~ON~Queen~Agincourt Homed~Engineering~FDO1524P1YH~112.2(58)SE2
+172.20.1.202~QU-CER-R135-RB01~Cisco~WS-C3560X-24P-S~Canada~ON~Queen~Agincourt Homed~Engineering~FDO1525R0TJ~112.2(58)SE2
+172.20.1.203~QU-CER-R176-TB01~Arista Networks~DCS-7124SX~Canada~ON~Queen~None~WAN~JPE12320281~4.13.12M
+172.20.1.223~QS-ENG-3FL-R2-SW01~Cisco~WS-C3560X-48PF-L~Canada~ON~Queen~None~Engineering~FDO1632V0QR~112.2(55)SE3
+172.20.1.224~QS-ENG-CER-R723-SW01~Cisco~WS-C3560X-48PF-L~Canada~ON~Queen~None~Engineering~FDO1525P1R6~112.2(55)SE3
+172.20.1.225~QS-ENG-CER-R723-SW02~Cisco~WS-C3560X-48PF-L~Canada~ON~Queen~None~Engineering~FDO1702X1AC~112.2(55)SE3
+172.20.1.226~QS-ENG-250CER-R1-SW02~Cisco~WS-C3560X-48PF-L~Canada~ON~Queen~None~Engineering~FDO1623P108~112.2(55)SE1
+172.20.1.230~TOQU-ENG-CER52-SW01~Cisco~WS-C3560G-48TS-E~Canada~ON~Queen~None~Engineering~FOC0907U043~12.2(44)SE2
+172.20.1.234~QU-299IDF2-R1-S03~Cisco~WS-C3750G-24TS-S~Canada~ON~Queen~None~Engineering~CAT0815Y1K5~112.2(55)SE5
+172.20.1.253~TOQU-ENG-DEKO-SW01~Cisco~Cisco Catalyst 2924R~Canada~ON~Queen~Agincourt Homed~Engineering~None~112.0(5.3)WC(1)
+172.20.1.254~TOQU-ENG-BUGCC-SW01~Cisco~Cisco Catalyst 3548 XL~Canada~ON~Queen~None~Engineering~FAB0542P3KK~112.0(5)WC17
+172.20.59.11~QSINX-GVES01~HPE~J9145A~Canada~ON~Queen~None~Engineering~SG019IP02K ~None
+172.20.59.12~QSINX-GVES02~HPE~J9145A~Canada~ON~Queen~None~Engineering~SG019IP01B ~None
+172.20.59.13~QSMUS-GVES21~HPE~J9145A~Canada~ON~Queen~None~Engineering~SG021IP0CH ~None
+172.20.59.14~QSMUX-GVES22~HPE~J9145A~Canada~ON~Queen~None~Engineering~SG019IP02G ~None
+172.20.59.15~QSMUY-GVES31~HPE~J9145A~Canada~ON~Queen~None~Engineering~SG019IP01W ~None
+172.20.59.16~QSMUY-GVES32~HPE~J9145A~Canada~ON~Queen~None~Engineering~SG019IP015 ~None
+205.210.253.1~205.210.253.1~Unknown~Unknown~Canada~ON~Queen~None~DMZ~None~None
+205.210.253.2~QU-INT-R619-RT01~Cisco~CISCO3945-CHASSIS~Canada~ON~Queen~None~DMZ~FTX1603AJ06~None
+205.210.253.3~QU-INT-R620-RT02~Cisco~CISCO3945-CHASSIS~Canada~ON~Queen~None~DMZ~FTX1603AJ07~None
+205.210.253.11~205.210.253.11~Unknown~Unknown~Canada~ON~Queen~None~DMZ~None~None
+10.1.4.20~VPN-ASA5520~Cisco~Cisco ASA 5520~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~None~None
+10.1.4.21~VPN-ASA5520~Cisco~Cisco ASA 5520~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~None~None
+10.1.9.12~TOAG-DMZ-NDC-Server-SW~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~FOC1516Y2RH~None
+10.1.9.13~TOAG-DMZ-WER-Server-SW~Cisco~WS-C3560G-24PS-S~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~FOC1101ZB9B~None
+10.1.10.5~TOAG-DMZ-NDC~Cisco~WS-C6504-E~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~FOX1338G2WP~None
+10.1.10.6~TOAG-DMZ-EDC~Cisco~WS-C6504-E~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~FOX1311GPV4~None
+10.1.10.7~TOAG-SRV-DMZNDC-SW01~Cisco~WS-C3560G-48TS-S~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~FOC1116Z1U9~None
+10.1.10.8~TOAG-SRV-DMZEDC-SW01~Cisco~WS-C3560G-48TS-S~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~FOC1116Z1YT~None
+10.1.12.11~AG-CER-DMZ-C10-VENDER-SW~Cisco~WS-C3560G-24PS-S~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~FOC1027Z0XU~None
+10.1.12.12~TOAG-DMZ-LOFT-Vendor-SW~Cisco~WS-C2960G-8TC-L~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~FOC1208U1H1~None
+10.1.12.13~AG-NDC-DMZ-VENDOR-SW~Cisco~WS-C3560G-24PS-S~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~FOC1524V34C~None
+10.1.12.14~TOAG-DMZ-WER-Vendor-SW~Cisco~WS-C3560G-24PS-S~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~FOC1519Y24W~None
+10.1.12.16~TOAG-DMZ-MER-Vendor-SW~Cisco~WS-C3560-24TS-S~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~CAT0951Z1XP~None
+10.1.16.30~FireEye-CMS~Unknown~Unknown~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~None~None
+10.1.16.245~AG_1240B_NDC_DMZ~Fortinet, Inc.~FortiGate 1240B~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~None~None
+10.1.16.247~AG_1240B_EDC_DMZ~Fortinet, Inc.~FortiGate 1240B~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~None~None
+10.1.16.54~AG-IT-NEWS-R4-S02~Cisco~WS-C3650-48PS~Canada~ON~Agincourt~Agincourt Homed~IT Distribution~FDO2027Q1EG~03.03.04SE
+10.28.1.16~EG-ER10-R02-WL-SW01~Cisco~WS-C3560G-48PS-S~Canada~ON~Eglington~Agincourt Homed~Network~FOC1039Y125~None
+10.28.1.14~EG-NET-ER8-R1-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Eglington~Agincourt Homed~Network~FOC1002Y1GL~None
+10.123.81.5~AG-TVEDMZ-WER-D8-S02~Arista Networks~DCS-7048T-A~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~JPE15440564~4.14.9M
+10.200.127.33~vpn-prod-LdnMrktFG40f.production~Fortinet, Inc.~FGT_40F~Canada~ON~London Market Bureau~VPN Connected~Network~None~None
+10.123.28.15~AG-ENG-NER-F13-L01~Arista Networks~DCS-7508~Canada~ON~Agincourt~Agincourt Homed~Green ENG~HSH14345098~None
+10.123.28.17~AG-ENG-NER-F13-L03~Arista Networks~DCS-7508~Canada~ON~Agincourt~Agincourt Homed~Green ENG~HSH14355019~None
+10.122.30.13~CA-ENG-REP-R1-S01~Cisco~WS-C2960-24TT-L~Canada~AB~Calgary~Agincourt Homed~Engineering~FCQ1622X255~None
+10.200.168.1~MIR-NET-RR-R1-F01~Cisco~Cisco ASA 5512-X~Canada~ON~Midland Radio~VPN Connected~Network~None~None
+10.14.18.61~RW6S11_QU-IT-1ST260-R2-S01.on.bell.ca~Cisco~WS-C4507R+E~Canada~ON~Queen~Agincourt Homed~IT Distribution~FXS1705Q4S8~None
+10.91.202.11~STHY-NET-TECR-R1-S02~Cisco~WS-C3650-48PS~Canada~PQ~St Hyacinthe Radio~MPLS Quebec~Network~FDO1931P1J8~None
+10.254.0.15~WG-NET-CER-I2-M01~Cisco~WS-C4507R-E~Canada~ON~Winnipeg~Agincourt Homed~Network~FOX1217GV09~None
+10.14.18.62~RW6S21_QU-IT-2ND260-R2-S01.on.bell.ca~Cisco~WS-C4507R-E~Canada~ON~Queen~Agincourt Homed~IT Distribution~FXS1646Q1V0~None
+10.14.18.63~RW6S31_QU-IT-3RD260-R2-S01.on.bell.ca~Cisco~WS-C4507R-E~Canada~ON~Queen~Agincourt Homed~IT Distribution~FOX1343GWAW~None
+10.62.16.14~WG-NET-CER-I2-S03~Cisco~WS-C3560G-24TS-S~Canada~MB~Winnipeg~Agincourt Homed~Network~FOC1224W0XL~None
+10.125.4.41~1755-ENG-SE12-R21-S01~Arista Networks~DCS-7010T-48~Canada~PQ~1755~Montreal-Homed~Engineering~SSJ18323645~4.19.10M
+10.125.4.42~1755-ENG-SE12-R21-S02~Arista Networks~DCS-7010T-48~Canada~PQ~1755~Montreal-Homed~Engineering~SSJ18323664~4.19.10M
+10.125.4.43~1755-ENG-SE12-R21-S03~Arista Networks~DCS-7010T-48~Canada~PQ~1755~Montreal-Homed~Engineering~SSJ18323628~4.19.10M
+10.125.4.44~1755-ENG-SE12-R21-S04~Arista Networks~DCS-7010T-48~Canada~PQ~1755~Montreal-Homed~Engineering~SSJ18323632~4.19.10M
+10.125.4.45~1755-ENG-SE12-R21-S05~Arista Networks~DCS-7010T-48~Canada~PQ~1755~Montreal-Homed~Engineering~SSJ18323655~4.19.10M
+10.125.4.46~1755-ENG-SE12-R21-S06~Arista Networks~DCS-7010T-48~Canada~PQ~1755~Montreal-Homed~Engineering~SSJ18323662~4.19.10M
+10.122.196.1~LE-NET-CER-R2-M01~Cisco~WS-C3650-48PS~Canada~AB~Lethbridge~Calgary-Homed~Network~FDO1934E3PP~None
+10.122.197.5~LE-NET-CER-R2-S02~Cisco~WS-C3650-48PS-S~Canada~AB~Lethbridge~Calgary-Homed~Network~FDO2139V054~None
+10.122.197.10~LE-WAN-CER-R1-TB02~Cisco~N3K-C3548P-10GX~Canada~AB~Lethbridge~Calgary-Homed~WAN~FOC2220R0P9~None
+10.122.197.11~LE-WAN-CER-R1-TA01~Cisco~N3K-C3548P-10GX~Canada~AB~Lethbridge~Calgary-Homed~WAN~FOC2220R0P1~None
+10.125.114.14~1717-ENG-SRV-R7-L01~Arista Networks~DCS-7010T-48~Canada~PQ~1717~Montreal-Homed~Spine/Leaf~SSJ18323644~4.20.8M
+172.21.1.9~AG-AER-RD2-S02~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering~SMG1340N01V~None
+172.18.1.103~CA-RR-R40-L01~Arista Networks~DCS-7308~Canada~AB~Calgary~Calgary-Homed~Spine/Leaf~HSH17195160~None
+10.125.128.40~PH-NET-PER-B4-M03~Cisco~WS-C3650-24PS~Canada~ON~Ottawa Parliament Hill~Montreal-Homed~Network~FDO1750Q0MB~None
+10.122.130.45~VA-CER-H08-FG500E-FW01.production~Fortinet, Inc.~500E~Canada~BC~Vancouver~Vancouver Homed~Engineering~FG5H0E5818904824~None
+10.122.130.46~VA-CER-H08-FG500E-FW02.production~Fortinet, Inc.~Fortigate fgt500E~Canada~BC~Vancouver~Region1~Engineering~FG5H0E5818904840~5.4.10
+10.123.32.25~AG-NER-G10-L01~Arista Networks~DCS-7050QX2-32S~Canada~ON~Agincourt~Agincourt Homed~Green ENG~JPE17130834~None
+10.123.32.26~AG-NER-G11-L02~Arista Networks~DCS-7050QX2-32S~Canada~ON~Agincourt~Agincourt Homed~Green ENG~JPE17130831~None
+10.122.14.242~CAL-GK1~Windows~Windows 2012 R2 Server~Canada~AB~Calgary~Calgary-Homed~DHCP~None~None
+10.125.162.6~HA-NET-CER2-A3-S01~Cisco~WS-C3560G-24TS-S~Canada~NS~Halifax~Halifax-Homed~Network~FOC1207Y1GW~None
+10.125.162.7~HA-NET-CER2-A3-S02~Cisco~WS-C3560G-24TS-S~Canada~NS~Halifax~Halifax-Homed~Network~FOC1207Y1J0~None
+10.135.16.17~OTT-NET-Z6-R1-S01~Cisco~WS-C3560G-48PS-S~Canada~None~Ottawa Station~Montreal-Homed~Network~FOC1230Z1DT~None
+10.124.153.7~KI-SL-CER-R24-L01~Arista Networks~DCS-7050TX-72Q~Canada~ON~Kitchener~Spine&Leaf EIP~Engineering~SSJ17377287~4.20.11.1M
+10.124.153.8~KI-SL-CER-R25-L02~Arista Networks~DCS-7050TX-72Q~Canada~ON~Kitchener~Spine&Leaf EIP~Engineering~SSJ17377290~4.20.11.1M
+10.200.155.17~PHILL-OBM~Cisco~Cisco ASA 5505~Canada~ON~Ottawa Parliament Hill~Montreal-Homed~MRV~None~None
+10.124.14.26~QU-BENG-CER-R72-L01~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Agincourt Homed~Spine/Leaf~JPE17082035~None
+10.124.14.25~QU-BENG-CER-R71-L01~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Agincourt Homed~Spine/Leaf~JPE17082130~None
+10.85.16.118~ED-NET-CL6-R1-S01~Cisco~Cisco Catalyst 355024~Canada~None~Edmonton~None~Network~None~None
+10.13.88.2~BRR-NET-RR-R1-S02~Cisco~WS-C3650-24PS~Canada~MB~Brandon Radio~VPN Connected~Network~FDO1922E2CQ~None
+10.13.88.3~BRR-NET-RR-R1-S03~Cisco~WS-C3650-24PS~Canada~MB~Brandon Radio~VPN Connected~Network~FDO1922E2MN~None
+10.13.88.4~BRR-NET-RR-R1-S04~Cisco~WS-C3650-24PS~Canada~MB~Brandon Radio~VPN Connected~Network~FDO1922E3GS~None
+172.17.1.201~VA-BENG-SVR-J1-SPINE1~Cisco~N9K-C93180YC-EX~Canada~BC~Vancouver~Vancouver Homed~Spine/Leaf~FDO22130P29~None
+172.17.1.202~VA-BENG-SVR-J1-SPINE2~Cisco~N9K-C93180YC-EX~Canada~BC~Vancouver~Vancouver Homed~Spine/Leaf~FDO22141QLU~None
+172.17.1.203~VA-BENG-SVR-J1-L03~Cisco~N9K-C93180YC-EX~Canada~BC~Vancouver~Vancouver Homed~Spine/Leaf~FDO22081JLN~None
+172.17.1.204~VA-BENG-SVR-J1-L04~Cisco~N9K-C93180YC-EX~Canada~BC~Vancouver~Vancouver Homed~Spine/Leaf~FDO22081JH7~None
+10.124.8.21~QU-ENG-CER-R79-L01~Arista Networks~DCS-7280SR-48C6~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~JPE16421214~4.20.11.1M
+10.124.8.22~QU-ENG-CER-R79-L02~Arista Networks~DCS-7280SR-48C6~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~JPE16263448~4.20.11.1M
+10.124.14.37~QU-BENG-BDC-R604-L01~Arista Networks~DCS-7050QX2-32S~Canada~ON~Queen~Agincourt Homed~Spine/Leaf~SSJ17130147~None
+10.124.14.38~QU-BENG-BDC-R604-L02~Arista Networks~DCS-7050QX2-32S~Canada~ON~Queen~Agincourt Homed~Spine/Leaf~SSJ17184820~None
+10.124.98.9~LO-NET-RADRR-R2-S01~Cisco~WS-C3650-48PS~Canada~ON~London~Agincourt Homed~Network~FDO2002E0V0~None
+10.201.50.6~QU-ISIS-1ST299-R2-S06~Cisco~Cisco Catalyst 4948-10GE~Canada~ON~Queen~Agincourt Homed~ISIS~None~None
+10.124.14.48~QU-ENG-250-R1-L01~Arista Networks~DCS-7050TX-72Q~Canada~ON~Queen~Agincourt Homed~Spine/Leaf~SSJ17377308~None
+10.124.14.49~QU-ENG-250-R1-L02~Arista Networks~DCS-7050TX-72Q~Canada~ON~Queen~Agincourt Homed~Spine/Leaf~SSJ17353519~None
+10.254.0.4~AG-SVF-EER-D7-M01~Cisco~WS-C6509-E~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~SMG1022NKNU~None
+10.123.14.36~AG-ENG-ORION.production~Windows~Windows 2016 Server~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~None~None
+10.123.33.25~AG-ENG-CER-F3-L01~Arista Networks~DCS-7150S-52-CL~Canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~JPE13400359~4.20.11.1M
+10.200.178.129~BobcaygeonTX~Cisco~Cisco ASA 5505~Canada~ON~Bobcaygeon TX~Vancouver Homed~Network~None~None
+10.200.178.130~TRANSCFTO-TV-54-SW01~Cisco~WS-C2960G-24TC-L~Canada~ON~Bobcaygeon TX~VPN Connected~Network~FOC1452V1KZ~None
+10.125.8.20~1755-ENG-SE01-R2-S01~Arista Networks~DCS-7020TR-48~Canada~PQ~1755~Montreal-Homed~Engineering~JPE18453460~None
+10.125.8.21~1755-ENG-SE01-R2-S02~Arista Networks~DCS-7020TR-48~Canada~None~1755~Montreal-Homed~Engineering~JPE18453459~None
+10.123.28.75~tve-dmz-core-new-i2~Arista Networks~DCS-7050SX2-128~Canada~ON~Agincourt DMZ~None~TVE~JPE17071242~4.20.11.1M
+10.123.28.76~tve-dmz-core-new-i6~Arista Networks~DCS-7050SX2-128~Canada~ON~Agincourt DMZ~None~TVE~JPE17071240~4.20.11.1M
+204.101.15.1~MTL01RTRC02 - Internet~Unknown~Unknown~Canada~PQ~Dorval DC~Internet~IT Astral~None~None
+206.47.35.1~TOR01RTS102 - Internet~Unknown~Unknown~Canada~ON~Wynford DC~Internet~IT Astral~None~None
+10.125.8.13~1755-ENG-S4-R1-S01~Arista Networks~DCS-7010T-48~Canada~None~1755~Montreal-Homed~Engineering~SSJ16300347~None
+10.124.158.5~KIR-NET-ESHP-R2-S01~Cisco~WS-C3560X-48P-S~Canada~ON~Kitchener Radio~Agincourt Homed~Network~FDO1916H06N~None
+10.124.158.6~KIR-NET-ESHP-R4-S01~Cisco~WS-C3560X-48P-S~Canada~ON~Kitchener Radio~Agincourt Homed~Network~FDO1916H05E~None
+10.85.16.5~ED-NET-SVRM-R03-S01~Cisco~WS-C4507R-E~Canada~None~Edmonton~Calgary-Homed~Network~FXS1639Q18A~None
+10.200.179.1~XMT-Baden~Cisco~Cisco ASA 5505~Canada~ON~Kitchener~VPN Connected~TX~None~None
+10.200.116.194~BATX-TVHUT-R1-S01~Cisco~WS-C2960G-24TC-L~Canada~ON~Kitchener~VPN Connected~TX~FOC1452V1KS~None
+10.200.116.195~BATX-RHUT-R1-S01~Cisco~WS-C2960G-24TC-L~Canada~ON~Kitchener~VPN Connected~TX~FOC1452V1S9~None
+10.200.178.65~CFZZ-TX~Cisco~Cisco ASA 5505~Canada~PQ~St Jean Radio~VPN Connected~TX~None~None
+10.1.255.55~AG-NTS-BrNAC-StubVIP~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.80.236.7~ED-RAD-RR1-R02-S02~Cisco~WS-C3560X-48P-S~Canada~None~Edmonton~Calgary-Homed~Network~FDO1916H05A~None
+10.124.181.5~WSH-NET-4RR-R2-S02~Cisco~WS-C3650-48PS-S~Canada~DC~Washington~Agincourt Homed~Network~FDO2216E0R9~None
+10.91.127.162~CKLYTX-HUT-R1-M01~Cisco~WS-C3650-24PS-S~Canada~ON~Lindsay TX~MPLS Central~Network~FDO2024E29F~None
+10.123.32.30~AG-ENG-NER-B23-L03~Cisco~Cisco Nexus 3548 Switch~Canada~None~Agincourt~Agincourt Homed~Green ENG~None~None
+10.123.32.31~AG-ENG-NER-B23-L04~Cisco~Cisco Nexus 3548 Switch~Canada~None~Agincourt~Agincourt Homed~Green ENG~None~None
+10.200.179.193~Wheatly-TX2~Cisco~Cisco ASA 5505~Canada~ON~Wheatley TX~VPN Connected~Network~None~None
+10.200.179.194~XMITCHWI-TV-SW01~Cisco~WS-C2960G-24TC-L~Canada~ON~Wheatley TX~VPN Connected~Network~FOC1512X3QB~None
+10.123.33.26~AG-ENG-WW3-R2-L01~Arista Networks~DCS-7010T-48~Canada~None~Agincourt~Spine&Leaf Agincourt~Green ENG~JPE19241234~4.20.11.1M
+10.123.33.27~AG-ISIS-ANNEX-E03-L01~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt~Spine&Leaf EIP~Green ENG~SGD19140112~4.21.8M
+10.123.33.33~AG-ENG-ZEBRA-R02-L01~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~JPE19241278~4.21.8M
+10.123.33.34~AG-ENG-ZEBRA-R02-L02~Arista Networks~DCS-7010T-48~canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~JPE19241281~4.21.8M
+10.123.33.35~AG-ENG-NW3-R2-L01~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~JPE19241272~4.21.8M
+10.123.33.36~AG-ENG-NW3-R2-L02~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~JPE19241233~4.21.8M
+10.123.33.37~AG-ENG-LOFT3-R2-L01~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~JPE19241253~4.21.8M
+10.123.33.38~AG-ENG-LOFT3-R2-L02~Arista Networks~DCS-7010T-48~Canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~JPE19241280~4.21.8M
+10.200.120.130~PRR-NET-RR-S01~Cisco~WS-C3560G-24TS-S~Canada~BC~Prince Rupert Radio~VPN Connected~Network~FOC1634X2LC~None
+172.17.17.201~ED-ENG-CER-R9-SP1~Cisco~N9K-C93180YC-EX~Canada~None~Edmonton~Calgary-Homed~Spine/Leaf~FDO23241L2E~None
+172.17.17.202~ED-ENG-CER-R9-SP2~Cisco~N9K-C93180YC-EX~Canada~None~Edmonton~Calgary-Homed~Spine/Leaf~FDO2324122Q~None
+172.17.17.203~ED-ENG-CER-R9-L01~Cisco~N9K-C93180YC-EX~Canada~None~Edmonton~Calgary-Homed~Spine/Leaf~FDO23241L3V~None
+172.17.17.204~ED-ENG-CER-R9-L02~Cisco~N9K-C93180YC-EX~Canada~None~Edmonton~Calgary-Homed~Spine/Leaf~FDO23241EUA~None
+10.125.8.32~1755-SRV31-R17-FG2500E-FW02~Fortinet, Inc.~Fortigate fgt2500E~Canada~None~1755~Montreal-Homed~DMZ~None~None
+10.57.16.5~KI-NET-FP-R1-S01~Cisco~WS-C3560X-48P-S~Canada~ON~Kitchener~Agincourt Homed~Network~FDO1923F1CS~None
+10.124.78.3~WPGR-NET-RR-B3-S03~Cisco~WS-C3560G-48TS-S~Canada~MB~Winnipeg Radio~Agincourt Homed~Network~FOC1217Y1M3~None
+10.125.8.24~1755-ENG-SE13-R2-L01~Arista Networks~DCS-7010T-48~Canada~PQ~1755~Montreal-Homed~Green ENG~JPE18381035~None
+10.125.8.25~1755-ENG-SE13-R2-L02~Arista Networks~DCS-7010T-48~Canada~PQ~1755~Montreal-Homed~Green ENG~JPE18381039~None
+10.124.78.4~WPGR-WAN-RR-B1-TB01~Arista Networks~DCS-7020SR-24C2~Canada~MB~Winnipeg Radio~Agincourt Homed~WAN~JPE19390156~None
+10.200.120.194~REGR-NET-RR-R4-S02~Cisco~WS-C2960-48TC-L~Canada~SA~Regina Radio~VPN Connected~Network~FOC1148W09E~None
+172.25.32.201~HA-CER3-R7-SPINE1~Cisco~N9K-C93180YC-FX~Canada~None~Halifax~Halifax-Homed~Spine/Leaf~FDO23180BZW~None
+172.25.32.202~HA-CER3-R7-SPINE2~Cisco~N9K-C93180YC-FX~Canada~None~Halifax~Halifax-Homed~Spine/Leaf~FDO23180A6X~None
+172.25.32.203~HA-CER3-R7-L01~Cisco~N9K-C93180YC-FX~Canada~None~Halifax~Halifax-Homed~Spine/Leaf~FDO23172BW5~None
+172.25.32.204~HA-CER3-R7-L02~Cisco~N9K-C93180YC-FX~Canada~None~Halifax~None~Spine/Leaf~FDO23180A6V~None
+10.91.127.121~PETX2-NET-HUT-R1-M01~Cisco~WS-C3650-24PS~Canada~ON~Peterborough TX2~Agincourt Homed~Network~FDO2015Q0SF~None
+10.123.28.89~AG-ENG-NER-E07-L01~Arista Networks~DCS-7050SX2-72Q~Canada~ON~Agincourt~Agincourt Homed~Green ENG~JPE19392040~4.22.2M
+10.123.28.90~AG-ENG-NER-E07-L02~Arista Networks~DCS-7050SX2-72Q~Canada~ON~Agincourt~Agincourt Homed~Green ENG~JPE19392043~4.22.4M
+10.91.127.113~PETX1-NET-HUT-R1-M01~Cisco~WS-C3650-24PS-S~Canada~ON~Peterborough TX2~MPLS Central~Network~FDO1928E1W8~None
+10.125.8.31~1755-SRV31-R17-FG2500E-FW01~Fortinet, Inc.~Fortigate fgt2500E~Canada~None~1755~Montreal-Homed~DMZ~None~None
+10.124.8.27~QU-ENG-CER-R28-L01~Arista Networks~DCS-7010T-48~Canada~ON~Queen~None~Spine/Leaf~SSJ17122793~4.22.4M
+10.124.8.28~QU-ENG-CER-R28-L02~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~JPE17081567~4.22.4M
+10.36.16.55~BA-CER4-R3-TA01~Arista Networks~DCS-7020SR-24C2~Canada~ON~Barrie~Agincourt Homed~WAN~JPE19351953~None
+10.123.32.15~AG-MCR-B01-MEGA-POC~Arista Networks~7280SR-48-C6~Canada~ON~Agincourt~Agincourt Homed~Spine/Leaf~None~None
+10.124.8.16~QU-CER-RK726-SAM-01~Arista Networks~DCS-7280SR-48C6~Canada~ON~Queen~None~Spine/Leaf~JPE17151974~4.20.5.2F
+10.124.8.17~QU-CER-RK727-SAM-02~Arista Networks~DCS-7280SR-48C6~Canada~ON~Queen~None~Spine/Leaf~JPE17200645~4.20.5.2F
+10.80.81.52~RE-ER-R14-TA01~Arista Networks~DCS-7020SR-24C2~Canada~SK~Regina~Calgary-Homed~WAN~JPE19390135~None
+10.249.17.1~XMT-Fortune~Cisco~Cisco ASA 5505~Canada~ON~Ottawa Station~VPN Connected~TX~None~None
+10.200.180.66~TXCF-NET-CJOH-R3-S01~Cisco~WS-C2960G-24TC-L~Canada~ON~Ottawa Station~VPN Connected~TX~FOC1452V1KP~None
+10.200.180.67~TXCF-NET-CJMJ-R2-S01~Cisco~Cisco Catalyst 3560-G24TS~Canada~ON~Ottawa Station~VPN Connected~TX~None~None
+10.200.180.68~CFTX-NET-CKKL-R4-S01~Cisco~WS-C2950T-24~Canada~ON~Ottawa Station~VPN Connected~TX~FOC0745Y00T~None
+10.80.81.53~RE-ER-R14-TB01~Arista Networks~DCS-7020SR-24C2~Canada~SK~Regina~Calgary-Homed~WAN~JPE19390122~None
+10.123.28.61~AG-NER-S03-F6301F-FW01_Mgmt~Fortinet, Inc.~FG6301F~Canada~ON~Agincourt DMZ~Agincourt Homed~FortiChassis~None~None
+10.123.28.62~AG-NER-S03-F6301F-FW02_mgmt~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~Agincourt DMZ~Agincourt Homed~FortiChassis~None~None
+10.200.179.225~CKNY-NBTX~Cisco~Cisco ASA 5505~Canada~ON~North Bay TX~VPN Connected~Network~None~None
+10.200.114.130~RDTX-NBUR-R1-S02~Cisco~Catalyst 2960~Canada~AB~Edmonton~VPN Connected~TX~None~None
+10.125.8.52~1755-ENG-SE11-R8-S01~Arista Networks~DCS-7020TR-48~Canada~None~1755~None~Green ENG~JPE18480567~None
+10.125.8.53~1755-ENG-SE11-R8-S02~Arista Networks~DCS-7020TR-48~Canada~None~1755~None~Green ENG~JPE18480555~None
+10.125.8.54~1755-ENG-SE21-R2-S01~Arista Networks~DCS-7020TR-48~Canada~None~1755~None~Green ENG~JPE18453496~None
+10.125.8.55~1755-ENG-SE21-R2-S02~Arista Networks~DCS-7020TR-48~Canada~None~1755~None~Green ENG~JPE18453547~None
+10.249.4.1~XMIT-4~Cisco~Cisco ASA 5505~Canada~None~Edmonton~VPN Connected~TX~None~None
+10.249.4.5~TRANSCFRN-TV-SW01~Cisco~WS-C2960G-24TC-L~Canada~None~Edmonton~VPN Connected~TX~FOC1509W070~None
+10.122.226.5~ED-NET-TXHUT-R1-S01~Cisco~WS-C3560G-24TS-S~Canada~None~Edmonton~Calgary-Homed~Network~FOC1144Y3F2~None
+10.123.140.51~AG-EPMCOR-001.production~Windows~Windows 2012 R2 Server~Canada~ON~Agincourt~Agincourt Homed~Engineering~None~None
+10.123.140.52~AG-XTRACT-001.production~Windows~Windows 2012 R2 Server~Canada~ON~Agincourt~Agincourt Homed~Engineering~None~None
+10.1.9.88~FTP.CTV.CA~Windows~Windows 2012 R2 Server~Canada~ON~Agincourt DMZ~Agincourt Homed~DMZ~None~None
+10.123.42.51~AG-NTSDB1-NODE1.production~Windows~HP DL380 G9~Canada~ON~Agincourt~Agincourt Homed~Engineering~None~None
+10.123.42.52~AG-NTSDB1-NODE2.production~Windows~HP DL380 G9~Canada~ON~Agincourt~Agincourt Homed~Engineering~None~None
+10.123.42.50~AG-NTSDB1-CLSTR.production~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~Engineering~None~None
+10.123.42.53~AG-NTS-SQLDB.production~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~Engineering~None~None
+10.200.178.97~XMT-CJAD-Hut-R1-F01~Unknown~Unknown~Canada~PQ~Montreal AD-TX~VPN Connected~Network~None~None
+10.200.178.98~XMT-Auteuil-HUT-R1-S01~Cisco~WS-C2950T-24~Canada~PQ~Montreal AD-TX~VPN Connected~Network~FOC0802W0XA~None
+10.73.16.49~VIC-WAN-CER-R54-TA01~Arista Networks~DCS-7020SR-24C2~Canada~BC~Victoria~Vancouver Homed~WAN~JPE19351944~None
+10.124.8.23~QU-ENG-MUX-R1-L03~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Agincourt Homed~Spine/Leaf~JPE17073003~4.22.4M
+10.124.8.24~QU-ENG-MUX-R1-L04~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Agincourt Homed~Spine/Leaf~JPE17072736~4.22.4M
+10.73.16.50~VIC-WAN-CER-R54-TB02~Arista Networks~DCS-7020SR-24C2~Canada~BC~Victoria~Vancouver Homed~WAN~JPE19390085~None
+10.13.100.2~FTNR-NET-MRM-R1-S01~Cisco~WS-C3650-24PS-S~Canada~BC~Fort Nelson Radio~VPN Connected~Network~FDO1928P1FJ~None
+10.200.180.65~OTT-CFTX-FW01~Cisco~Cisco ASA 5505~Canada~ON~Ottawa Station~VPN Connected~TX~None~None
+10.200.180.193~XMT-Hamilton~Cisco~Cisco ASA 5505~Canada~ON~Hamilton TX~VPN Connected~Network~None~None
+10.200.180.194~HAMTX-NET-HUT-R1-S01~Cisco~WS-C2960G-24TC-L~Canada~ON~Hamilton TX~VPN Connected~Network~FOC1615X120~None
+172.21.1.70~AG-ENG-ST7-R1-S01~Cisco~Catalyst 4948~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOX11220V97~None
+172.21.1.71~AG-ENG-ST7-R1-S02~Cisco~Catalyst 4948~Canada~ON~Agincourt~Agincourt Homed~Engineering~FOX1231GGH5~12.2(54)SG1
+10.125.8.10~MO-NTS-FGT001.bell.bce.ca~Windows~Windows 2016 Server~Canada~ON~1755~Montreal-Homed~NAC/Log/Ntw-FW_mgm~None~None
+172.21.1.158~AG-ENG-WW3-R2-S04~Cisco~WS-C3650-48PS~Canada~ON~Agincourt~Agincourt Homed~Engineering~FDO2016E0ND~None
+10.124.8.29~QU-ENG-SEC-R1-L03~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Agincourt Homed~Spine/Leaf~JPE17081689~4.22.4M
+10.124.8.30~QU-ENG-SEC-R1-L04~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Agincourt Homed~Spine/Leaf~JPE17130533~4.23.5M
+10.123.28.77~AG-NER-S02-FG101F_HA-VPN~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.123.36.10~AG-NTS-FGT001.bell.bce.ca~Windows~Windows 2016 Server~Canada~ON~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.125.148.5~OTT-NET-Z2-R1-S02~Cisco~WS-C3650-48PS~Canada~ON~Ottawa Station~Montreal-Homed~Network~FDO1938P0XR~None
+10.125.148.6~OTT-NET-Z2-R1-S01~Cisco~WS-C3650-48PS~Canada~ON~Ottawa Station~Montreal-Homed~Network~FDO1937P15P~None
+10.124.4.11~QU-ENG-CER-R415-S03~Cisco~WS-C3560-48TS-S~Canada~ON~Queen~Agincourt Homed~Engineering~CAT1005Z00V~None
+10.200.181.1~XMT-APK-Telesat~Cisco~Cisco ASA 5505~Canada~ON~Telesat Allan Park TX~VPN Connected~Network~None~None
+10.200.181.5~APK-WAN-ER-R1107-TA01~Arista Networks~DCS-7020SR-24C2~Canada~ON~Telesat Allan Park TX~Agincourt Homed~WAN~JPE19402179~None
+10.200.181.6~APK-WAN-ER-R1107-TB02~Arista Networks~DCS-7020SR-24C2~Canada~ON~Telesat Allan Park TX~Agincourt Homed~WAN~JPE19402119~None
+10.200.179.226~NBTX-NET-HUT-R1-S02~Cisco~WS-C3560X-24T-S~Canada~ON~North Bay TX~VPN Connected~Network~FDO1623R06U~None
+10.123.32.39~AG-PTP1-MERX-G8-L01~Arista Networks~DCS-7020SR-24C2~Canada~None~Agincourt~Agincourt Homed~Red/Blue~JPE20363113~None
+10.123.8.40~AG-PTP2-MEGA-C17-L02~Arista Networks~DCS-7020SR-24C2~Canada~None~Agincourt~Agincourt Homed~Red/Blue~JPE20363081~None
+10.123.32.45~AG-X1-MERX-G9-L01~Arista Networks~DCS-7280SR2-48YC6~Canada~None~Agincourt~Agincourt Homed~Red/Blue~JPE20350903~None
+10.123.32.46~AG-Y1-WER-C17A-L01~Arista Networks~DCS-7280SR2-48YC6~Canada~None~Agincourt~Agincourt Homed~Red/Blue~JPE20350921~None
+10.123.32.27~AG-MERX-G9-L01~Arista Networks~DCS-7050SX3-48YC8~Canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~SGD20264296~4.23.3M
+10.123.32.28~AG-WER-C17A-L01~Arista Networks~DCS-7050SX3-48YC8~Canada~None~Agincourt~Agincourt Homed~Green ENG~SGD20264646~None
+10.80.236.6~ED-RAD-RR2-R3-S02~Cisco~WS-C3560X-48P-S~Canada~None~Edmonton~Calgary-Homed~Network~FDO1923F1CU~None
+10.125.148.7~OTT-NET-Z4-R1-S02~Cisco~WS-C3650-48PS~Canada~ON~Ottawa Station~Montreal-Homed~Internet~FDO1937E20B~None
+10.200.112.98~XMT-StAgathe-S01~Cisco~WS-C2960G-24TC-L~Canada~MB~Winnipeg~VPN Connected~TX~FOC1452V1RY~None
+10.123.28.78~AG-NER-S03-FG101F_HA-VPN~Fortinet, Inc.~101F~Canada~ON~Agincourt DMZ~Agincourt Homed~TVE~None~None
+10.125.44.10~NEW-1755-ENG-SE21-R16-SPINE2~Arista Networks~DCS-7508~Canada~None~1755~Montreal-Homed~Green ENG~HSH15075028~None
+10.125.148.8~OTT-NET-Z3-R1-S01~Cisco~WS-C3650-48PS~Canada~ON~Ottawa Station~Montreal-Homed~Network~FDO1937E20C~None
+10.123.32.17~AG-ENG-MERX-H11-L01~Cisco~N9K-C9508~Canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~FGE22314TJH~9.2.1
+10.124.8.35~QU-CER-RK767-L01~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~SGD20313705~4.23.5M
+10.124.8.36~QU-CER-RK767-L02~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~SGD20313369~4.23.5M
+10.85.16.54~ED-CER-R11-TA01~Arista Networks~DCS-7020SR-24C2~Canada~None~Edmonton~Calgary-Homed~WAN~JPE20363050~None
+10.124.8.31~QU-CER-RK736-L01~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~SGD19493793~4.23.5M
+10.124.8.32~QU-CER-RK736-L02~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~SGD20315135~4.23.5M
+10.124.8.33~QU-CER-RK736-L03~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~SGD20295885~4.23.5M
+10.124.8.34~QU-CER-RK736-L04~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~SGD20313827~4.23.5M
+10.85.16.55~ED-CER-R11-TB01~Arista Networks~DCS-7020SR-24C2~Canada~None~Edmonton~Calgary-Homed~WAN~JPE20363047~None
+10.124.8.37~QU-ENG-CER-R415-L01~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~SGD20315219~4.23.5M
+10.124.8.38~QU-ENG-CER-R415-L02~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~SGD20052643~4.23.5M
+10.123.33.42~AG-ENG-NER-G03-L01~Arista Networks~DCS-7050SX3-48YC8~Canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~SGD20331489~None
+10.123.33.43~AG-ENG-NER-G04-L02~Arista Networks~DCS-7050SX3-48YC8~Canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~SGD20284728~4.23.5M
+10.125.80.1~QC-NET-CER-R1-M03~Cisco~WS-C3850-48P-E~Canada~QB~Quebec City~MPLS Quebec~Network~FCW1931C0N0~None
+10.200.48.1~4DREPLAY-BC-L3.ext~Cisco~C9300-24T~Canada~QC~Remote Production Kits~MPLS Live Events~Bell Centre~FJC2344S07W~None
+10.125.81.5~QC-WAN-CER-R1-TB01~Arista Networks~DCS-7020SR-24C2~Canada~QC~Quebec City~Montreal-Homed~WAN~JPE20370560~None
+10.125.81.6~QC-WAN-CER-R1-TA02~Arista Networks~DCS-7020SR-24C2~Canada~QC~Quebec City~Montreal-Homed~WAN~JPE20370648~None
+10.123.33.44~AG-ENG-MER-E15-L01~Arista Networks~DCS-7050SX3-48YC8~Canada~ON~Agincourt~Spine&Leaf Agincourt~Green ENG~SGD20284720~None
+10.123.33.45~AG-ENG-MER-E15-L02~Arista Networks~DCS-7050SX3-48YC8~Canada~ON~Agincourt~Spine&Leaf Agincourt~Spine/Leaf~SGD20331214~None
+10.80.236.15~ED-RAD-TXHUT-R2-S01~Cisco~WS-C2960X-24TS-L~Canada~None~Edmonton~Calgary-Homed~Network~FJC2339W28X~None
+10.123.32.33~AG-WER-C17A-L02~Arista Networks~DCS-7050SX3-48YC8~Canada~None~Agincourt~Agincourt Homed~Green ENG~SGD20264165~None
+10.123.32.32~AG-MERX-G9-L02~Arista Networks~DCS-7050SX3-48YC8~Canada~None~Agincourt~Agincourt Homed~Green ENG~SGD20300371~None
+10.200.127.6~vpn-nts-davemFG60ePOE~Fortinet Inc.~FG60E~Canada~None~None~None~None~None~None
+10.135.16.54~OTT-WAN-CER-R23-TA02~Arista Networks~DCS-7020SR-24C2~Canada~ON~Ottawa Station~Montreal-Homed~WAN~JPE20391217~None
+10.135.16.55~OTT-WAN-CER-R23-TB01~Arista Networks~DCS-7020SR-24C2~Canada~ON~Ottawa Station~Montreal-Homed~WAN~JPE20391343~None
+10.80.236.113~ED-RAD-AMTX-R2-S01~Cisco~Cisco Catalyst 355024~Canada~None~Edmonton~Calgary-Homed~TX~None~None
+10.200.48.5~4D-BELL-L2-Sw2.ext~Cisco~Cisco C9200L~Canada~None~Remote Production Kits~MPLS Live Events~Bell Centre~None~None
+10.80.236.114~ED-RAD-FMTX-R2-S01~Cisco~WS-C3550-24~Canada~None~Edmonton~Calgary-Homed~TX~CAT0833N3NY~None
+10.200.48.4~4D-BELL-L2-Sw1.ext~Cisco~C9200L-48T-4X~Canada~QC~Remote Production Kits~MPLS Live Events~Bell Centre~JAE24060BJT~None
+10.125.8.48~1755-ENG-SE11-R26-L01~Arista Networks~DCS-7010T-48~Canada~None~1755~None~Green ENG~JPE18381040~None
+10.125.8.49~1755-ENG-SE11-R27-L01~Arista Networks~DCS-7010T-48~Canada~None~1755~None~Green ENG~JPE18381026~None
+10.200.120.53~FD-4D-BC-SX350~Cisco~SX350X-L2~Canada~QC~Remote Production Kits~MPLS Live Events~Bell Centre~None~None
+10.131.16.48~OB-ER-R18-TA01~Arista Networks~DCS-7020SR-24C2~Canada~ON~Ottawa Bureau~Montreal-Homed~WAN~JPE20431326~None
+10.131.16.49~OB-ER-R18-TB02~Arista Networks~DCS-7020SR-24C2~Canada~ON~Ottawa Bureau~Montreal-Homed~WAN~JPE20414404~None
+10.200.127.75~vpn-xmit-manotickFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~None~Ottawa Station~VPN Connected~TX~None~None
+10.200.112.2~TRANSCHRO-TV-43-SW01~Cisco~WS-C2960G-24TC-L~Canada~ON~Ottawa Station~VPN Connected~TX~FOC1509W0E0~None
+10.123.28.8~AG-Mgmt-EER-C8-SW0x~Cisco~WS-C3560G-24PS-S~Canada~ON~Agincourt~Agincourt Homed~Management~FOC1036Y1C5~None
+10.200.127.35~vpn-prod-OrilliaRadioFG40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~ON~Orillia Radio~VPN Connected~Network~None~None
+10.123.28.2~AG-Mgmt-NER-G13-SW01~Arista Networks~DCS-7124SX~Canada~None~Agincourt~Agincourt Homed~Management~JPE12320293~4.13.12M
+10.123.33.47~AG-EER-C10-L01~Arista Networks~DCS-7050SX3-48C8~Canada~ON~Agincourt~Agincourt Homed~Green ENG~JPE20413444~None
+10.125.144.2~KGR-NET-RR-R11-M01~Cisco~WS-C3650-48FS-E~Canada~ON~Kingston Radio~Montreal-Homed~Network~FDO2209E28F~None
+10.125.155.11~KGR-NET-ER-R0-S01~Cisco~WS-C2960G-8TC-L~Canada~ON~Kingston Radio~Montreal-Homed~Network~FOC1323V1E7~None
+10.200.41.1~4DREPLAY-SBA-L3.ext~Cisco~C9300-24T~Canada~None~Remote Production Kits~MPLS Live Events~Scotia Bank Centre~FJC2420E0AR~None
+10.200.120.67~4DREPLAY-SBA-L2-Sw1.ext~Cisco~C9200L-48T-4X~Canada~None~Remote Production Kits~MPLS Live Events~Scotia Bank Centre~JAE24210RR7~None
+10.200.120.68~4DREPLAY-SBA-L2-Sw2.ext~Cisco~C9200L-48T-4X~Canada~None~Remote Production Kits~MPLS Live Events~Scotia Bank Centre~JAE24060AD9~None
+10.200.120.69~FD-4D-SBA-SX350~Cisco~SX350X-L2~Canada~ON~Remote Production Kits~MPLS Live Events~Scotia Bank Centre~None~None
+10.200.127.38~vpn-prod-RegRadioFG40f.bell.bce.ca~Fortinet, Inc.~Fortinet, Inc.~Canada~SA~Regina Radio~VPN Connected~Network~None~None
+10.123.36.91~AG-Y-NER-G13-SPINE02~Arista Networks~DCS-7280CR3-96~Canada~None~Agincourt~Agincourt Homed~Red/Blue~SGD20406315~None
+10.123.36.92~AG-X-MER-E20-SPINE01~Arista Networks~DCS-7280CR3-96~Canada~None~Agincourt~Agincourt Homed~Red/Blue~SGD20406321~None
+10.125.8.73~1755-X-SE11-R8-SPINE01~Arista Networks~DCS-7280CR3-32P4~Canada~None~1755~None~Red/Blue~JPE19500068~None
+10.125.8.74~1755-Y-SE21-R15-SPINE02~Arista Networks~DCS-7280CR3-32P4~Canada~None~1755~None~Red/Blue~JPE19500055~None
+10.125.8.83~1755-PTP1-RC-R55-S01~Arista Networks~DCS-7020SR-24C2~Canada~None~1755~None~Red/Blue~JPE20391293~None
+10.125.8.84~1755-PTP2-RC-R56-S01~Arista Networks~DCS-7020SR-24C2~Canada~None~1755~None~Red/Blue~JPE20391332~None
+10.125.8.75~1755-X1-SE11-R25-L01~Arista Networks~DCS-7280SR2-48YC6~Canada~None~1755~None~Red/Blue~JPE20430664~None
+10.125.8.76~1755-Y1-SE11-R25-L02~Arista Networks~DCS-7280SR2-48YC6~Canada~None~1755~None~Red/Blue~JPE20420597~None
+10.125.8.77~1755-X2-RC-R57-L01~Arista Networks~DCS-7280SR2-48YC6~Canada~None~1755~None~Red/Blue~JPE21024052~None
+10.125.8.78~1755-Y2-RC-R58-L01~Arista Networks~DCS-7280SR2-48YC6~Canada~None~1755~None~Red/Blue~JPE21020860~None
+10.123.28.7~AG-Mgmt-NER-I02-SW3~Cisco~WS-C3560G-48PS-S~Canada~None~Agincourt~Agincourt Homed~Management~FOC1005Y0GS~None
+10.123.28.9~AG-Mgmt-NER-B6-SW04~Cisco~WS-C3560G-48TS-S~Canada~None~Agincourt~Agincourt Homed~Management~FOC1040Z1L2~None
+10.200.127.74~vpn-xmit-truroFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~IB~Halifax~VPN Connected~TX~None~None
+10.200.112.34~CKTO-TX-NET-HUT-R1-S01~Cisco~WS-C2950-24~Canada~NS~Halifax~VPN Connected~TX~FAB0534Q0SX~None
+10.123.12.31~AG-WSUS-01.production~Windows~Windows 2016 Server~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~None~None
+10.200.127.41~vpn-prod-OwenSndRadioFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~Owen Sound Radio~VPN Connected~Network~None~None
+10.125.144.6~BRR-NET-RR-R11-M02~Cisco~WS-C3650-48PS-E~Canada~ON~Brockville~Montreal-Homed~Network~FDO2134Q0FG~None
+10.200.155.23~PH-WAN-PER-B4-TB02~Arista Networks~DCS-7020SR-24C2~Canada~ON~Ottawa Parliament Hill~Montreal-Homed~WAN~JPE20370666~None
+10.200.155.22~PH-WAN-PER-B4-TA01~Arista Networks~DCS-7020SR-24C2~Canada~ON~Ottawa Parliament Hill~Montreal-Homed~WAN~JPE20431318~None
+10.200.127.44~vpn-prod-Edm-LdgFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~AB~Edmonton NB~VPN Connected~Network~None~None
+10.200.127.45~vpn-prod-Edm-CtyHallFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~AB~Edmonton NB~VPN Connected~Network~None~None
+10.200.127.31~vpn-prod-sovo-ccFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~QC~SOVO Montreal~VPN Connected~Network~None~None
+10.200.127.37~vpn-prod-PRRadioFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~BC~Prince Rupert Radio~VPN Connected~Network~None~None
+10.1.0.249~MONR-NTS-srv31-R17-JR13~Juniper Networks, Inc.~Juniper MX40-T Internet Backbone Router~Canada~None~1755~Montreal-Homed~WAN~T9741~None
+10.200.127.76~vpn-xmit-Wpg-StAgFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~MB~Winnipeg~VPN Connected~TX~None~None
+10.125.8.67~1755-ENG-SE11-R45-S01~Arista Networks~DCS-7280SE-64~Canada~QC~1755~Montreal-Homed~Green ENG~JPE15430554~None
+10.123.32.36~AG-NER-S03-WLC-HA~Cisco~WLC 5520~Canada~Ontario~Agincourt DMZ~Agincourt Homed~Wireless~None~None
+10.123.32.38~AG-NER-S05-5520WLC02-RdnIP~Unknown~Unknown~Canada~None~Agincourt DMZ~Agincourt Homed~Wireless~None~None
+10.124.8.25~QU-ENG-BDC-R601-L05~Arista Networks~DCS-7050SX2-72Q~Canada~ON~Queen~None~Spine/Leaf~JPE19220050~4.25.3M
+10.124.8.26~QU-ENG-BDC-R601-L06~Arista Networks~DCS-7050SX2-72Q~Canada~ON~Queen~None~Spine/Leaf~JPE19220059~4.25.3M
+10.200.127.49~vpn-prod-QPNBurFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~Queens Park~VPN Connected~Network~None~None
+10.123.28.12~AG-MGMT-NER-E1-SW01.int~Cisco~WS-C3750G-24T-S~Canada~ON~Agincourt~Agincourt Homed~Management~CAT0925K105~None
+10.200.127.77~vpn-xmit-TimminsFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~Timmins~VPN Connected~Network~None~None
+10.200.112.162~TI-NET-CER-R1-S01~Cisco~WS-C3560G-48PS-S~Canada~ON~Timmins~VPN Connected~Network~FOC1344Y6VD~None
+10.200.127.70~vpn-xmit-OwnSndRFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~Owen Sound Radio~VPN Connected~TX~None~None
+10.125.114.8~1717-ENG-TECH-R9-L01~Arista Networks~DCS-7010T-48~Canada~None~1717~None~Spine/Leaf~SGD20380542~None
+10.125.114.9~1717-ENG-TECH-R13-L01~Arista Networks~DCS-7010T-48~Canada~PQ~1717~Montreal-Homed~Spine/Leaf~SGD20380696~4.26.4M
+10.125.114.10~1717-ENG-ITR-HFR-L01~Arista Networks~DCS-7010T-48~Canada~PQ~1717~Montreal-Homed~Spine/Leaf~SGD20384810~4.26.4M
+10.125.114.11~1717-ENG-ITR-R7-L01~Arista Networks~DCS-7010T-48~Canada~QC~1717~Montreal-Homed~Spine/Leaf~SGD20380191~None
+10.123.28.82~AG-NER-B06-FSA3000e-Bottom~Fortinet, Inc.~3000E~Canada~None~Agincourt DMZ~Agincourt Homed~FortiChassis~None~None
+10.123.28.81~AG-NER-B06-FSA3000e-Top~Fortinet, Inc.~3000E~Canada~Ontario~Agincourt DMZ~Agincourt Homed~FortiChassis~None~None
+10.124.98.12~LO-NET-NEWSEB-R1-S01~Cisco~WS-C3650-48PS~Canada~ON~London~Agincourt Homed~Network~FDO2034E1ER~None
+10.124.98.17~LO-NET-RADOFF-R1-S01~Cisco~WS-C3650-48PS~Canada~ON~London~Agincourt Homed~Network~FDO2036E0CH~None
+10.125.8.63~1755-Y5-SE11-R25-L03~Arista Networks~DCS-7280SR-48C6~Canada~None~1755~None~Red/Blue~JPE17151873~None
+10.124.98.7~LO-AXIA-RADRR-R4-SS01~Cisco~WS-C3850-48P-L~Canada~ON~London~Agincourt Homed~AXIA~FOC2201Q08B~None
+10.124.8.39~QU-ENG-CER-R55-L01~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~SGD20295642~4.25.3M
+10.124.8.40~QU-ENG-CER-R55-L02~Arista Networks~DCS-7010T-48~Canada~ON~Queen~Spine&Leaf EIP~Spine/Leaf~SGD20315230~4.25.3M
+10.62.188.17~10.62.188.17~Unknown~Unknown~Canada~None~Agincourt~Other~B2B~None~None
+10.124.98.25~LO-AXIA-BKSTD-R1-S02~Cisco~WS-C3560CX-8PC-S~Canada~ON~London~Agincourt Homed~AXIA~FOC2249T4K4~None
+10.124.98.26~LO-AXIA-BKSTD-R1-S01~Cisco~WS-C3560CX-8PC-S~Canada~ON~London~Agincourt Homed~AXIA~FOC2003Z2KG~None
+10.124.98.18~LO-AXIA-TXHUT-R3-S01~Cisco~WS-C3560CX-8PC-S~Canada~ON~London~Agincourt Homed~AXIA~FOC2003Z2C2~None
+10.124.98.19~LO-AXIA-TXHUT-R3-S02~Cisco~WS-C3560CX-8PC-S~Canada~ON~London~Agincourt Homed~AXIA~FOC2021Z1PN~None
+10.124.98.6~LO-NET-TXHUT-R3-S03~Cisco~WS-C3560G-24PS-S~Canada~ON~London~Agincourt Homed~Network~FOC1519Y25Y~None
+10.123.28.100~AG-NER-S03-FAZ1000F~Fortinet, Inc.~1000f~Canada~Ontario~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~FAZ1KFTA21000136~None
+10.1.16.124~AG-NER-B06-FAZ4000B~Fortinet, Inc.~4000B~Canada~Ontario~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~ FL-4KB3M14600011~None
+10.123.140.33~AG-NTS-FMVM64~Fortinet, Inc.~VM~Canada~Ontario~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~FMG-VM0A17001602~None
+10.125.8.35~1755-FAZVM64~Fortinet, Inc.~Fortinet, Inc.~Canada~Ontario~1755~Montreal-Homed~NAC/Log/Ntw-FW_mgm~FAZ-VM0000018767~None
+172.22.153.52~UK-CER-R1-TB01~Arista Networks~DCS-7020SR-24C2~UK~UK~UK Bureau~Agincourt Homed~WAN~JPE20414402~None
+10.200.127.87~vpn-xmit-HalYarmthFG40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~NB~Halifax~VPN Connected~TX~None~None
+10.200.113.194~HAYARTX-HUT-R1-S01~Cisco~WS-C2960X-24TS-L~Canada~None~Halifax~VPN Connected~TX~FJC24501040~None
+10.200.127.66~vpn-xmit-LdnCIQMFG60e.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~London~VPN Connected~TX~None~None
+10.125.8.91~1755-ENG-SE11-R9-L01~Arista Networks~DCS-7020TR-48~Canada~None~1755~Montreal-Homed~Green ENG~JPE21090819~None
+10.125.8.92~1755-ENG-SE11-R9-L02~Arista Networks~DCS-7020TR-48~Canada~ON~1755~Montreal-Homed~Green ENG~JPE21091106~4.23.0F
+10.125.8.93~1755-ENG-SE11-R9-L03~Arista Networks~DCS-7020TR-48~Canada~ON~1755~Montreal-Homed~Green ENG~JPE21120964~4.23.0F
+10.200.127.60~vpn-prod-TorCHallFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~Toronto City Hall~VPN Connected~Network~None~None
+10.125.8.33~1755-NTS-FMVM~Fortinet, Inc.~VM~Canada~Quebec~1755~Montreal-Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.200.127.95~vpn-xmit-EdmRdDrFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~None~Edmonton~VPN Connected~TX~None~None
+10.200.127.80~vpn-xmit-WpgP-MFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~MB~Winnipeg~VPN Connected~TX~None~None
+10.200.112.210~WPG-NET-PMTX-R1-S01~Cisco~WS-C3560CG-8PC-S~Canada~MB~Winnipeg~VPN Connected~TX~FOC1552W41T~None
+10.125.8.27~1755-ENG-SE22-R1-L01~Arista Networks~DCS-7020TR-48~Canada~ON~1755~None~Green ENG~JPE21162496~4.25.4M
+10.125.8.28~1755-ENG-SE22-R1-L02~Arista Networks~DCS-7020TR-48~Canada~ON~1755~None~Green ENG~JPE21162542~4.25.4M
+10.200.127.88~vpn-xmit-HalTyroneFG40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~NS~Halifax~VPN Connected~TX~None~None
+10.200.113.226~TRANSCKCW-TV-1-SW01~Cisco~WS-C2960G-24TC-L~Canada~NS~Halifax~VPN Connected~TX~FOC1452V1RC~None
+10.200.120.60~BellCtr-FG201F-FW01.production~Fortinet, Inc.~201F~Canada~Quebec~Remote Production Kits~MPLS Live Events~Bell Centre~None~None
+10.200.120.61~BellCtr-FG201F-FW02.production~Fortinet, Inc.~201F~Canada~Quebec~Remote Production Kits~MPLS Live Events~Bell Centre~None~None
+10.62.16.54~WI-NET-ER-H3-TA01~Arista Networks~DCS-7020SR-24C2~Canada~MB~Winnipeg~None~WAN~JPE20370610~None
+10.62.16.55~WI-NET-ER-H3-TB01~Arista Networks~DCS-7020SR-24C2~Canada~MB~Winnipeg~None~WAN~JPE19390076~None
+10.200.120.73~SBA-FG201F-FW01.production~Fortinet, Inc.~201F~Canada~None~Remote Production Kits~MPLS Live Events~Scotia Bank Centre~None~None
+10.200.120.74~SBA-FG201F-FW02.production~Fortinet, Inc.~201F~Canada~Ontario~Remote Production Kits~MPLS Live Events~Scotia Bank Centre~None~None
+10.200.127.29~vpn-prod-bellctrFG60F.production~Fortinet, Inc.~60f~Canada~Quebec~Remote Production Kits~MPLS Live Events~Bell Centre~None~None
+10.200.127.30~vpn-prod-SBAFG60f.production~Fortinet, Inc.~60f~Canada~Ontario~Remote Production Kits~MPLS Live Events~Scotia Bank Centre~None~None
+10.125.8.127~1755-SRV31-R16-FG4201F-FW01.production~Fortinet, Inc.~Fortinet, Inc.~Canada~None~1755~Montreal-Homed~DMZ~None~None
+10.125.8.128~1755-SE11-R28-FG4201F-FW02.production~Fortinet, Inc.~4201f~Canada~None~1755~Montreal-Homed~DMZ~None~None
+10.200.127.94~vpn-xmit-OTTTwrCFG60E.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~Ottawa Station~VPN Connected~TX~None~None
+10.200.127.65~vpn-xmit-TorCFRBFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~Toronto TX~VPN Connected~Network~None~None
+10.200.127.71~vpn-xmit-StCathRad1FG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~St Catharines Radio~VPN Connected~TX~None~None
+10.200.112.130~SCRTX-S01~Cisco~WS-C2960X-24TS-L~Canada~ON~St Catharines Radio~VPN Connected~TX~FOC2404L5CS~None
+10.124.98.10~LO-NET-CER-R1-S01~Cisco~WS-C3560X-48T-S~Canada~ON~London~Agincourt Homed~Network~FDO1919F2AA~None
+10.200.41.1~10.200.41.1-SBA-Core-ViaEvertz~Unknown~Unknown~Canada~None~Remote Production Kits~MPLS Live Events~Scotia Bank Centre~None~None
+10.125.8.85~1755-ENG-SE14-R1-L01~Arista Networks~DCS-7020TR-48~Canada~None~1755~Montreal-Homed~Green ENG~JPE21053748~4.25.5.1M
+10.125.8.86~1755-ENG-SE14-R1-L02~Arista Networks~DCS-7020TR-48~Canada~Quebec~1755~None~Green ENG~JPE21120974~4.25.5.1M
+10.125.8.87~1755-ENG-SE14-R1-L03~Arista Networks~DCS-7020TR-48~Canada~Quebec~1755~None~Green ENG~JPE21120982~4.25.5.1M
+10.125.8.121~1755-PA5260-SE11-R28-FW02~Palo Alto Networks~PA-5260~Canada~None~1755~Montreal-Homed~DMZ~012501007799~None
+10.125.8.122~1755-PA5260-SRV31-R16-FW01~Palo Alto Networks~PA-5260~Canada~Ontario~1755~Montreal-Homed~DMZ~012501007849~None
+10.125.8.39~MO-JUMP-NTS102~Windows~Windows 2016 Server~Canada~None~1755~None~NAC/Log/Ntw-FW_mgm~None~None
+10.192.250.205~PETR-NET-SRV-R5-M02~Cisco~WS-C3650-48PQ-E~Canada~ON~Peterborough Radio~MPLS Central~Network~FDO2003E30C~None
+10.192.250.213~LINR-NET-SVR-R3-M01~Cisco~WS-C3650-48PQ-E~Canada~ON~Lindsay Radio~MPLS Central~Network~FDO2003E30R~None
+10.125.8.120~1755-Panorama-VM~Palo Alto Networks~virtual~Canada~None~1755~Montreal-Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.200.127.99~vpn-xmit-OttCFRAFG40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~ON~Ottawa Station~VPN Connected~TX~None~None
+10.200.115.34~OTT-NET-CFRATX-S01~Cisco~WS-C2960X-24TS-L~Canada~ON~Ottawa Station~VPN Connected~TX~FOC2404L5EF~None
+10.200.127.100~vpn-xmit-OttCFGOFG40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~ON~Ottawa Station~VPN Connected~TX~None~None
+10.200.115.66~OT-NET-CFGOTX-S01~Cisco~WS-C2960X-24TS-L~Canada~ON~Ottawa Station~VPN Connected~TX~FOC2404L5HS~None
+10.200.127.101~vpn-xmit-PemCHVRFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~Pembroke Radio~VPN Connected~TX~None~None
+10.200.115.98~PEM-CHVRTX-S01~Cisco~WS-C2960X-24TS-L~Canada~ON~Pembroke Radio~VPN Connected~TX~FOC2404L5AA~None
+10.123.81.18~ag-nts-brnacprimary~Unknown~Unknown~Canada~None~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.123.81.19~ag-nts-brnac_secondary-vm~Unknown~Unknown~Canada~ON~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.123.140.14~ag-nts-isevm.production~Unknown~Unknown~Canada~None~Agincourt~None~NAC/Log/Ntw-FW_mgm~None~None
+10.125.8.14~mtl1755-nts-isevm.production~Unknown~Unknown~Canada~None~1755~None~NAC/Log/Ntw-FW_mgm~None~None
+10.200.123.205~CLC-FG201F-FW02.production~Fortinet, Inc.~Fortigate fgt201F~Canada~None~Remote Production Kits~None~CLC Winnipeg~None~None
+10.200.123.204~CLC-FG201F-FW01.production~Fortinet, Inc.~Fortigate fgt201F~Canada~None~Remote Production Kits~None~CLC Winnipeg~None~None
+10.123.140.15~ag-nts-orionnta~Unknown~Unknown~Canada~None~Agincourt~None~NAC/Log/Ntw-FW_mgm~None~None
+10.125.44.19~mo-jump-nts101~Unknown~Unknown~Canada~None~1755~None~NAC/Log/Ntw-FW_mgm~None~None
+10.124.9.41~QS-X-CER-R651-SP01~Arista Networks~DCS-7280CR3-32P4~Canada~None~Queen~None~Red/Blue~JPE21053157~None
+10.124.9.42~QS-Y-CER-R653-SP02~Arista Networks~DCS-7280CR3-32P4~Canada~None~Queen~None~Red/Blue~JPE21080640~None
+10.124.9.43~QS-PTP1-CER-R651-L01~Arista Networks~DCS-7020SR-24C2~Canada~None~Queen~None~Red/Blue~JPE21031610~None
+10.124.9.44~QS-PTP2-CER-R653-L01~Arista Networks~DCS-7020SR-24C2~Canada~None~Queen~None~Red/Blue~JPE21031594~None
+10.200.44.1~4DREPLAY-CLC-L3.ext~Cisco~C9300-24T~Canada~None~Remote Production Kits~None~CLC Winnipeg~FJC25241G0V~None
+10.200.44.4~4DREPLAY-CLC-L2-SW1.ext~Cisco~C9200L-48T-4X~Canada~None~Remote Production Kits~None~CLC Winnipeg~JAE251515TU~None
+10.200.44.5~4DREPLAY-CLC-L2-SW2.ext~Cisco~C9200L-48T-4X~Canada~None~Remote Production Kits~None~CLC Winnipeg~JAE251515MS~None
+10.200.44.6~FD-4D-CLC-SX350~Cisco~SX350X-L2~Canada~MB~Remote Production Kits~MPLS Live Events~CLC Winnipeg~None~None
+10.192.250.173~WNDR-NET-BPR-R1-M01~Cisco~WS-C3650-48PQ-E~Canada~None~Windsor Radio~MPLS Central~Network~FDO2003E307~None
+10.125.174.20~SYDTX-NET-HUT-R1-S01~Cisco~WS-C2960X-24TS-L~Canada~NS~Halifax~Halifax-Homed~TX~FJC2450105E~None
+10.128.198.66~GRFA-PRTRM-R1-S02~Cisco~WS-C3560X-24P-L~Canada~NB~Grand Falls Radio~Halifax-Homed~Network~FDO1915H0EU~None
+10.200.127.93~vpn-xmit-EdmGrPraiFG40f.production~Fortinet, Inc.~Fortinet, Inc.~Canada~None~Edmonton~VPN Connected~TX~None~None
+10.124.17.10~QU-AXIA-3RD299-R0-S01~Cisco~WS-C3750G-24TS-S~Canada~ON~Queen~Agincourt Homed~AXIA~CAT0923Y0ER~None
+10.200.127.138~vpn-xmit-ThBay40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~ON~Thunder Bay~VPN Connected~Management~None~None
+10.200.115.130~THBAY-NET-MME-R1-S02~Cisco~WS-C3650-24PS~Canada~ON~Thunder Bay~VPN Connected~Management~FDO2007Q0TG~None
+10.200.115.131~THBAY-WAN-MME-R1-TA03~Arista Networks~DCS-7020SR-24C2~Canada~ON~Thunder Bay~VPN Connected~WAN~JPE21261475~None
+10.200.115.132~THBAY-WAN-MME-R1-TB04~Arista Networks~DCS-7020SR-24C2~Canada~ON~Thunder Bay~VPN Connected~WAN~JPE21261431~None
+10.124.9.47~QS-X2-CER-R055-L01~Arista Networks~DCS-7020SR-24C2~Canada~None~Queen~None~Red/Blue~JPE19260931~None
+10.124.9.48~QS-Y2-CER-R055-L01~Arista Networks~DCS-7020SR-24C2~Canada~None~Queen~None~Red/Blue~JPE19390036~None
+10.125.8.34~1755MTL-NTS-PrimeVM~Unknown~Unknown~Canada~None~Agincourt~None~NAC/Log/Ntw-FW_mgm~None~None
+10.1.255.8~AG-NER-S03-AnchorWLC-HA~Cisco~Cisco 5500 Series Wireless Controller~Canada~None~Agincourt DMZ~Agincourt Homed~Wireless~None~None
+10.200.127.108~vpn-xmit-BrockCJPTFG40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~ON~Brockville~VPN Connected~TX~None~None
+10.200.116.2~CJPT-TXHUT-R1-S01~Cisco~WS-C2960X-24TS-L~Canada~ON~Brockville~VPN Connected~TX~FCW2117B4AX~None
+10.60.16.204~SU-ER-C01-TA02~Arista Networks~DCS-7020SR-24C2~Canada~ON~Sudbury~Agincourt Homed~WAN~JPE21261469~None
+10.123.33.48~AG-ENG-CER-D11-S01~Arista Networks~CCS-758-CH~Canada~ON~Agincourt~Agincourt Homed~Engineering~HNN21085054~4.26.4M
+10.200.166.5~OSR-AXIA-STDIO-R1-S01~Cisco~WS-C3650-24PS~Canada~ON~Owen Sound Radio~VPN Connected~AXIA~FDO1929E0LU~None
+10.200.166.6~OSR-AXIA-STDIO-R1-S02~Cisco~WS-C3650-24PS-S~Canada~ON~Owen Sound Radio~VPN Connected~AXIA~FDO1828Q2UV~None
+10.125.203.154~TRTX-NET-HUT1-R1-M01~Cisco~WS-C3650-24TS~Canada~QC~Noovo TX~NoovoTX MPLS~Network~FDO1742Q18K~None
+10.125.8.123~1755-SRV31-R16-7280-NL01~Arista Networks~DCS-7280SR3-48YC8~Canada~QC~1755~Montreal-Homed~DMZ~JPE21220580~None
+10.125.8.125~1755-SRV31-R20-7280-SL01~Arista Networks~DCS-7280SR3-48YC8~Canada~QC~1755~Montreal-Homed~DMZ~JPE21222955~None
+10.125.8.124~1755-SE11-R28-7280-NL02~Arista Networks~DCS-7280SR3-48YC8~Canada~Quebec~1755~Montreal-Homed~DMZ~JPE21222883~None
+10.125.8.126~1755-SE11-R28-7280-SL02~Arista Networks~DCS-7280SR3-48YC8~Canada~QC~1755~None~DMZ~JPE21220818~4.25.5.1M
+10.200.127.139~vpn-xmit-LlydMinFG40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~AB~Lloydminster~VPN Connected~Network~None~None
+10.200.115.163~LMSTR-WAN-CER-R1-TA01~Arista Networks~DCS-7020SR-24C2~Canada~AB~Lloydminster~VPN Connected~WAN~JPE21261443~None
+10.200.115.164~LMSTR-WAN-CER-R1-TB02~Arista Networks~DCS-7020SR-24C2~Canada~AB~Lloydminster~VPN Connected~WAN~JPE21261419~None
+10.200.115.162~LYDM-NET-CER-R1-S03~Cisco~WS-C3650-24PS-S~Canada~AB~Lloydminster~VPN Connected~Network~FDO2016Q07D~None
+10.125.201.1~MORF-NET-TVRM-R1-M01~Cisco~WS-C3650-24TS-S~Canada~QC~Noovo TX~NoovoTX MPLS~TX~FDO2001E2CZ~None
+10.200.127.106~vpn-xmit-KgstnCKLCFG40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~ON~Kingston Radio~VPN Connected~TX~None~None
+10.200.115.194~KGNTX-NET-HUT-R1-S01~Cisco~WS-C2960X-24TS-L~Canada~ON~Kingston Radio~VPN Connected~TX~FCW2117B4AD~None
+10.125.203.162~QUTX-NET-HUT-R1-M01~Cisco~WS-C3650-24TS-S~Canada~PQ~Noovo TX~MPLS Quebec~TX~FDO2341M30M~None
+10.125.203.146~SAGTX-NET-HUT-R1-M01~Cisco~WS-C3650-24TS-S~Canada~PQ~Noovo TX~MPLS Quebec~TX~FDO1902E1X7~None
+10.123.33.6~AG-NER-DMFCTRL-ClusterVIP~Big Switch Networks~Big-Switch-Controller~Canada~None~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.123.33.4~AG-NER-DMFCTRL-01~Big Switch Networks~Big-Switch-Controller~Canada~None~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.123.33.5~AG-VM-DMFCTRL-02~Big Switch Networks~Big-Switch-Controller~Canada~None~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.123.28.13~AG-NER-P07-DMFANA-01~Big Switch Networks~Big-Switch-Controller~Canada~None~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.123.33.28~AG-NER-G01-DMF01~Open Compute Project~DCS-7050CX3-32S~Canada~ON~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.123.33.29~AG-EER-B03-DMF01~Open Compute Project~DCS-7050CX3-32S~Canada~ON~Agincourt~Agincourt Homed~NAC/Log/Ntw-FW_mgm~None~None
+10.200.127.111~vpn-xmit-SudCICSFG40f3G4G.production~Fortinet, Inc.~Fortigate fg40FI~Canada~ON~Sudbury~VPN Connected~TX~None~None
+10.200.116.130~SUDR-XMIT-S01~Cisco~WS-C2960S-24PS-L~Canada~ON~Sudbury~None~TX~FOC1801V05G~None
+10.124.164.5~SU-AXIA-RCER-R2-M01~Cisco~WS-C3850-48P-L~Canada~ON~Sudbury~Agincourt Homed~AXIA~FOC1809U0M7~None
+10.200.127.67~vpn-xmit-LdnCJBXFG60e.production~Fortinet, Inc.~Fortigate 60E~Canada~ON~London~VPN Connected~TX~None~None
+10.200.127.109~vpn-xmit-BrockCFJRFG40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~ON~Brockville~VPN Connected~TX~None~None
+10.200.116.34~CFJR-TX-HUT-S01~Cisco~WS-C2960X-24TS-L~Canada~ON~Brockville~VPN Connected~TX~FCW2117B45A~None
+10.125.8.94~1755-ENG-RC-R55-L03~Arista Networks~CCS-755-CH~Canada~PQ~1755~Montreal-Homed~Green ENG~HNN21085118~4.26.4M
+10.125.8.97~1755-ENG-RC-R56-L03~Arista Networks~CCS-755-CH~Canada~PQ~1755~Montreal-Homed~Green ENG~HNN21085119~4.26.4M
+10.125.8.22~MO-NTS-ORION~Windows~Windows 2019 Server~Canada~PQ~1755~Montreal-Homed~Management~None~None
+10.125.203.130~MTRL-NET-CBC-R1-M01~Cisco~WS-C3650-24TS-S~Canada~PQ~Noovo TX~NoovoTX MPLS~TX~FDO1930P0XN~None
+10.200.127.69~vpn-xmit-TorRadDuplxFG60e.production~Fortinet, Inc.~Fortigate 60E~Canada~ON~Toronto TX~VPN Connected~TX~None~None
+10.200.122.158~CLC-Fex201-OOB~Unknown~Unknown~Canada~None~Remote Production Kits~None~CLC Winnipeg~None~None
+10.125.8.69~1755-ENG-SE11-R45-S02~Arista Networks~DCS-7020TR-48~Canada~QC~1755~Montreal-Homed~Green ENG~JPE18453509~4.20.11M
+10.125.8.70~1755-ENG-SE11-R46-S02~Arista Networks~DCS-7020TR-48~Canada~QC~1755~Montreal-Homed~Green ENG~JPE18453471~4.20.11M
+10.125.8.68~1755-ENG-SE11-R46-S01~Arista Networks~DCS-7280SE-64~Canada~QC~1755~Montreal-Homed~Green ENG~JPE15430526~4.20.11M
+10.124.8.42~QU-AXIA-CER-R415-S05~Cisco~WS-C3850-48P-L~Canada~ON~Queen~Agincourt Homed~AXIA~FCW2049C15P~None
+10.96.16.5~SA-SH-RK1-SW1~Cisco~WS-C3850-48P~Canada~SK~Saskatoon~Calgary-Homed~Engineering~FOC1739X0CH~None
+10.125.114.12~1717-AXIA-TECH-R10-S01~Cisco~WS-C3850-48P-L~Canada~PQ~1717~Montreal-Homed~AXIA~FCW2029C07A~None
+10.125.114.13~1717-AXIA-TECH-R10-S02~Cisco~WS-C3850-48P-E~Canada~PQ~1717~Montreal-Homed~AXIA~FOC2029X04X~None
+10.124.8.43~QU-AXIA-250-R01-SS03~Cisco~WS-C3850-48P-E~Canada~ON~Queen~Agincourt Homed~AXIA~FOC2246U0WE~None
+10.14.18.236~QU-IT-1ST299-R2-S09~Cisco~WS-C3560CG-8PC-S~Canada~ON~Queen~Agincourt Homed~IT Distribution~FOC1604W2D2~None
+10.122.17.10~CA-ENG-RR-R41-S01~Cisco~WS-C3560G-24TS-S~Canada~AB~Calgary~Calgary-Homed~Engineering~FOC1126Y326~None
+10.200.127.53~vpn-prod-DomeRVFG40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~AB~Dome Rocky View~VPN Connected~Network~None~None
+10.200.96.66~DMRV-NET-PR-R1-S01~Cisco~WS-C2960X-24TS-L~Canada~AG~Dome Rocky View~VPN Connected~Network~FCW2109A4XK~None
+172.21.1.86~AG-MER-C16-S01-BLADE3-PIZZA~Cisco~WS-C3560X-48PF-S~Canada~ON~Agincourt~None~Engineering~FDO1548R01D~None
+10.124.8.45~QU-CER-R76-L01~Arista Networks~DCS-7050SX3-48YC8~Canada~ON~Queen~None~Spine/Leaf~SGD20193602~4.26.6M
+10.124.8.46~QU-CER-R76-L02~Arista Networks~DCS-7050SX3-48YC8~Canada~ON~Queen~None~Spine/Leaf~SGD20235459~4.26.6M
+10.200.127.68~vpn-xmit-LdnCJBKFG60e.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~London~VPN Connected~TX~None~None
+10.200.127.104~vpn-xmit-SteHyacTXFG60e.production~Fortinet, Inc.~Fortinet, Inc.~Canada~PQ~St Hyacinthe Radio~VPN Connected~TX~None~None
+10.200.127.105~vpn-xmit-StJeanFG60e.production~Fortinet, Inc.~Fortinet, Inc.~Canada~ON~St Jean Radio~VPN Connected~TX~None~None
+10.254.0.46~ED-NET-CER-R7-M01~Cisco~WS-C4507R+E~Canada~None~Edmonton~Calgary-Homed~Network~FXS1830Q27D~None
+10.60.16.205~SU-ER-C01-TB01~Arista Networks~DCS-7020SR-24C2~Canada~ON~Sudbury~Agincourt Homed~WAN~JPE21261397~None
+10.125.8.151~1755-ICN-FG3600C-SE21-R15-FW01~Fortinet, Inc.~FortiGate 3600C~Canada~Quebec~1755~Montreal-Homed~Engineering~None~None
+10.125.8.152~1755-ICN-FG3600C-SE21-R16-FW02~Fortinet, Inc.~FortiGate 3600C~Canada~Ontario~1755~None~Engineering~None~None
+10.200.127.143~vpn-xmit-StJohnsFG40f.production~Fortinet, Inc.~Fortigate fgt40F~Canada~NF~St Johns~VPN Connected~Network~None~None
+10.200.116.99~NTV-WAN-TELR-R2-TA01~Arista Networks~DCS-7020SR-24C2~Canada~NF~St Johns~VPN Connected~WAN~JPE19390138~None
+10.200.116.100~NTV-WAN-TELR-R2-TB02~Arista Networks~DCS-7020SR-24C2~Canada~NF~St Johns~VPN Connected~WAN~JPE21261404~None
+10.123.28.161~AG-PA5260-NER-G01-FW01~Palo Alto Networks~PA-5260~Canada~None~Agincourt DMZ~Agincourt Homed~DMZ~012501008335~None
+10.123.28.162~AG-PA5260-EER-B03-FW02~Palo Alto Networks~PA-5260~Canada~None~Agincourt DMZ~Agincourt Homed~DMZ~012501008330~None
+10.122.17.12~CA-ICN-FG3600C-R34-FW02~Fortinet, Inc.~FortiGate 3600C~Canada~None~Calgary~Calgary-Homed~Engineering~None~None
+10.122.17.11~CA-ICN-FG3600C-R33-FW01~Fortinet, Inc.~FortiGate 3600C~Canada~Ontario~Calgary~Calgary-Homed~Engineering~None~None
+10.125.164.43~HA-NET-PNK-RKA-S03.bellmedia~Cisco~WS-C3650-48PS~Canada~NS~Halifax~Halifax-Homed~Network~FDO2034Q0N1~None
+10.6.16.53~TOAG-SVF-NDC-S08-SW04-NEW~Cisco~WS-C3560G-48PS-S~Canada~ON~Agincourt~Agincourt Homed~Engineering Server Farm~FOC1426Y6AF~None
+10.254.0.18~SU-NET-DR-D8-M01~Arista Networks~CCS-755-CH~Canada~ON~Sudbury~Agincourt Homed~Network~HNN20515044~None
+10.123.32.36~AG-NER-S03-5520WLC01-RdnIP~Unknown~Unknown~Canada~Ontario~Agincourt DMZ~Agincourt Homed~Wireless~None~None
+10.122.228.16~ED-NET-CER-R20-S01~Cisco~WS-C3750X-24T-S~Canada~None~Edmonton~Calgary-Homed~Network~FDO1550R232~12.2(53r)SE2
+10.200.144.5~SOUQ-TECH-R1-S01~Arista Networks~DCS-7050TX-64~Qatar~None~Qatar~Agincourt Homed~Network~SSJ17111423~None
+10.123.28.102~AG-PAM600-NER-F12-Log~Palo Alto Networks~M-600~Canada~None~Agincourt DMZ~Agincourt Homed~DMZ~017507004255~None
+10.1.255.9~AG-NER-S03-AnchorWLC1-RdnIP~Unknown~Unknown~Canada~None~Agincourt DMZ~Agincourt Homed~Wireless~None~None
+10.1.255.11~AG-NER-S03-AnchorWLC2-RdnIP~Unknown~Unknown~Canada~None~Agincourt DMZ~Agincourt Homed~Wireless~None~None
+10.123.28.11~AG-Mgmt-NER-S02-SW05~Cisco~WS-C3560X-48T-S~Canada~None~Agincourt~None~Management~FDO1752P0TB~None
+10.200.127.154~vpn-prod-FIFARem1FG60ePOE.production~Fortinet, Inc.~Fortinet, Inc.~Qatar~None~Qatar~VPN Connected~Network~None~None
+10.200.127.155~vpn-prod-FIFARem2FG60ePOE.production~Fortinet, Inc.~Fortinet, Inc.~Qatar~None~Qatar~VPN Connected~Network~None~None
+10.125.162.8~HA-NET-UPLNK-R12-S01~Cisco~WS-C3560X-48PF-S~Canada~None~Halifax~Halifax-Homed~Network~FDO1643X20D~None
+10.144.16.34~HATV-IT-PINKMDC-SW04~Cisco~WS-C3560-48TS-S~Canada~None~Halifax~Halifax-Homed~Network~CAT0919N2B3~None
+10.123.36.65~AG-NER-G01-DMFSN01~Big Switch Networks~Big-Switch-Controller~Canada~ON~Agincourt~Other~Management~None~None
+10.122.232.11~ED-CER-R9-FG81F-FW01~Fortinet, Inc.~Fortigate fgt81F~Canada~None~Edmonton~Calgary-Homed~Spine/Leaf~None~None
+10.122.232.12~ED-CER-R9-FG81F-FW02~Fortinet, Inc.~Fortigate fgt81F~Canada~None~Edmonton~Calgary-Homed~Spine/Leaf~None~None
+10.124.172.5~CKNY-TXHUT-R1-S01~Cisco~WS-C3650-48PS-E~None~ON~Sudbury~Agincourt Homed~TX~FDO2310F0P4~None
+10.91.13.5~WNDR-AXIA-BPR-R3-SS01~Cisco~WS-C3850-48P-L~None~ON~Windsor Radio~MPLS Central~AXIA~FOC1845X0D8~None
+10.200.177.193~XMT-Severn2~Unknown~Unknown~None~None~Severn Falls TX~VPN Connected~TX~None~None
+10.200.177.195~SEVERN-SW01~Cisco~WS-C2960G-24TC-L~None~ON~Severn Falls TX~None~TX~FOC1423Y5CF~None
