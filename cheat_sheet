@@ -1,0 +1,15 @@
+git add <file_name>
+git commit -m "comment"
+
+git log
+
+git checkout <code>
+git checkout -b <branch_name>
+
+
+git remote add origin https://github.com/akhanusa/python_scripts.git
+git remote -v
+git push -u origin master
+git pull -u origin master
+git ls-tree -r master --name-only
+git rm --cached *
