@@ -17,5 +17,3 @@ git config --global credential.helper store
 -----------------------------------------------------------------------------------------------------------------------
 git ls-tree -r master --name-only
 git rm --cached *
-
-
