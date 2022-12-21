@@ -6,10 +6,16 @@ git log
 git checkout <code>
 git checkout -b <branch_name>
 
-
 git remote add origin https://github.com/akhanusa/python_scripts.git
 git remote -v
 git push -u origin master
 git pull -u origin master
+
+To allow the login credentials to save of the local machine upon first successfull login, use the following git command:
+-----------------------------------------------------------------------------------------------------------------------
+git config --global credential.helper store
+-----------------------------------------------------------------------------------------------------------------------
 git ls-tree -r master --name-only
 git rm --cached *
+
+
